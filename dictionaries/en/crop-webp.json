@@ -1,0 +1,117 @@
+{
+  "breadcrumb": {
+    "home": "Home",
+    "imageCropper": "Image Cropper",
+    "cropWebp": "Crop WebP"
+  },
+  "hero": {
+    "title": "Free Online",
+    "titleHighlight": "WebP Cropper",
+    "description": "Crop images to WebP format—smaller files with transparency support. Fast, free, and privacy-focused."
+  },
+  "ui": {
+    "alerts": {
+      "selectImageFile": "Please select an image file",
+      "fileSizeLimit": "File size must be less than 10MB",
+      "selectLargerArea": "Please select a larger area to crop",
+      "cropFailed": "Failed to crop image. Please try again."
+    },
+    "dropzone": {
+      "dropYourImageHere": "Drop Your Image Here",
+      "orClickBrowse": "or click to browse a file",
+      "maxSizeHint": "Max 10MB • WebP output with transparency"
+    },
+    "replace": {
+      "title": "Replace image",
+      "orDropNew": "or drop a new file"
+    },
+    "settings": {
+      "aspectRatio": "Aspect ratio",
+      "lockAspect": "Lock aspect when selecting",
+      "outputFormat": "Output format",
+      "webpModernTitle": "WebP (Modern)",
+      "webpModernDesc": "Best compression + transparency"
+    },
+    "quality": {
+      "panelTitle": "Quality Settings",
+      "qualityLabel": "Quality",
+      "smallerFile": "Smaller file",
+      "betterQuality": "Better quality"
+    },
+    "actions": {
+      "delete": "Delete",
+      "cropping": "Cropping...",
+      "startCrop": "Start Crop",
+      "downloadWebp": "Download WebP",
+      "resetSelection": "Reset Selection",
+      "croppedResult": "Cropped Result",
+      "size": "Size"
+    },
+    "images": {
+      "uploadAlt": "Upload",
+      "croppedAlt": "Cropped"
+    },
+    "howTo": {
+      "title": "How To Crop WebP Images Online",
+      "step1Title": "Upload Any Image",
+      "step1Desc": "Drag a JPEG, PNG, or any other image into the editor. It loads right in your browser, nothing gets uploaded.",
+      "step2Title": "Frame Your Crop",
+      "step2Desc": "Choose a preset ratio or go freeform, then drag the handles to cover exactly the region you want to keep.",
+      "step3Title": "Save as WebP",
+      "step3Desc": "Hit crop, check the preview, and download a compact WebP file ready for your website or app.",
+      "tip": "TIP:",
+      "tipText": "WebP at 80% quality is often 30% smaller than JPG at the same visual quality!"
+    },
+    "why": {
+      "title": "Why Crop to WebP?",
+      "p1": "WebP gives you the compression punch of JPEG and the transparency of PNG rolled into a single file. That means one format handles product photos, hero banners, logos, and icons without forcing you to pick between small files and see-through backgrounds.",
+      "p2": "Cropping removes the parts of the image nobody looks at anyway, so the WebP encoder has fewer pixels to compress. The result is an even smaller file that loads faster and helps your Core Web Vitals scores. Google Lighthouse specifically flags non-WebP images as an optimisation opportunity, so switching pays off in search rankings too.",
+      "b1": "One format for everything: photos, graphics, and transparent overlays all in a lighter package.",
+      "b2": "The quality slider lets you fine-tune the trade-off between visual sharpness and file weight.",
+      "b3": "Faster page loads translate directly into better engagement, lower bounce rates, and higher ad revenue."
+    },
+    "features": {
+      "title": "Key Features",
+      "presetRatiosTitle": "Preset Ratios",
+      "presetRatiosDesc": "9 presets + free crop + lock",
+      "transparencyTitle": "Transparency",
+      "transparencyDesc": "Alpha channel preserved",
+      "privateTitle": "100% Private",
+      "privateDesc": "Browser-only processing",
+      "compressionTitle": "Best Compression",
+      "compressionDesc": "25-35% smaller than JPG"
+    },
+    "proTips": {
+      "title": "Pro Tips for WebP Cropping",
+      "t1": "WebP is purpose-built for the web, so use it for hero images, product cards, blog thumbnails, and anything else that appears above the fold on your site.",
+      "t2": "For photographs, 75-85% quality produces files that look sharp on retina screens. Push to 90%+ only for graphics with hard edges, flat colours, or text overlays where compression artefacts would be obvious.",
+      "t3": "Cropping a PNG with a transparent background? WebP keeps the alpha channel intact, so the output will be transparent and dramatically smaller than the original PNG.",
+      "t4": "If you still need to support Safari 13 or IE users, serve a JPEG fallback inside a picture tag. For everyone else, WebP just works."
+    },
+    "faqTitle": "Frequently Asked Questions"
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How much smaller is WebP compared to JPEG for the same crop?",
+        "answer": "In practice, a WebP file at 80% quality is roughly 25-35% lighter than a JPEG encoded at the same perceived sharpness. The savings are even bigger for images with large flat-colour regions or gradients, because WebP's prediction model handles those patterns more efficiently."
+      },
+      {
+        "question": "Does WebP keep transparency when I crop a PNG?",
+        "answer": "Yes. If the source image has an alpha channel, the cropped WebP output preserves it. You get the see-through background of PNG at a fraction of the file weight. JPEG sources have no transparency to carry over, so the result is a solid-background WebP."
+      },
+      {
+        "question": "Will Lighthouse flag WebP images differently than JPEG?",
+        "answer": "Lighthouse explicitly recommends serving images in next-gen formats like WebP. Switching your cropped assets to WebP can improve your 'Serve images in next-gen formats' audit score and reduce Largest Contentful Paint time."
+      },
+      {
+        "question": "Are there any browsers that still cannot display WebP?",
+        "answer": "As of 2024, every major browser supports WebP natively, including Safari 14 and later. The only holdouts are very old mobile browsers and Internet Explorer, which together account for well under one percent of global traffic."
+      },
+      {
+        "question": "Is anything sent to a server when I crop here?",
+        "answer": "Nothing at all. The crop and WebP encoding happen entirely inside your browser through a local WebAssembly library. Your image never leaves your device, and closing the tab wipes every trace from memory."
+      }
+    ]
+  }
+}

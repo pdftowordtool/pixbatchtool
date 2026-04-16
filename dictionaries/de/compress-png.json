@@ -1,0 +1,129 @@
+{
+  "breadcrumb": {
+    "home": "Startseite",
+    "compressImage": "Bild Komprimieren",
+    "compressPng": "PNG Komprimieren"
+  },
+  "hero": {
+    "title": "Kostenloser Online",
+    "titleHighlight": "PNG Komprimierer",
+    "description": "Reduziere PNG-Dateigroesse bei erhaltener Transparenz und Qualitaet. Perfekt fuer Logos, Icons und Grafiken."
+  },
+  "dropzone": {
+    "addMore": "Weitere PNG-Bilder hinzufuegen",
+    "orDrop": "oder PNG-Dateien ablegen",
+    "dropHere": "PNG-BILDER HIER ABLEGEN",
+    "orClick": "oder klicken, um PNG-Dateien auszuwaehlen",
+    "browse": "PNG-Dateien Auswaehlen",
+    "maxSize": "Max. 5MB pro Datei - Bis zu 10 PNG-Bilder pro Upload"
+  },
+  "qualitySettings": {
+    "title": "Qualitaetseinstellungen",
+    "default": "(Standard ist 85%)",
+    "smallerSize": "Kleinere Datei",
+    "betterQuality": "Bessere Qualitaet",
+    "description": "PNG-Komprimierung ist verlustfrei. Die Qualitaetseinstellung optimiert die Kompression ohne sichtbaren Verlust.",
+    "presets": {
+      "web": "Web",
+      "standard": "Standard",
+      "high": "Hoch",
+      "max": "Max"
+    }
+  },
+  "privacy": {
+    "title": "Daten und Datenschutz",
+    "p1": "Deine Bilder werden sofort verarbeitet. Originale bleiben im Browser und Ergebnisse werden direkt bereitgestellt.",
+    "p2": "Keine dauerhafte Speicherung: Serverpuffer werden nur kurz zur Verarbeitung genutzt.",
+    "p3": "Keine Analyse von Bildinhalten; nur anonyme Leistungswerte koennen aggregiert werden.",
+    "p4": "Du kannst den Tab nach Abschluss schliessen. Waehren der Verarbeitung bitte offen lassen.",
+    "notice": "Lokale Verarbeitung + temporaer serverseitig, keine Dateispeicherung.",
+    "details": "Details"
+  },
+  "status": {
+    "compressing": "Komprimierung...",
+    "errorCompressing": "Fehler bei der Bildkomprimierung",
+    "allDone": "Fertig!",
+    "imagesCompressed": "Bilder komprimiert",
+    "imageCompressed": "Bild komprimiert",
+    "settingsChanged": "Einstellungen wurden geaendert!",
+    "settingsChangedDesc": "Klicke auf Neue Einstellungen anwenden, um PNG-Bilder mit neuer Qualitaet erneut zu komprimieren."
+  },
+  "actions": {
+    "applyNewSettings": "Neue Einstellungen Anwenden",
+    "downloadZip": "ZIP Herunterladen",
+    "clearAll": "Alles Loeschen",
+    "download": "Herunterladen"
+  },
+  "summary": {
+    "title": "Komprimierungsuebersicht",
+    "spaceSaved": "Gesparter Speicher",
+    "filesProcessed": "Verarbeitete Dateien",
+    "sizeReduced": "Groessenreduktion",
+    "original": "Original",
+    "compressed": "Komprimiert",
+    "saved": "gespart"
+  },
+  "sections": {
+    "howTo": {
+      "title": "So Komprimierst Du PNG",
+      "step1Title": "PNG-Dateien Hochladen",
+      "step1Desc": "Ziehe Grafiken oder Icons hierher. Transparente Alpha-Kanaele werden voll unterstuetzt.",
+      "step2Title": "Verlustfreie Ausgabe Optimieren",
+      "step2Desc": "Passe den Qualitaetsregler an, um die beste Dateigroesse bei hoher Pixeltreue zu erreichen.",
+      "step3Title": "Herunterladen",
+      "step3Desc": "Lade bandbreitenfreundliche PNGs sofort herunter. Ideal fuer klare UI-Elemente."
+    },
+    "makeSmaller": {
+      "title": "Mach Dein PNG Kleiner Ohne Qualitaetsverlust",
+      "card1Title": "Transparenz Erhalten",
+      "card1Desc": "Komprimiere PNGs ohne Verlust des Alpha-Kanals, ideal fuer Logos und Overlays.",
+      "card2Title": "Scharfe UI-Assets",
+      "card2Desc": "Erhalte pixelgenaue Schaerfe fuer High-DPI-Displays und komplexe Interfaces.",
+      "card3Title": "SEO Verbessern",
+      "card3Desc": "Kleinere PNGs verbessern Ladezeiten und Core Web Vitals."
+    },
+    "why": {
+      "title": "Warum PNG Komprimieren?",
+      "p1": "Unoptimierte PNGs sind oft sehr gross und verlangsamen mobile Seiten. Komprimierung spart Bandbreite bei gleichbleibender Klarheit und Transparenz.",
+      "tipLabel": "Tipp:",
+      "tipText": "Setze feste width- und height-Attribute fuer PNGs, um Cumulative Layout Shift (CLS) zu vermeiden."
+    },
+    "qualityGuide": {
+      "title": "Qualitaet vs Groesse",
+      "intro": "PNG-Komprimierung ist verlustfrei. Die Qualitaetseinstellung beeinflusst die Kompressionseffizienz.",
+      "demoQuality": "Demo-Qualitaet",
+      "samplePhoto": "Beispiel: 2MB Foto",
+      "noSavings": "Keine Einsparung",
+      "qualityRecommendations": "Qualitaetsempfehlungen",
+      "maximumQuality": "Maximale Qualitaet",
+      "maximumQualityDesc": "Detailreiche Grafiken - Komplexe Illustrationen - Minimale Komprimierung",
+      "recommended": "Empfohlen",
+      "recommendedDesc": "Logos - UI-Icons - Beste Balance fuer die meisten Faelle",
+      "highCompression": "Hohe Komprimierung",
+      "highCompressionDesc": "Webgrafiken - Thumbnails - Prioritaet auf Dateigroesse",
+      "maxCompression": "Maximale Komprimierung",
+      "maxCompressionDesc": "Nur Vorschau - Moegliche Artefakte - Nicht empfohlen"
+    },
+    "faqTitle": "Haeufig Gestellte Fragen"
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Macht PNG-Komprimierung das Bild unscharf?",
+        "answer": "Nein. PNG-Komprimierung ist in der Regel verlustfrei und entfernt nur redundante Daten."
+      },
+      {
+        "question": "Soll ich PNG oder JPEG fuer meine Website nutzen?",
+        "answer": "PNG fuer Logos, UI und Transparenz. Fuer Fotos liefern JPEG oder WebP meist kleinere Dateien."
+      },
+      {
+        "question": "Wie verbessert PNG-Komprimierung mein SEO?",
+        "answer": "Kleinere Dateien verbessern Ladezeiten und Metriken wie LCP, was sich positiv auf SEO auswirkt."
+      },
+      {
+        "question": "Bleibt der Hintergrund nach der Komprimierung transparent?",
+        "answer": "Ja. Der PNG-Alpha-Kanal bleibt erhalten."
+      }
+    ]
+  }
+}

@@ -1,0 +1,210 @@
+{
+  "optimizeImage": {
+    "title": "Optimize Images Online Free - Compress & Reduce File Size",
+    "description": "Free online image optimizer. Compress JPG, PNG, WebP, and AVIF images without quality loss. Reduce file size by up to 80% for faster website loading.",
+    "ogTitle": "Optimize Images Online Free - Compress & Reduce File Size",
+    "ogDescription": "Free online image optimizer. Compress JPG, PNG, WebP, and AVIF images without quality loss. Reduce file size by up to 80%.",
+    "twitterTitle": "Optimize Images Online Free",
+    "twitterDescription": "Free online image optimizer. Compress images without quality loss."
+  },
+  "compressImage": {
+    "title": "Compress Images Online Free - Reduce JPG, PNG, WebP Size",
+    "description": "Free online image compressor. Reduce file size of JPG, PNG, WebP, GIF images by up to 80% without losing quality. Bulk compress multiple images at once.",
+    "ogTitle": "Compress Images Online Free - Reduce File Size",
+    "ogDescription": "Free online image compressor. Reduce file size by up to 80% without losing quality. Bulk compress multiple images.",
+    "twitterTitle": "Compress Images Online Free",
+    "twitterDescription": "Reduce image file size by up to 80% without losing quality."
+  },
+  "imageResizer": {
+    "title": "Resize Images Online Free - Bulk Image Resizer Tool",
+    "description": "Free online image resizer. Resize multiple images by pixels, percentage, or custom dimensions. Maintain aspect ratio and quality. Bulk resize JPG, PNG, WebP.",
+    "ogTitle": "Resize Images Online Free - Bulk Image Resizer",
+    "ogDescription": "Resize multiple images by pixels or percentage. Maintain aspect ratio and quality.",
+    "twitterTitle": "Resize Images Online Free",
+    "twitterDescription": "Bulk resize images by pixels or percentage while maintaining quality."
+  },
+  "imageConverter": {
+    "title": "Convert Images Online Free - JPG PNG WebP AVIF Converter",
+    "description": "Free online image converter. Convert between JPG, PNG, WebP, and AVIF formats. Bulk convert multiple images instantly. No upload limits, 100% private.",
+    "ogTitle": "Convert Images Online Free - Image Format Converter",
+    "ogDescription": "Convert between JPG, PNG, WebP, and AVIF formats. Bulk convert multiple images instantly.",
+    "twitterTitle": "Convert Images Online Free",
+    "twitterDescription": "Bulk convert images between JPG, PNG, WebP, and AVIF formats."
+  },
+  "cropImage": {
+    "title": "Crop Images Online Free - Bulk Image Cropper Tool",
+    "description": "Free online image cropper. Crop images with custom aspect ratios and export as JPG, PNG, WebP, or AVIF. Fast, private, and browser-based.",
+    "ogTitle": "Crop Images Online Free - Bulk Image Cropper",
+    "ogDescription": "Crop images with custom aspect ratios and export in modern formats.",
+    "twitterTitle": "Crop Images Online Free",
+    "twitterDescription": "Crop images with custom aspect ratios in your browser."
+  },
+  "cropPng": {
+    "title": "Crop PNG Images Online Free - PNG Cropper Tool",
+    "description": "Free online PNG cropper. Crop PNG images while preserving transparency. Fast, private, and browser-based.",
+    "ogTitle": "Crop PNG Images Online Free",
+    "ogDescription": "Crop PNG images while preserving transparency with precise selection.",
+    "twitterTitle": "Crop PNG Images Online Free",
+    "twitterDescription": "Crop PNG images while preserving transparency in your browser."
+  },
+  "cropWebp": {
+    "title": "Crop WebP Images Online Free - WebP Cropper Tool",
+    "description": "Free online WebP cropper. Crop images and export as WebP for smaller file sizes and fast web loading. Private and browser-based.",
+    "ogTitle": "Crop WebP Images Online Free",
+    "ogDescription": "Crop images and download as WebP for smaller file sizes and faster web performance.",
+    "twitterTitle": "Crop WebP Images Online Free",
+    "twitterDescription": "Crop images and export as WebP directly in your browser."
+  },
+  "exifViewer": {
+    "title": "EXIF Viewer Online Free - View Image Metadata",
+    "description": "Free online EXIF viewer. View image metadata including camera settings, GPS location, date taken, and more. Supports JPG, PNG, WebP, TIFF formats.",
+    "ogTitle": "EXIF Viewer Online Free - View Image Metadata",
+    "ogDescription": "View image metadata including camera settings, GPS location, date taken, and more.",
+    "twitterTitle": "EXIF Viewer Online Free",
+    "twitterDescription": "View photo metadata - camera settings, GPS, date, and more."
+  },
+  "removeExif": {
+    "title": "Remove EXIF Data Online Free - Strip Image Metadata",
+    "description": "Free online EXIF remover. Remove metadata from images including GPS location, camera info, and personal data. Protect your privacy before sharing photos.",
+    "ogTitle": "Remove EXIF Data Online Free - Strip Image Metadata",
+    "ogDescription": "Remove metadata from images including GPS location and personal data. Protect your privacy.",
+    "twitterTitle": "Remove EXIF Data Online Free",
+    "twitterDescription": "Strip metadata from photos to protect your privacy."
+  },
+  "compressPng": {
+    "title": "Compress PNG Images Online Free - Reduce PNG File Size",
+    "description": "Free online PNG compressor. Reduce PNG file size while preserving transparency. Compress multiple PNG images instantly.",
+    "ogTitle": "Compress PNG Images Online Free",
+    "ogDescription": "Reduce PNG file size while preserving transparency with fast bulk compression.",
+    "twitterTitle": "Compress PNG Images Online Free",
+    "twitterDescription": "Reduce PNG file size while preserving transparency."
+  },
+  "compressJpg": {
+    "title": "Compress JPG Images Online Free - Reduce JPEG File Size",
+    "description": "Free online JPG compressor. Reduce JPEG file size while maintaining quality. Compress multiple JPG images instantly.",
+    "ogTitle": "Compress JPG Images Online Free",
+    "ogDescription": "Reduce JPEG file size with fast bulk compression while preserving visual quality.",
+    "twitterTitle": "Compress JPG Images Online Free",
+    "twitterDescription": "Reduce JPEG file size while maintaining quality."
+  },
+  "resizePng": {
+    "title": "Resize PNG Images Online Free - PNG Resizer Tool",
+    "description": "Free online PNG resizer. Resize PNG images with transparency preserved. Bulk resize multiple PNG files by pixels or percentage.",
+    "ogTitle": "Resize PNG Images Online Free",
+    "ogDescription": "Resize PNG images with transparency preserved. Bulk resize multiple PNG files.",
+    "twitterTitle": "Resize PNG Images Online Free",
+    "twitterDescription": "Bulk resize PNG images while preserving transparency."
+  },
+  "resizeJpg": {
+    "title": "Resize JPG Images Online Free - JPEG Resizer Tool",
+    "description": "Free online JPG resizer. Resize JPEG images by pixels, percentage, or custom dimensions. Bulk resize multiple JPG files while maintaining quality.",
+    "ogTitle": "Resize JPG Images Online Free",
+    "ogDescription": "Resize JPEG images by pixels or percentage. Bulk resize multiple JPG files.",
+    "twitterTitle": "Resize JPG Images Online Free",
+    "twitterDescription": "Bulk resize JPG images while maintaining quality."
+  },
+  "resizeWebp": {
+    "title": "Resize WebP Images Online Free - WebP Resizer Tool",
+    "description": "Free online WebP resizer. Resize WebP images by pixels, percentage, or custom dimensions. Bulk resize multiple WebP files while maintaining quality.",
+    "ogTitle": "Resize WebP Images Online Free",
+    "ogDescription": "Resize WebP images by pixels or percentage. Bulk resize multiple WebP files.",
+    "twitterTitle": "Resize WebP Images Online Free",
+    "twitterDescription": "Bulk resize WebP images while maintaining quality."
+  },
+  "pngConverter": {
+    "title": "Convert to PNG Online Free - Image to PNG Converter",
+    "description": "Free online PNG converter. Convert JPG, WebP, AVIF, GIF, BMP to PNG format with transparency support. Bulk convert multiple images instantly.",
+    "ogTitle": "Convert to PNG Online Free",
+    "ogDescription": "Convert JPG, WebP, AVIF, GIF, BMP to PNG format with transparency support. Bulk convert multiple images.",
+    "twitterTitle": "Convert to PNG Online Free",
+    "twitterDescription": "Bulk convert images to PNG format with transparency support."
+  },
+  "jpgConverter": {
+    "title": "Convert to JPG Online Free - Image to JPEG Converter",
+    "description": "Free online JPG converter. Convert PNG, WebP, AVIF, GIF to JPG format. Bulk convert multiple images to JPEG instantly with quality control.",
+    "ogTitle": "Convert to JPG Online Free",
+    "ogDescription": "Convert PNG, WebP, AVIF to JPG format. Bulk convert multiple images to JPEG.",
+    "twitterTitle": "Convert to JPG Online Free",
+    "twitterDescription": "Bulk convert images to JPEG format with quality control."
+  },
+  "webpConverter": {
+    "title": "Convert to WebP Online Free - Image to WebP Converter",
+    "description": "Free online WebP converter. Convert JPG, PNG, AVIF to WebP format for smaller file sizes. Bulk convert multiple images instantly for faster web loading.",
+    "ogTitle": "Convert to WebP Online Free",
+    "ogDescription": "Convert JPG, PNG to WebP format for smaller file sizes. Bulk convert multiple images.",
+    "twitterTitle": "Convert to WebP Online Free",
+    "twitterDescription": "Bulk convert images to WebP for faster web loading."
+  },
+  "rotateFlipImage": {
+    "title": "Rotate & Flip Images Online Free - Image Rotator Tool",
+    "description": "Free online image rotator and flipper. Rotate images 90°, 180°, 270° and flip horizontally or vertically. Fast, private, browser-based.",
+    "ogTitle": "Rotate & Flip Images Online Free - Image Rotator Tool",
+    "ogDescription": "Rotate images 90°, 180°, 270° and flip horizontally or vertically. Fast, private, browser-based.",
+    "twitterTitle": "Rotate & Flip Images Online Free",
+    "twitterDescription": "Rotate and flip images instantly in your browser."
+  },
+  "about": {
+    "title": "About PixBatch - Free Online Bulk Image Editor",
+    "description": "Learn about PixBatch, a free online bulk image editor focused on speed, privacy, and high-quality browser-based image tools.",
+    "ogTitle": "About PixBatch",
+    "ogDescription": "Learn about PixBatch, our mission, and why creators trust our private browser-based image tools.",
+    "twitterTitle": "About PixBatch",
+    "twitterDescription": "Meet PixBatch and our privacy-first approach to image processing."
+  },
+  "contact": {
+    "title": "Contact Us - PixBatch Support",
+    "description": "Get in touch with PixBatch for support, feedback, and questions about our private browser-based image tools.",
+    "ogTitle": "Contact PixBatch",
+    "ogDescription": "Reach the PixBatch team for support and feedback.",
+    "twitterTitle": "Contact PixBatch",
+    "twitterDescription": "Need help with PixBatch? Contact our team."
+  },
+  "privacyPolicy": {
+    "title": "Privacy Policy - PixBatch",
+    "description": "PixBatch privacy policy. Learn how we protect your data while processing images securely in your browser.",
+    "ogTitle": "Privacy Policy - PixBatch",
+    "ogDescription": "Learn how PixBatch protects your privacy with browser-based image processing.",
+    "twitterTitle": "Privacy Policy - PixBatch",
+    "twitterDescription": "Read how PixBatch handles privacy and data protection."
+  },
+  "terms": {
+    "title": "Terms of Service - PixBatch",
+    "description": "Read PixBatch terms and conditions for using our online image tools.",
+    "ogTitle": "Terms of Service - PixBatch",
+    "ogDescription": "Read PixBatch terms of service and conditions.",
+    "twitterTitle": "Terms of Service - PixBatch",
+    "twitterDescription": "Understand the terms for using PixBatch tools."
+  },
+  "disclaimer": {
+    "title": "Disclaimer - PixBatch",
+    "description": "Important disclaimer information for using PixBatch image tools.",
+    "ogTitle": "Disclaimer - PixBatch",
+    "ogDescription": "Read legal disclaimers and limitations related to PixBatch services.",
+    "twitterTitle": "Disclaimer - PixBatch",
+    "twitterDescription": "Important legal disclaimer details for PixBatch users."
+  },
+  "home": {
+    "title": "PixBatch - Free Online Bulk Image Editor | Compress, Resize, Convert Images",
+    "description": "Free online bulk image editor. Compress, resize, crop, convert, and optimize hundreds of images at once. Support for JPG, PNG, WebP, AVIF.",
+    "ogTitle": "PixBatch - Free Online Bulk Image Editor",
+    "ogDescription": "Compress, resize, crop, convert, and optimize hundreds of images at once. 100% free and private.",
+    "twitterTitle": "PixBatch - Free Online Bulk Image Editor",
+    "twitterDescription": "Compress, resize, crop, convert, and optimize hundreds of images at once."
+  },
+  "compressWebp": {
+    "title": "Compress WebP Images Online Free - Reduce WebP File Size",
+    "description": "Free online WebP compressor. Reduce WebP file size by up to 80% while maintaining quality. Bulk compress multiple WebP images instantly.",
+    "ogTitle": "Compress WebP Images Online Free",
+    "ogDescription": "Reduce WebP file size by up to 80% while maintaining quality. Bulk compress multiple WebP images.",
+    "twitterTitle": "Compress WebP Images Online Free",
+    "twitterDescription": "Reduce WebP file size by up to 80% while maintaining quality."
+  },
+  "cropJpg": {
+    "title": "Crop JPG Images Online Free - JPEG Cropper Tool",
+    "description": "Free online JPG cropper. Easily crop JPEG images with custom aspect ratios right in your browser.",
+    "ogTitle": "Crop JPG Images Online Free",
+    "ogDescription": "Easily crop JPEG images with custom aspect ratios cleanly and privately.",
+    "twitterTitle": "Crop JPG Images Online Free",
+    "twitterDescription": "Crop JPG images with custom aspect ratios natively in your browser."
+  }
+}

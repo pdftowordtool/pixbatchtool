@@ -1,0 +1,117 @@
+{
+  "breadcrumb": {
+    "home": "Home",
+    "imageCropper": "Ritaglia Immagini",
+    "cropWebp": "Ritaglia JPG"
+  },
+  "hero": {
+    "title": "Gratis Online",
+    "titleHighlight": "Ritagliatore JPG",
+    "description": "Ritaglia immagini JPG/JPEG con qualita regolabile. Veloce, gratis e privacy-first."
+  },
+  "ui": {
+    "alerts": {
+      "selectImageFile": "Seleziona un file immagine",
+      "fileSizeLimit": "La dimensione del file deve essere inferiore a 10MB",
+      "selectLargerArea": "Seleziona un'area piu grande da ritagliare",
+      "cropFailed": "Impossibile ritagliare l'immagine. Riprova."
+    },
+    "dropzone": {
+      "dropYourImageHere": "Trascina Qui la Tua Immagine",
+      "orClickBrowse": "oppure clicca per scegliere un file",
+      "maxSizeHint": "Max 10MB - Output JPG con controllo qualita"
+    },
+    "replace": {
+      "title": "Sostituisci immagine",
+      "orDropNew": "oppure trascina un nuovo file"
+    },
+    "settings": {
+      "aspectRatio": "Rapporto d'aspetto",
+      "lockAspect": "Blocca il rapporto durante la selezione",
+      "outputFormat": "Formato di output",
+      "webpModernTitle": "JPG (Con perdita)",
+      "webpModernDesc": "File piu piccoli con qualita regolabile"
+    },
+    "quality": {
+      "panelTitle": "Impostazioni Qualita",
+      "qualityLabel": "Qualita",
+      "smallerFile": "File piu piccolo",
+      "betterQuality": "Qualita migliore"
+    },
+    "actions": {
+      "delete": "Elimina",
+      "cropping": "Ritaglio in corso...",
+      "startCrop": "Avvia ritaglio",
+      "downloadWebp": "Scarica JPG",
+      "resetSelection": "Reimposta selezione",
+      "croppedResult": "Risultato ritagliato",
+      "size": "Dimensione"
+    },
+    "images": {
+      "uploadAlt": "Caricamento",
+      "croppedAlt": "Ritagliato"
+    },
+    "howTo": {
+      "title": "Come ritagliare immagini JPG online",
+      "step1Title": "Carica la foto",
+      "step1Desc": "Trascina un'immagine nell'editor o selezionala dal dispositivo. Funziona con JPEG, PNG, WebP e altri formati.",
+      "step2Title": "Imposta il ritaglio",
+      "step2Desc": "Scegli un rapporto predefinito o ritaglio libero e regola la qualita per controllare la dimensione finale.",
+      "step3Title": "Scarica il JPG",
+      "step3Desc": "Premi ritaglia, controlla l'anteprima e salva il tuo JPEG ottimizzato.",
+      "tip": "TIP:",
+      "tipText": "Per le foto, 80-90% di qualita offre spesso il miglior compromesso."
+    },
+    "why": {
+      "title": "Perche ritagliare JPG?",
+      "p1": "JPEG e il formato piu usato per le foto sul web. Ritagliare elimina parti inutili e riduce il peso del file.",
+      "p2": "Se non serve trasparenza, JPG e spesso la scelta migliore rispetto a PNG per velocita e consumo dati.",
+      "b1": "Perfetto per foto prodotto, blog e social media.",
+      "b2": "Il controllo qualita ti permette di bilanciare nitidezza e peso.",
+      "b3": "Immagini piu leggere migliorano velocita, Core Web Vitals ed esperienza utente."
+    },
+    "features": {
+      "title": "Funzionalita Principali",
+      "presetRatiosTitle": "Rapporti predefiniti",
+      "presetRatiosDesc": "9 preset + libero + blocco",
+      "transparencyTitle": "Controllo qualita",
+      "transparencyDesc": "Slider qualita da 1-100%",
+      "privateTitle": "100% Privato",
+      "privateDesc": "Solo nel browser",
+      "compressionTitle": "File piccoli",
+      "compressionDesc": "Compressione JPG ottimizzata"
+    },
+    "proTips": {
+      "title": "Consigli Pro per JPG",
+      "t1": "Adatta il rapporto al canale di destinazione: 16:9 per banner, 1:1 per feed quadrati.",
+      "t2": "Per la maggior parte delle foto web, 80-85% offre un ottimo equilibrio tra qualita e dimensione.",
+      "t3": "JPG non supporta trasparenza. Se serve sfondo trasparente usa PNG o WebP.",
+      "t4": "Per stampa usa 95-100%. Per email e chat, 70-80% e in genere sufficiente."
+    },
+    "faqTitle": "Domande Frequenti"
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Ritagliare JPG riduce la qualita?",
+        "answer": "JPEG usa compressione con perdita, quindi c'e ricodifica. A 85-90% la differenza e quasi sempre minima."
+      },
+      {
+        "question": "Quale qualita usare per immagini web?",
+        "answer": "Parti da 75-85% per bilanciare qualita e peso. Aumenta solo quando i dettagli fini sono fondamentali."
+      },
+      {
+        "question": "Posso ritagliare PNG o WebP e salvare in JPG?",
+        "answer": "Si. Puoi caricare formati comuni ed esportare in JPG. Le aree trasparenti diventano sfondo pieno."
+      },
+      {
+        "question": "Perche il file ritagliato e piu grande del previsto?",
+        "answer": "Con qualita molto alta, JPG puo pesare di piu, soprattutto su ritagli piccoli. Prova 80-85%."
+      },
+      {
+        "question": "I dati vengono inviati a un server?",
+        "answer": "No. Ritaglio e codifica JPG avvengono localmente nel browser."
+      }
+    ]
+  }
+}

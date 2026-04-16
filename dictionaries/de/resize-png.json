@@ -1,0 +1,190 @@
+{
+  "breadcrumb": {
+    "home": "Startseite",
+    "imageResizer": "Bildgröße ändern",
+    "resizePng": "PNG skalieren"
+  },
+  "hero": {
+    "title": "Kostenlos online",
+    "titleHighlight": "PNG-Resizer",
+    "description": "Skaliere PNG-Bilder und erhalte Transparenz sowie verlustfreie Qualität. Ideal für Logos, Grafiken und Assets mit transparentem Hintergrund."
+  },
+  "dropzone": {
+    "addMore": "Weitere PNG-Bilder hinzufügen",
+    "orDrop": "oder PNG-Dateien hier ablegen",
+    "dropHere": "PNG-BILDER HIER ABLEGEN",
+    "orClick": "oder klicken, um nur PNG-Dateien auszuwählen",
+    "browse": "PNG-Dateien auswählen",
+    "maxSize": "Max. 10MB pro Datei • Bis zu 20 Bilder pro Upload"
+  },
+  "tabs": {
+    "custom": {
+      "title": "Eigene Maße",
+      "desc": "Exakte Breite und Höhe setzen"
+    },
+    "percentage": {
+      "title": "Prozent",
+      "desc": "Nach Prozent skalieren"
+    },
+    "preset": {
+      "title": "Voreinstellungen",
+      "desc": "Beliebte Abmessungen"
+    }
+  },
+  "custom": {
+    "maintainAspect": "Seitenverhältnis beibehalten (optional)",
+    "tipLabel": "Tipp:",
+    "tipText": "Seitenverhältnis aktivieren, um Verzerrungen zu vermeiden"
+  },
+  "percentage": {
+    "scale": "Skalierung"
+  },
+  "presets": {
+    "items": {
+      "instagramPostSquare": "Instagram-Post (quadratisch)",
+      "instagramStory": "Instagram-Story",
+      "facebookPost": "Facebook-Post",
+      "facebookCover": "Facebook-Titelbild",
+      "twitterPost": "Twitter-Post",
+      "twitterHeader": "Twitter-Header",
+      "youtubeThumbnail": "YouTube-Thumbnail",
+      "linkedinPost": "LinkedIn-Post",
+      "fullHD": "Full HD"
+    }
+  },
+  "geometry": {
+    "title": "Geometrie & Grenzen",
+    "contain": "Einpassen",
+    "cover": "Abdecken",
+    "fill": "Füllen",
+    "center": "Mitte",
+    "top": "Oben",
+    "bottom": "Unten",
+    "left": "Links",
+    "right": "Rechts",
+    "preventUpscaling": "Hochskalieren verhindern"
+  },
+  "output": {
+    "title": "Ausgabeformat",
+    "quality": "Qualität",
+    "lowerSize": "Kleinere Datei",
+    "higherQuality": "Bessere Qualität",
+    "same": "Gleich"
+  },
+  "advanced": {
+    "title": "Erweiterte Einstellungen",
+    "badge": "Optimiert",
+    "stripMetadata": "Metadaten (EXIF, ICC) entfernen für kleinere Dateien",
+    "background": "Hintergrund",
+    "backgroundPlaceholder": "#ffffff oder rgba(0,0,0,0)"
+  },
+  "resizeSummary": {
+    "title": "Zusammenfassung",
+    "targetSize": "Zielgröße",
+    "filesResized": "Dateien skaliert",
+    "totalSize": "Gesamtgröße",
+    "format": "Format",
+    "quality": "Qualität",
+    "aspectRatio": "Seitenverhältnis",
+    "yes": "Ja",
+    "no": "Nein"
+  },
+  "notices": {
+    "startResizeHint": "Klicke auf \"Start\", um deine Bilder zu skalieren.",
+    "settingsChangedHint": "Einstellungen geändert. Klicke auf \"Start\", um die neuen Werte anzuwenden."
+  },
+  "actions": {
+    "startResize": "Start",
+    "resetSettings": "Zurücksetzen",
+    "downloadZip": "ZIP herunterladen",
+    "clearAll": "Alles löschen",
+    "download": "Herunterladen"
+  },
+  "status": {
+    "resizing": "Skalieren...",
+    "errorResizing": "Fehler beim Skalieren",
+    "allDone": "Fertig!",
+    "imageResized": "Bild skaliert",
+    "imagesResized": "Bilder skaliert"
+  },
+  "privacy": {
+    "title": "Daten & Privatsphäre",
+    "p1": "Die Größenänderung erfolgt lokal im Browser über HTML5 Canvas. Deine Bilder verlassen dein Gerät nicht.",
+    "p2": "Keine Uploads, kein Speicher, kein Tracking des Bildinhalts.",
+    "p3": "100% privat: alles läuft clientseitig auf deinem Gerät.",
+    "p4": "Du kannst den Tab jederzeit schließen. Originale bleiben unverändert.",
+    "notice": "Alles passiert im Browser, keine Uploads.",
+    "details": "Details"
+  },
+  "errors": {
+    "pngOnly": "Bitte nur PNG-Dateien auswählen"
+  },
+  "sections": {
+    "howTo": {
+      "title": "PNG online skalieren",
+      "step1Title": "PNG auswählen",
+      "step1Desc": "Lege transparente PNGs oder Logos ab. Verarbeitung erfolgt sicher im lokalen Speicher.",
+      "step2Title": "Grenzen festlegen",
+      "step2Desc": "Ziel-Pixel angeben oder prozentual skalieren. Transparenz bleibt erhalten.",
+      "step3Title": "Assets exportieren",
+      "step3Desc": "Skalierte Dateien herunterladen. Optional Hintergrundfarbe über erweiterte Einstellungen setzen.",
+      "tipLabel": "TIPP:",
+      "tipText": "PNG ist ideal für Logos mit Transparenz. Nutze Füllen für exakte Maße oder Seitenverhältnis für Proportionen. PNG behält Transparenz; JPEG/WebP kann kleinere Dateien liefern."
+    },
+    "why": {
+      "title": "Warum PNG skalieren?",
+      "p1": "PNG in passenden Maßen liefert scharfe UI-Grafiken und Logos ohne Seiten aufzublähen. Exakte Assets verbessern Core Web Vitals und SEO bei erhaltener Transparenz.",
+      "tipLabel": "Tipp:",
+      "tipText": "Exakte, responsive Größen reduzieren CLS und verbessern die wahrgenommene Performance."
+    },
+    "platform": {
+      "title": "Perfekte Größe für jede Plattform",
+      "card1Title": "Alpha-Kanal",
+      "card1Desc": "Hintergrund ersetzen oder behalten – Transparenzverläufe bleiben sauber.",
+      "card2Title": "Saubere Kanten",
+      "card2Desc": "Icons und Webgrafiken skalieren ohne verschmierte Konturen.",
+      "card3Title": "Effizient",
+      "card3Desc": "PNG-Dateien können groß werden. Exakte Maße reduzieren Gewicht und verbessern Metriken."
+    },
+    "qualityGuide": {
+      "title": "Qualität vs. Dateigröße",
+      "introPrefix": "Ausgabeformate erzeugen unterschiedliche Dateigrößen.",
+      "introMiddle1": "liefert die kleinsten Dateien, gefolgt von",
+      "introMiddle2": "und",
+      "introSuffix": "Passe die Qualität an, um den Effekt zu sehen.",
+      "demoQuality": "Demo-Qualität",
+      "sample": "Beispiel: Full-HD-Bild (1920x1080)",
+      "noSavings": "Keine Ersparnis",
+      "qualityRecommendations": "Empfehlungen",
+      "maximumQuality": "Maximale Qualität",
+      "maximumQualityDesc": "Profi-Druck • Portfolio • Minimale Kompression",
+      "recommended": "Empfohlen",
+      "recommendedDesc": "Web • Social Media • Beste Balance",
+      "moderate": "Mittel",
+      "moderateDesc": "Thumbnails • Vorschauen • Kleinere Dateien",
+      "lowQuality": "Niedrige Qualität",
+      "lowQualityDesc": "Kleine Vorschauen • Platzhalter • Nicht empfohlen"
+    },
+    "faqTitle": "Häufige Fragen"
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Verliere ich Transparenz beim Skalieren?",
+        "answer": "Nein. Wenn du als Ausgabeformat PNG beibehältst, bleibt der transparente Hintergrund erhalten."
+      },
+      {
+        "question": "Was passiert bei Ausgabe als JPEG?",
+        "answer": "JPEG unterstützt keine Transparenz. Transparente Bereiche werden durch eine Hintergrundfarbe ersetzt (Standard #ffffff)."
+      },
+      {
+        "question": "Kann ich kleine PNGs vergrößern?",
+        "answer": "Ja, aber Hochskalieren kann die Schärfe reduzieren. Du kannst \"Hochskalieren verhindern\" deaktivieren."
+      },
+      {
+        "question": "Ist das Tool privat?",
+        "answer": "Ja. Alles läuft im Browser und Bilder werden nicht auf einen Server hochgeladen."
+      }
+    ]
+  }
+}

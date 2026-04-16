@@ -1,0 +1,220 @@
+{
+  "breadcrumb": {
+    "home": "Home",
+    "imageConverter": "Image Converter",
+    "jpgConverter": "JPG Converter"
+  },
+  "hero": {
+    "title": "Free Online",
+    "titleHighlight": "JPG Converter",
+    "description": "Convert PNG, WebP, AVIF, and other images to JPG format. Adjustable quality with excellent compression—everything happens in your browser."
+  },
+  "dropzone": {
+    "addMore": "Add more images",
+    "orDrop": "or drop files",
+    "dropHere": "DROP YOUR IMAGES HERE",
+    "orClick": "or click to browse files",
+    "browse": "Browse Files",
+    "supports": "Supports PNG, WebP, AVIF, GIF, BMP • Up to 10 images"
+  },
+  "infoBanner": {
+    "title": "Converting to JPG (Lossy Format)",
+    "description": "JPG uses lossy compression to create smaller file sizes. Adjust quality to balance file size and visual quality. Perfect for photos and web use."
+  },
+  "formatSettings": {
+    "title": "Target Format Settings",
+    "badgeAll": "ALL",
+    "formatSingular": "format",
+    "formatPlural": "formats",
+    "formatsSelectedSingular": "format selected",
+    "formatsSelectedPlural": "formats selected",
+    "chooseOutputFormats": "Choose Output Formats",
+    "resetToJpegOnly": "Reset to JPEG only",
+    "selectAllFormats": "Select All Formats",
+    "selectionInfoEachImage": "Each image will be converted to:",
+    "description": "Select one or more target formats. When multiple formats are selected, each image will be converted to all selected formats and downloaded as a ZIP file. JPEG offers universal compatibility, WebP offers excellent compression, AVIF provides the best compression, and PNG preserves transparency losslessly.",
+    "cards": {
+      "webp": {
+        "label": "WebP",
+        "subtitle": "Modern web format"
+      },
+      "avif": {
+        "label": "AVIF",
+        "subtitle": "Next-gen compression"
+      },
+      "png": {
+        "label": "PNG",
+        "subtitle": "Lossless with transparency"
+      },
+      "jpeg": {
+        "label": "JPEG",
+        "subtitle": "Universal compatibility"
+      }
+    }
+  },
+  "qualitySettings": {
+    "title": "Quality Settings",
+    "compressionQuality": "Compression Quality",
+    "smallerFile": "Smaller file",
+    "betterQuality": "Better quality",
+    "note": "Applies to WebP, AVIF, and JPEG. Higher quality = larger files. 80% recommended. PNG is always lossless."
+  },
+  "advancedSettings": {
+    "title": "Advanced Settings",
+    "badgeOptimized": "Optimized",
+    "badgeBasic": "Basic",
+    "stripMetadataLabel": "Strip metadata (EXIF, ICC) for smaller files",
+    "stripMetadataDesc": "Removing metadata can reduce file size but removes camera information, color profiles, and location data."
+  },
+  "privacy": {
+    "title": "Data & Privacy",
+    "p1": "Your images are processed entirely in your browser. No files are uploaded to any server.",
+    "p2": "All JPG conversion happens locally using JavaScript libraries. Your images never leave your device.",
+    "p3": "No analytics on image content; only anonymous aggregate performance counters may be collected for optimization.",
+    "p4": "Close the tab any time after processing completes. Your privacy is guaranteed.",
+    "notice": "All processing local + server-side transient, no files stored.",
+    "details": "Details"
+  },
+  "errors": {
+    "selectImages": "Please select image files (PNG, JPEG, WebP, AVIF, etc.)",
+    "dropImages": "Please drop image files (PNG, JPEG, WebP, AVIF, etc.)",
+    "dropNonJpeg": "Please drop non-JPEG image files (PNG, WebP, AVIF, etc.)"
+  },
+  "notices": {
+    "readyToConvertLabel": "Ready to convert:",
+    "willBeConvertedTo": "will be converted to",
+    "atQuality": "at",
+    "qualitySuffix": "quality.",
+    "readyToConvertTo": "Ready to convert to"
+  },
+  "actions": {
+    "convert": "Convert",
+    "convertTo": "Convert to",
+    "formats": "Formats",
+    "more": "More",
+    "clearAll": "Clear All",
+    "downloadZip": "Download ZIP",
+    "download": "Download",
+    "downloadAll": "Download All",
+    "convertMore": "Convert",
+    "addMore": "Add more images"
+  },
+  "status": {
+    "conversionInProgress": "Conversion in Progress",
+    "allDone": "All done!",
+    "pending": "pending",
+    "waitingToConvert": "Waiting to convert...",
+    "convertingTo": "Converting to",
+    "convertedTo": "Converted to",
+    "errorConverting": "Error converting image",
+    "image": "image",
+    "images": "images"
+  },
+  "summary": {
+    "conversionSummary": "Conversion Summary",
+    "filesConverted": "Files Converted",
+    "outputFormat": "Output Format",
+    "outputFormats": "Output Formats",
+    "quality": "Quality",
+    "original": "Original",
+    "converted": "Converted"
+  },
+  "sections": {
+    "howTo": {
+      "title": "How To Convert Images to JPG",
+      "step1Title": "UPLOAD IMAGES",
+      "step1Desc": "Drag and drop your PNG, WebP, AVIF, or other images. JPEG files are excluded.",
+      "step2Title": "CONVERT TO JPG",
+      "step2Desc": "Adjust quality settings, then click convert to transform images to JPG format.",
+      "step3Title": "DOWNLOAD",
+      "step3Desc": "Download JPG images individually or as ZIP. Small files, great quality.",
+      "tipLabel": "TIP:",
+      "tipText": "JPG is ideal for photos and web images where file size matters. Use 75-85% quality for best balance. For graphics with transparency, use PNG instead."
+    },
+    "keyFeatures": {
+      "title": "Key Features",
+      "items": [
+        {
+          "title": "Adjustable Quality",
+          "desc": "Control compression level • Balance size & quality • Perfect for photos"
+        },
+        {
+          "title": "Small File Sizes",
+          "desc": "Efficient compression • Fast loading • Web optimized"
+        },
+        {
+          "title": "Privacy-First",
+          "desc": "Browser-based processing • No uploads • 100% private"
+        },
+        {
+          "title": "Instant Conversion",
+          "desc": "Fast local processing • No waiting • Real-time results"
+        },
+        {
+          "title": "Batch Download",
+          "desc": "Multiple files at once • ZIP archive • One-click download"
+        },
+        {
+          "title": "Universal Support",
+          "desc": "Works everywhere • Best for photos • Industry standard"
+        }
+      ]
+    },
+    "qualityGuide": {
+      "title": "Quality vs Size Guide",
+      "interactiveIntro": "Interactive demo: See how quality affects file size in real-time",
+      "demoQuality": "Demo Quality",
+      "sampleLabel": "Sample: 2MB Photo",
+      "pngLossless": "PNG (Lossless)",
+      "qualityLabel": "Quality",
+      "qualityRecommendations": "Quality Recommendations",
+      "tiers": [
+        {
+          "range": "90-100%",
+          "title": "Print Quality",
+          "desc": "Professional printing • Archival • Large files"
+        },
+        {
+          "range": "75-89%",
+          "title": "High Quality",
+          "desc": "Portfolio • Social media • Good balance"
+        },
+        {
+          "range": "60-74%",
+          "title": "Web Optimized",
+          "desc": "Websites • Fast loading • Recommended"
+        },
+        {
+          "range": "10-59%",
+          "title": "Maximum Compression",
+          "desc": "Thumbnails • Previews • Visible quality loss"
+        }
+      ]
+    },
+    "faqTitle": "Frequently Asked Questions"
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Why convert images to JPG format?",
+        "answer": "JPG (JPEG) is the most popular image format for photos and web images. It uses lossy compression to create significantly smaller file sizes while maintaining good visual quality. This makes JPG perfect for sharing photos online, reducing website load times, and saving storage space."
+      },
+      {
+        "question": "What quality setting should I use?",
+        "answer": "For most photos, 75-85% quality provides an excellent balance between file size and visual quality. Use 90-100% for print or archival purposes. For web thumbnails or previews, 60-75% works well. Below 60%, you'll start to notice visible compression artifacts."
+      },
+      {
+        "question": "Is my data safe when using this converter?",
+        "answer": "Absolutely! All JPG conversion happens directly in your browser using JavaScript. Your images never leave your device or get uploaded to any server. This ensures complete privacy and security of your files."
+      },
+      {
+        "question": "What image formats can I convert to JPG?",
+        "answer": "You can convert PNG, WebP, AVIF, GIF, BMP, and most other common image formats to JPG. The converter automatically handles the transformation while adjusting compression based on your quality settings."
+      },
+      {
+        "question": "When should I use JPG vs PNG?",
+        "answer": "Use JPG for photographs, complex images with many colors, and when file size is important. Use PNG for graphics, logos, screenshots, images with text, or anything requiring transparency. JPG creates smaller files but doesn't support transparency."
+      }
+    ]
+  }
+}

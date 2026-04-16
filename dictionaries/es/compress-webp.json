@@ -1,0 +1,130 @@
+{
+  "breadcrumb": {
+    "home": "Inicio",
+    "compressImage": "Comprimir Imagen",
+    "compressWebp": "Comprimir WebP"
+  },
+  "hero": {
+    "title": "Compresor WebP",
+    "titleHighlight": "Gratis Online",
+    "description": "Reduce el tamano de archivos WebP manteniendo calidad. Ideal para fotos, imagenes web y contenido digital."
+  },
+  "dropzone": {
+    "addMore": "Agregar mas imagenes WebP",
+    "orDrop": "o suelta archivos WebP",
+    "dropHere": "SUELTA TUS IMAGENES WebP AQUI",
+    "orClick": "o haz clic para buscar archivos WebP",
+    "browse": "Buscar Archivos WebP",
+    "maxSize": "Max 5MB por archivo - Hasta 10 imagenes WebP por carga"
+  },
+  "qualitySettings": {
+    "title": "Configuracion de Calidad",
+    "default": "(por defecto 85%)",
+    "smallerSize": "Tamano menor",
+    "betterQuality": "Mejor calidad",
+    "description": "WebP usa compresion con perdida. Menor calidad reduce mucho el tamano pero puede afectar detalles.",
+    "presets": {
+      "web": "Web",
+      "standard": "Estandar",
+      "high": "Alta",
+      "max": "Max"
+    }
+  },
+  "privacy": {
+    "title": "Datos y Privacidad",
+    "p1": "Tus imagenes se procesan al instante. Los originales permanecen en tu navegador y el resultado se entrega de inmediato.",
+    "p2": "Sin almacenamiento permanente: el servidor usa buffers temporales solo para codificar y devolver el resultado.",
+    "p3": "No se analizan contenidos de imagen; solo metricas anonimas agregadas para optimizacion.",
+    "p4": "Puedes cerrar la pestana cuando finalice el proceso. Durante el proceso evita cerrarla para no interrumpir.",
+    "notice": "Procesamiento local + temporal en servidor, no se almacenan archivos.",
+    "details": "Detalles"
+  },
+  "status": {
+    "compressing": "Comprimiendo...",
+    "errorCompressing": "Error al comprimir la imagen",
+    "allDone": "Listo!",
+    "imagesCompressed": "imagenes comprimidas",
+    "imageCompressed": "imagen comprimida",
+    "settingsChanged": "La configuracion ha cambiado!",
+    "settingsChangedDesc": "Haz clic en Aplicar nueva configuracion para recomprimir tus WebP con la nueva calidad."
+  },
+  "actions": {
+    "applyNewSettings": "Aplicar Nueva Configuracion",
+    "downloadZip": "Descargar ZIP",
+    "clearAll": "Limpiar Todo",
+    "download": "Descargar"
+  },
+  "summary": {
+    "title": "Resumen de Compresion",
+    "spaceSaved": "Espacio Ahorrado",
+    "filesProcessed": "Archivos Procesados",
+    "sizeReduced": "Tamano Reducido",
+    "original": "Original",
+    "compressed": "Comprimido",
+    "saved": "ahorrado"
+  },
+  "sections": {
+    "howTo": {
+      "title": "Como Comprimir WebP",
+      "step1Title": "Sube Archivos WebP",
+      "step1Desc": "Arrastra tus archivos WebP. Se admite carga multiple.",
+      "step2Title": "Ajusta Compresion con Perdida",
+      "step2Desc": "Baja un poco la calidad para lograr gran reduccion de tamano sin artefactos visibles.",
+      "step3Title": "Descargar",
+      "step3Desc": "Guarda tus WebP optimizados al instante para web y redes sociales."
+    },
+    "makeSmaller": {
+      "title": "Haz Tu WebP Mas Pequeno Sin Perder Calidad",
+      "card1Title": "Compresion Eficiente",
+      "card1Desc": "WebP elimina datos no esenciales para reducir tamano sin desenfoque notable.",
+      "card2Title": "Carga Rapida",
+      "card2Desc": "WebP ligeros aceleran el render y mejoran la experiencia del usuario.",
+      "card3Title": "Ahorra Ancho de Banda",
+      "card3Desc": "Menos tamano significa menor costo de hosting y descargas moviles mas rapidas."
+    },
+    "why": {
+      "title": "Por Que Comprimir WebP?",
+      "p1": "Reducir WebP elimina metadatos ocultos y usa algoritmos con perdida para archivos mucho mas ligeros, mejorando velocidad y SEO.",
+      "tipLabel": "Tip:",
+      "tipText": "75%-85% de calidad suele dar gran ahorro de tamano con apariencia casi identica."
+    },
+    "qualityGuide": {
+      "title": "Guia Calidad vs Tamano",
+      "intro": "La compresion WebP es con perdida, intercambia calidad por menor tamano. Ajusta el control para ver cambios.",
+      "demoQuality": "Calidad Demo",
+      "samplePhoto": "Ejemplo: Foto de 2MB",
+      "noSavings": "Sin ahorro",
+      "qualityRecommendations": "Recomendaciones de Calidad",
+      "maximumQuality": "Calidad Maxima",
+      "maximumQualityDesc": "Impresion profesional - Portafolio - Compresion minima",
+      "recommended": "Recomendado",
+      "recommendedDesc": "Fotos web - Redes sociales - Mejor equilibrio",
+      "highCompression": "Compresion Alta",
+      "highCompressionDesc": "Miniaturas - Adjuntos email - Carga rapida",
+      "maxCompression": "Compresion Maxima",
+      "maxCompressionDesc": "Solo vistas previas - Artefactos visibles - No recomendado"
+    },
+    "faqTitle": "Preguntas Frecuentes"
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Como reduce tamano la compresion WebP?",
+        "answer": "WebP usa compresion con perdida que elimina datos menos visibles para reducir mucho el tamano."
+      },
+      {
+        "question": "Cual es el mejor porcentaje WebP para web?",
+        "answer": "La mayoria de sitios usa 75%-85% para equilibrar calidad y tamano."
+      },
+      {
+        "question": "Un WebP mas pequeno mejora SEO?",
+        "answer": "Si. Archivos ligeros mejoran velocidad y Core Web Vitals, ayudando al SEO."
+      },
+      {
+        "question": "Por que no usar PNG en lugar de WebP?",
+        "answer": "WebP es mejor para fotos complejas. PNG conviene para transparencia, logos y UI."
+      }
+    ]
+  }
+}
+

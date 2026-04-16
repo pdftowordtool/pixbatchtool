@@ -1,0 +1,129 @@
+{
+  "breadcrumb": {
+    "home": "Home",
+    "compressImage": "Compress Image",
+    "compressPng": "Compress PNG"
+  },
+  "hero": {
+    "title": "Free Online",
+    "titleHighlight": "PNG Compressor",
+    "description": "Reduce PNG file size while maintaining transparency and quality. Perfect for logos, icons, and graphics."
+  },
+  "dropzone": {
+    "addMore": "Add more PNG images",
+    "orDrop": "or drop PNG files",
+    "dropHere": "DROP YOUR PNG IMAGES HERE",
+    "orClick": "or click to browse PNG files",
+    "browse": "Browse PNG Files",
+    "maxSize": "Max 5MB per file - Up to 10 PNG images per upload"
+  },
+  "qualitySettings": {
+    "title": "Quality Settings",
+    "default": "(default is 85%)",
+    "smallerSize": "Smaller Size",
+    "betterQuality": "Better Quality",
+    "description": "PNG compression is lossless. Lower quality settings will still maintain visual quality but reduce file size by optimizing the compression algorithm.",
+    "presets": {
+      "web": "Web",
+      "standard": "Standard",
+      "high": "High",
+      "max": "Max"
+    }
+  },
+  "privacy": {
+    "title": "Data & Privacy",
+    "p1": "Your images are processed on-the-fly. Originals stay in your browser; compressed results are streamed back immediately.",
+    "p2": "No permanent storage: the server keeps temporary buffers just long enough to encode and deliver the result, then memory is released.",
+    "p3": "No analytics on image content; only anonymous aggregate performance counters may be collected (sizes, timings) for optimization.",
+    "p4": "Close the tab any time after processing completes. While processing, avoid closing to prevent interruption.",
+    "notice": "All processing local + server-side transient, no files stored.",
+    "details": "Details"
+  },
+  "status": {
+    "compressing": "Compressing...",
+    "errorCompressing": "Error compressing image",
+    "allDone": "All done!",
+    "imagesCompressed": "images compressed",
+    "imageCompressed": "image compressed",
+    "settingsChanged": "Settings have changed!",
+    "settingsChangedDesc": "Click Apply New Settings to re-compress your PNG images with the new quality configuration."
+  },
+  "actions": {
+    "applyNewSettings": "Apply New Settings",
+    "downloadZip": "Download ZIP",
+    "clearAll": "Clear All",
+    "download": "Download"
+  },
+  "summary": {
+    "title": "Compression Summary",
+    "spaceSaved": "Space Saved",
+    "filesProcessed": "Files Processed",
+    "sizeReduced": "Size Reduced",
+    "original": "Original",
+    "compressed": "Compressed",
+    "saved": "saved"
+  },
+  "sections": {
+    "howTo": {
+      "title": "How To Compress PNG",
+      "step1Title": "Upload PNG Files",
+      "step1Desc": "Drag and drop your graphics or icons. We fully support transparent alpha channels.",
+      "step2Title": "Optimize Lossless Output",
+      "step2Desc": "Adjust the quality slider to find the perfect efficiency ratio without destroying pixel fidelity.",
+      "step3Title": "Download",
+      "step3Desc": "Get your bandwidth-friendly PNGs back immediately. Perfect for crisp web UI elements."
+    },
+    "makeSmaller": {
+      "title": "Make Your PNG Smaller Without Losing Quality",
+      "card1Title": "Preserve Transparency",
+      "card1Desc": "Compress PNG files natively without breaking the alpha layer, perfect for logos and overlay graphics.",
+      "card2Title": "Crisp UI Assets",
+      "card2Desc": "Maintain the pixel-perfect sharpness required for high-DPI displays and complex web interfaces.",
+      "card3Title": "Boost SEO Rankings",
+      "card3Desc": "Efficient PNG sizes improve page load metrics and Core Web Vitals to help you rank higher."
+    },
+    "why": {
+      "title": "Why Compress PNG?",
+      "p1": "Unoptimized PNGs are often massive and can damage mobile loading speeds. By compressing your PNGs, you keep visual clarity and alpha transparency while saving bandwidth.",
+      "tipLabel": "Tip:",
+      "tipText": "Add explicit width and height attributes to loaded PNGs on your site to prevent Cumulative Layout Shift (CLS)."
+    },
+    "qualityGuide": {
+      "title": "Quality vs Size Guide",
+      "intro": "PNG compression is lossless, meaning no visual quality is lost. The quality setting optimizes compression efficiency.",
+      "demoQuality": "Demo Quality",
+      "samplePhoto": "Sample: 2MB Photo",
+      "noSavings": "No savings",
+      "qualityRecommendations": "Quality Recommendations",
+      "maximumQuality": "Maximum Quality",
+      "maximumQualityDesc": "Detailed graphics - Complex illustrations - Minimal compression",
+      "recommended": "Recommended",
+      "recommendedDesc": "Logos - UI icons - Best balance for most use cases",
+      "highCompression": "High Compression",
+      "highCompressionDesc": "Web graphics - Thumbnails - Smaller file size priority",
+      "maxCompression": "Maximum Compression",
+      "maxCompressionDesc": "Previews only - May show artifacts - Not recommended"
+    },
+    "faqTitle": "Frequently Asked Questions"
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Does PNG compression blur the image?",
+        "answer": "No. PNG compression is typically lossless and focuses on removing redundant data while preserving pixel fidelity."
+      },
+      {
+        "question": "Should I use PNG or JPEG for my website?",
+        "answer": "Use PNG for logos, interface elements, and transparency. For complex photos, JPEG or WebP usually gives better size reduction."
+      },
+      {
+        "question": "How does compressing PNGs improve my SEO?",
+        "answer": "Smaller PNG files reduce page weight and improve loading metrics such as LCP, helping overall SEO performance."
+      },
+      {
+        "question": "Will the background stay transparent after compressing?",
+        "answer": "Yes. The PNG alpha channel is preserved so transparent backgrounds remain intact."
+      }
+    ]
+  }
+}

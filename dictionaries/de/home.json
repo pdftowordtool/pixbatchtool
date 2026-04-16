@@ -1,0 +1,48 @@
+{
+  "hero": {
+    "titleLine1": "Alle Tools zum Bearbeiten von",
+    "titleHighlight": "Bildern im Stapel",
+    "description": "Leistungsstarke Bildverarbeitung im Browser. Alles lauft lokal auf deinem Gerat."
+  },
+  "tools": [
+    { "title": "BILD komprimieren", "description": "Dateigrosse von JPG, PNG, SVG und GIF ohne sichtbaren Qualitatsverlust reduzieren...", "href": "/compress-image" },
+    { "title": "BILD skalieren", "description": "Nach Breite/Hohe oder Prozent skalieren und Seitenverhaltnis halten...", "href": "/image-resizer" },
+    { "title": "BILD zuschneiden", "description": "Prazise mit benutzerdefinierten oder vordefinierten Verhaltnissen zuschneiden...", "href": "/crop-image" },
+    { "title": "BILD drehen & spiegeln", "description": "In 90-Grad-Schritten drehen und horizontal/vertikal spiegeln...", "href": "/rotate-flip-image" },
+    { "title": "BILD konvertieren", "description": "Zwischen JPG, PNG, WebP, GIF und mehr konvertieren...", "href": "/image-converter" },
+    { "title": "BILD optimieren", "description": "Automatische Web-Optimierung mit intelligenter Komprimierung...", "href": "/optimize-image" },
+    { "title": "EXIF Viewer", "description": "EXIF-, IPTC-, XMP- und GPS-Metadaten anzeigen...", "href": "/exif-viewer" },
+    { "title": "EXIF entfernen", "description": "EXIF-Metadaten fur Datenschutz entfernen. Stapelverarbeitung inklusive...", "href": "/remove-exif" }
+  ],
+  "howItWorks": {
+    "title": "So funktioniert es",
+    "subtitle": "Einfach, schnell und sicher in drei Schritten",
+    "steps": [
+      { "title": "Bilder hochladen", "description": "Dateien per Drag-and-drop oder Klick auswahlen. Unterstutzt grosse Formate bis 5MB pro Datei." },
+      { "title": "Einstellen und verarbeiten", "description": "Einstellungen wahlen und direkt im Browser verarbeiten." },
+      { "title": "Ergebnisse herunterladen", "description": "Einzeln oder als ZIP herunterladen. Sofort bereit." }
+    ],
+    "badge": "Die Verarbeitung erfolgt direkt in deinem Browser"
+  },
+  "privacy": {
+    "title": "Datenschutz by Design",
+    "description": "Die Verarbeitung erfolgt lokal im Browser. Bilder werden nie auf Server hochgeladen.",
+    "items": [
+      { "title": "Kein Upload notwendig", "description": "Bilder verlassen dein Gerat nicht. Alles bleibt lokal im Browser." },
+      { "title": "Offline fahig", "description": "Nach dem Laden funktionieren die meisten Tools auch ohne Internet." },
+      { "title": "Open-Source-Technologie", "description": "Gebaut mit modernen Webstandards und offenen Technologien." }
+    ],
+    "badge": "100% CLIENT-SEITIG"
+  },
+  "faq": {
+    "title": "Haufig gestellte Fragen",
+    "subtitle": "Alles, was du uber PixBatch wissen musst",
+    "items": [
+      { "question": "Werden meine Bilder auf einen Server hochgeladen?", "answer": "Nein. PixBatch verarbeitet Bilder lokal in deinem Browser. Deine Dateien verlassen dein Gerat nicht." },
+      { "question": "Welche Upload-Limits gibt es?", "answer": "Bis zu 5 MB pro Datei und bis zu 10 Bilder pro Batch (pro Upload)." },
+      { "question": "Welche Bildformate werden unterstützt?", "answer": "Die meisten Tools unterstützen JPG/JPEG, PNG, WebP, AVIF und GIF. Je nach Tool können die unterstützten Formate leicht variieren." },
+      { "question": "Kann ich EXIF/Metadaten vor dem Teilen entfernen?", "answer": "Ja. Nutze unser Tool „EXIF entfernen“ (oder die Option „Metadaten entfernen“, falls verfügbar), um EXIF/ICC-Metadaten vor dem Download zu löschen." },
+      { "question": "Funktioniert PixBatch offline und auf dem Handy?", "answer": "Ja. Sobald die Seite geladen ist, funktionieren die meisten Tools auch ohne Internet, und alles läuft in modernen Mobile- und Desktop-Browsern. Die Geschwindigkeit hängt von deinem Gerät ab." }
+    ]
+  }
+}

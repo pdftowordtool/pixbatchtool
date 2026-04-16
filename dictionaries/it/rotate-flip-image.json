@@ -1,0 +1,140 @@
+{
+  "breadcrumb": {
+    "home": "Home",
+    "rotateFlip": "Ruota e Capovolgi"
+  },
+  "hero": {
+    "title": "Gratis Online",
+    "titleHighlight": "Rotatore Immagini",
+    "description": "Ruota e capovolgi le tue immagini con precisione. Rotazioni 90° e 180° e flip orizzontale/verticale — tutto viene elaborato localmente nel browser."
+  },
+  "ui": {
+    "dropzone": {
+      "dropYourImageHere": "Trascina qui la tua immagine",
+      "orClickBrowse": "oppure clicca per scegliere un file",
+      "supportsHint": "Supporta JPEG, PNG, WebP, GIF"
+    },
+    "replace": {
+      "title": "Sostituisci immagine",
+      "orDropNew": "oppure trascina un nuovo file"
+    },
+    "preview": {
+      "delete": "Elimina",
+      "processing": "Elaborazione...",
+      "downloadImage": "Scarica immagine",
+      "resetToOriginal": "Ripristina originale",
+      "applyTransformationHint": "Applica una trasformazione per abilitare il download",
+      "previewAlt": "Anteprima",
+      "transformationApplied": "Trasformazione applicata",
+      "originalSize": "Dimensione originale",
+      "newSize": "Nuova dimensione",
+      "transformation": {
+        "rotated": "Ruotata",
+        "flippedH": "Flip H",
+        "flippedV": "Flip V"
+      }
+    },
+    "settings": {
+      "angle": "Angolo",
+      "flipHorizontal": "Capovolgi orizzontale",
+      "flipVertical": "Capovolgi verticale",
+      "outputFormat": "Formato di uscita",
+      "stripMetadata": "Rimuovi metadati (EXIF/ICC)",
+      "background": "Sfondo",
+      "backgroundPlaceholder": "#ffffff o rgba(0,0,0,0)",
+      "quality": "Qualita",
+      "smallerFile": "File piu piccolo",
+      "betterQuality": "Qualita migliore"
+    },
+    "formats": {
+      "original": "original",
+      "jpeg": "jpeg",
+      "png": "png",
+      "webp": "webp",
+      "avif": "avif"
+    },
+    "featureCards": {
+      "items": [
+        {
+          "title": "Rotazione precisa",
+          "description": "Ruota le immagini di 90° o 180° con precisione pixel-perfect."
+        },
+        {
+          "title": "Specchio e flip",
+          "description": "Capovolgi in orizzontale o verticale per creare effetto specchio."
+        },
+        {
+          "title": "Anteprima istantanea",
+          "description": "Vedi subito i cambiamenti. Nessuna attesa di server."
+        }
+      ]
+    },
+    "howTo": {
+      "title": "Come ruotare e capovolgere immagini online",
+      "step1Title": "Carica la tua immagine",
+      "step1Desc": "Trascina un file JPEG, PNG o WebP nell'editor. Si apre subito nel browser senza attese di upload.",
+      "step2Title": "Ruota o capovolgi",
+      "step2Desc": "Scegli un angolo predefinito, attiva flip orizzontale o verticale, o combinali. L'anteprima si aggiorna in tempo reale.",
+      "step3Title": "Scarica il risultato",
+      "step3Desc": "Scegli un formato di uscita se vuoi anche convertire, poi premi Scarica. Il file e pronto subito.",
+      "tipLabel": "TIP:",
+      "tipText": "Ruotare di 90° o 180° mantiene intatti i pixel. La perdita di qualita avviene solo durante la ricompressione, quindi imposta 90%+ per un output quasi lossless."
+    },
+    "featuresSection": {
+      "title": "Funzionalita",
+      "items": [
+        {
+          "title": "Angoli predefiniti",
+          "description": "0°, 90°, 180°, 270° con un clic"
+        },
+        {
+          "title": "Flip specchio",
+          "description": "Flip orizzontale e verticale"
+        },
+        {
+          "title": "100% Privato",
+          "description": "Elaborazione solo nel browser"
+        },
+        {
+          "title": "Multi-formato",
+          "description": "Uscita JPEG, PNG, WebP, AVIF"
+        }
+      ]
+    },
+    "why": {
+      "title": "Perche ruotare e capovolgere immagini?",
+      "p1": "Le fotocamere non sempre salvano l'orientamento correttamente. Un telefono puo salvare una foto orizzontale come verticale o il tag EXIF di orientamento si perde durante l'esportazione. Una rotazione di 90° risolve l'inquadratura senza toccare i pixel, quindi non c'e perdita di qualita oltre al salvataggio finale.",
+      "p2": "Anche il flip e utile. I fotografi di prodotto specchiano le immagini per avere oggetti nella stessa direzione su una griglia. I designer capovolgono screenshot in modalita selfie per rendere il testo leggibile. E si risparmia tempo correggendo l'orientamento nel browser invece di aprire un editor pesante.",
+      "bullets": [
+        "Correggi foto ruotate o capovolte a causa di tag EXIF errati.",
+        "Specchia selfie e foto prodotto per rendere il testo leggibile e mantenere coerenza.",
+        "Correggi direttamente nel browser — senza installare Photoshop o aprire GIMP per una rotazione semplice."
+      ]
+    },
+    "faqTitle": "Domande frequenti"
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Come faccio a ruotare un'immagine?",
+        "answer": "Carica l'immagine e usa i pulsanti per ruotare a sinistra (90° antiorario), a destra (90° orario) o 180°. L'anteprima si aggiorna subito."
+      },
+      {
+        "question": "Qual e la differenza tra flip e rotazione?",
+        "answer": "La rotazione gira l'immagine attorno al suo centro di un certo angolo. Il flip crea un'immagine a specchio: orizzontale sinistra-destra, verticale alto-basso."
+      },
+      {
+        "question": "Ruotare influisce sulla qualita?",
+        "answer": "Ruotare a step di 90° e lossless per i pixel. Salvando in JPEG/WebP, il cursore qualita controlla la compressione. L'output PNG e sempre lossless."
+      },
+      {
+        "question": "Posso combinare rotazione e flip?",
+        "answer": "Si. Puoi applicare qualsiasi combinazione di rotazioni e flip. Usa Ripristina per tornare all'orientamento originale quando vuoi."
+      },
+      {
+        "question": "La mia immagine viene caricata su un server?",
+        "answer": "No. Tutto avviene nel browser usando HTML5 Canvas. Le immagini non lasciano mai il tuo dispositivo, garantendo privacy completa."
+      }
+    ]
+  }
+}

@@ -1,0 +1,137 @@
+{
+  "hero": {
+    "titlePrefix": "Termini e",
+    "titleHighlight": "Condizioni",
+    "description": "Leggi attentamente questi termini e condizioni prima di utilizzare il nostro servizio.",
+    "lastUpdatedLabel": "Ultimo aggiornamento",
+    "lastUpdatedDate": "15 gennaio 2025"
+  },
+  "sections": {
+    "acceptanceOfTerms": {
+      "title": "Accettazione dei termini",
+      "paragraphs": [
+        "Accedendo e utilizzando PixBatch (\"Servizio\"), accetti di essere vincolato da questi Termini e Condizioni. Se non sei d'accordo, non utilizzare il nostro Servizio.",
+        "Questi termini si applicano a tutti i visitatori, utenti e ad altri che accedono o usano il Servizio. Ci riserviamo il diritto di aggiornarli in qualsiasi momento e l'uso continuato del Servizio costituisce accettazione delle modifiche."
+      ]
+    },
+    "useOfService": {
+      "title": "Uso del servizio",
+      "intro": "Puoi utilizzare il nostro Servizio solo per scopi leciti e in conformita con questi Termini. Accetti di non utilizzare il Servizio:",
+      "items": [
+        "In qualsiasi modo che violi leggi o regolamenti applicabili",
+        "Per trasmettere materiale pubblicitario o promozionale senza il nostro consenso scritto",
+        "Per impersonare la Societa, un dipendente, un altro utente o qualsiasi altra persona o entita",
+        "Per adottare comportamenti che limitino o impediscano ad altri l'uso o il godimento del Servizio",
+        "Per caricare o trasmettere virus, malware o altro codice dannoso",
+        "Per elaborare immagini con contenuti illegali o che violano diritti di proprieta intellettuale o privacy"
+      ]
+    },
+    "userAccounts": {
+      "title": "Account utente",
+      "intro": "Quando crei un account, devi fornire informazioni accurate, complete e aggiornate. Sei responsabile di:",
+      "items": [
+        "Mantenere riservata la password del tuo account",
+        "Tutte le attivita che avvengono tramite il tuo account",
+        "Notificarci immediatamente qualsiasi uso non autorizzato",
+        "Assicurare che la tua password sia forte e sicura"
+      ],
+      "outro": "Ci riserviamo il diritto di disattivare qualsiasi account in qualsiasi momento, senza preavviso, se riteniamo che tu abbia violato questi Termini."
+    },
+    "intellectualPropertyRights": {
+      "title": "Diritti di proprieta intellettuale",
+      "paragraphs": [
+        "Il Servizio e i suoi contenuti originali, funzionalita e caratteristiche sono e rimarranno proprieta esclusiva di PixBatch e dei suoi licenzianti.",
+        "I tuoi contenuti: mantieni tutti i diritti sulle immagini elaborate con il nostro Servizio. Non rivendichiamo la proprieta delle tue immagini. Poiche tutta l'elaborazione avviene nel browser, non abbiamo accesso alle tue immagini.",
+        "I nostri contenuti: marchi, loghi e segni distintivi presenti nel Servizio sono di nostra proprieta. Non puoi usarli senza autorizzazione scritta."
+      ]
+    },
+    "paymentAndBilling": {
+      "title": "Pagamenti e fatturazione",
+      "intro": "Se scegli di acquistare funzionalita premium, accetti di fornire informazioni di pagamento aggiornate, complete e accurate. Ci autorizzi ad addebitare il tuo metodo di pagamento per tutte le tariffe dovute.",
+      "items": [
+        {
+          "label": "Piani di abbonamento",
+          "text": "Fatturati su base ricorrente (mensile o annuale) fino alla cancellazione"
+        },
+        {
+          "label": "Rimborsi",
+          "text": "Generalmente non previsti, salvo obblighi di legge o nostra discrezione"
+        },
+        {
+          "label": "Modifiche di prezzo",
+          "text": "Ci riserviamo il diritto di modificare i prezzi con 30 giorni di preavviso"
+        },
+        {
+          "label": "Cancellazione",
+          "text": "Puoi annullare l'abbonamento in qualsiasi momento dalle impostazioni account"
+        },
+        {
+          "label": "Pagamenti non riusciti",
+          "text": "In caso di pagamento fallito, possiamo sospendere o terminare l'accesso alle funzioni premium"
+        }
+      ]
+    },
+    "disclaimerOfWarranties": {
+      "title": "Esclusione di garanzie",
+      "intro": "Il Servizio e fornito COSI COM'E e SECONDO DISPONIBILITA. Non forniamo garanzie espresse o implicite riguardo a:",
+      "items": [
+        "Accuratezza, affidabilita o qualita del Servizio",
+        "Disponibilita ininterrotta, puntuale o priva di errori",
+        "Correzione di eventuali difetti",
+        "Assenza di virus o componenti dannosi",
+        "Qualita o accuratezza delle immagini elaborate"
+      ],
+      "outro": "Utilizzi il Servizio a tuo rischio. Ti consigliamo di conservare sempre copie di backup delle immagini originali."
+    },
+    "limitationOfLiability": {
+      "title": "Limitazione di responsabilita",
+      "intro": "Nella misura massima consentita dalla legge, PixBatch non sara responsabile per danni indiretti, incidentali, speciali, consequenziali o punitivi, inclusi:",
+      "items": [
+        "Perdita di profitti o ricavi",
+        "Perdita di dati o immagini",
+        "Perdita di opportunita commerciali",
+        "Interruzioni del servizio",
+        "Qualsiasi altro danno o perdita commerciale"
+      ],
+      "outro": "La nostra responsabilita totale non superera l'importo da te pagato nei dodici (12) mesi precedenti l'evento che ha dato origine alla responsabilita, oppure 100 USD, se maggiore."
+    },
+    "termination": {
+      "title": "Risoluzione",
+      "intro": "Possiamo risolvere o sospendere immediatamente il tuo account e accesso al Servizio, senza preavviso o responsabilita, per qualsiasi motivo, incluso:",
+      "items": [
+        "Violazione di questi Termini",
+        "Attivita fraudolenta, abusiva o illegale",
+        "Su tua richiesta",
+        "Periodi prolungati di inattivita"
+      ],
+      "outro": "Alla risoluzione, il tuo diritto di utilizzare il Servizio cessera immediatamente. Tutte le disposizioni che per loro natura devono sopravvivere alla risoluzione continueranno ad applicarsi."
+    },
+    "governingLaw": {
+      "title": "Legge applicabile",
+      "paragraphs": [
+        "Questi Termini sono disciplinati e interpretati secondo le leggi dello Stato della California, Stati Uniti, senza riguardo alle norme sui conflitti di legge.",
+        "Qualsiasi controversia derivante da questi Termini o dall'uso del Servizio sara risolta tramite arbitrato vincolante a San Francisco, California, salvo il diritto di ciascuna parte di richiedere provvedimenti urgenti presso un tribunale competente."
+      ]
+    },
+    "changesToTerms": {
+      "title": "Modifiche ai termini",
+      "intro": "Ci riserviamo il diritto di modificare o sostituire questi Termini in qualsiasi momento a nostra discrezione. Se una revisione e sostanziale, provvederemo a:",
+      "items": [
+        "Fornire almeno 30 giorni di preavviso prima dell'entrata in vigore dei nuovi termini",
+        "Avvisarti via email o tramite un avviso ben visibile nel Servizio",
+        "Aggiornare la data di ultimo aggiornamento in cima a questa pagina"
+      ],
+      "outro": "Continuando ad accedere o usare il nostro Servizio dopo l'entrata in vigore delle revisioni, accetti di essere vincolato dai termini aggiornati."
+    },
+    "contactUs": {
+      "title": "Contattaci",
+      "intro": "Se hai domande su questi Termini e Condizioni, contattaci:",
+      "emailLabel": "Email",
+      "addressLabel": "Indirizzo",
+      "phoneLabel": "Telefono",
+      "email": "rohit@pixbatch.com",
+      "address": "Panchavti Road, Gorwa, Vadodara - 390016, Gujarat, India",
+      "phone": "+91 9104826422"
+    }
+  }
+}

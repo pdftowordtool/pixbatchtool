@@ -1,0 +1,140 @@
+{
+  "breadcrumb": {
+    "home": "Inicio",
+    "rotateFlip": "Rotar y Voltear"
+  },
+  "hero": {
+    "title": "Gratis Online",
+    "titleHighlight": "Rotador de Imagenes",
+    "description": "Rota y voltea tus imagenes con precision. Rotaciones de 90° y 180° y volteos horizontal/vertical — todo se procesa localmente en tu navegador."
+  },
+  "ui": {
+    "dropzone": {
+      "dropYourImageHere": "Suelta Tu Imagen Aqui",
+      "orClickBrowse": "o haz clic para buscar un archivo",
+      "supportsHint": "Soporta JPEG, PNG, WebP, GIF"
+    },
+    "replace": {
+      "title": "Reemplazar imagen",
+      "orDropNew": "o suelta un archivo nuevo"
+    },
+    "preview": {
+      "delete": "Eliminar",
+      "processing": "Procesando...",
+      "downloadImage": "Descargar Imagen",
+      "resetToOriginal": "Restablecer al Original",
+      "applyTransformationHint": "Aplica una transformacion para habilitar la descarga",
+      "previewAlt": "Vista previa",
+      "transformationApplied": "Transformacion aplicada",
+      "originalSize": "Tamano original",
+      "newSize": "Tamano nuevo",
+      "transformation": {
+        "rotated": "Rotado",
+        "flippedH": "Volteado H",
+        "flippedV": "Volteado V"
+      }
+    },
+    "settings": {
+      "angle": "Angulo",
+      "flipHorizontal": "Voltear horizontal",
+      "flipVertical": "Voltear vertical",
+      "outputFormat": "Formato de salida",
+      "stripMetadata": "Quitar metadatos (EXIF/ICC)",
+      "background": "Fondo",
+      "backgroundPlaceholder": "#ffffff o rgba(0,0,0,0)",
+      "quality": "Calidad",
+      "smallerFile": "Archivo mas pequeno",
+      "betterQuality": "Mejor calidad"
+    },
+    "formats": {
+      "original": "original",
+      "jpeg": "jpeg",
+      "png": "png",
+      "webp": "webp",
+      "avif": "avif"
+    },
+    "featureCards": {
+      "items": [
+        {
+          "title": "Rotacion precisa",
+          "description": "Rota imagenes 90° o 180° con precision pixel-perfect."
+        },
+        {
+          "title": "Espejo y volteo",
+          "description": "Voltea imagenes horizontal o verticalmente para crear efecto espejo."
+        },
+        {
+          "title": "Vista instantanea",
+          "description": "Ve los cambios al instante. Sin esperar procesamiento en servidor."
+        }
+      ]
+    },
+    "howTo": {
+      "title": "Como Rotar y Voltear Imagenes Online",
+      "step1Title": "Carga tu imagen",
+      "step1Desc": "Arrastra un archivo JPEG, PNG o WebP al editor. Se abre en tu navegador sin esperas de subida.",
+      "step2Title": "Rota o voltea",
+      "step2Desc": "Elige un angulo predefinido, activa volteo horizontal o vertical, o combinalos. La vista previa se actualiza en tiempo real.",
+      "step3Title": "Descarga el resultado",
+      "step3Desc": "Elige un formato de salida si tambien quieres convertir, y luego pulsa Descargar. El archivo queda listo al instante.",
+      "tipLabel": "TIP:",
+      "tipText": "Rotar 90° o 180° mantiene intactos los pixeles. La perdida de calidad solo ocurre al recomprimir, asi que usa 90%+ para un resultado casi sin perdida."
+    },
+    "featuresSection": {
+      "title": "Funciones",
+      "items": [
+        {
+          "title": "Angulos predefinidos",
+          "description": "0°, 90°, 180°, 270° con un clic"
+        },
+        {
+          "title": "Volteo espejo",
+          "description": "Volteo horizontal y vertical"
+        },
+        {
+          "title": "100% privado",
+          "description": "Procesamiento solo en el navegador"
+        },
+        {
+          "title": "Multi-formato",
+          "description": "Salida JPEG, PNG, WebP, AVIF"
+        }
+      ]
+    },
+    "why": {
+      "title": "Por que rotar y voltear imagenes?",
+      "p1": "Las camaras no siempre guardan la orientacion correcta. Un telefono puede guardar una foto horizontal como vertical, o la etiqueta de orientacion EXIF se pierde al exportar. Una rotacion rapida de 90° corrige el encuadre sin tocar los pixeles, asi que no hay penalizacion de calidad mas alla del guardado final.",
+      "p2": "Voltear tambien es util. En fotografia de producto se espejan imagenes para que los objetos miren a la misma direccion en un catalogo. Disenadores voltean capturas en modo selfie para que el texto sea legible. Y cualquiera ahorra tiempo corrigiendo orientacion en el navegador en lugar de abrir un editor pesado.",
+      "bullets": [
+        "Corrige fotos de lado o al reves por etiquetas EXIF incorrectas.",
+        "Espeja selfies y fotos de producto para que el texto sea legible y haya consistencia.",
+        "Haz la correccion aqui mismo en tu navegador — sin instalar Photoshop ni abrir GIMP para algo simple."
+      ]
+    },
+    "faqTitle": "Preguntas frecuentes"
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Como roto una imagen?",
+        "answer": "Sube tu imagen y usa los botones para rotar a la izquierda (90° antihorario), a la derecha (90° horario) o 180°. La vista previa se actualiza al instante."
+      },
+      {
+        "question": "Cual es la diferencia entre voltear y rotar?",
+        "answer": "Rotar gira la imagen alrededor de su centro un cierto angulo. Voltear crea un efecto espejo: horizontal invierte izquierda-derecha, vertical invierte arriba-abajo."
+      },
+      {
+        "question": "Rotar afecta la calidad de mi imagen?",
+        "answer": "Rotar en incrementos de 90° no pierde informacion de pixeles. Al guardar como JPEG/WebP, el control de calidad define la compresion. PNG siempre es sin perdida."
+      },
+      {
+        "question": "Puedo combinar rotacion y volteo?",
+        "answer": "Si. Puedes aplicar cualquier combinacion de rotaciones y volteos. Usa Restablecer para volver a la orientacion original cuando quieras."
+      },
+      {
+        "question": "Mi imagen se sube a un servidor?",
+        "answer": "No. Todo se procesa completamente en tu navegador usando Canvas. Tus imagenes nunca salen de tu dispositivo, garantizando privacidad."
+      }
+    ]
+  }
+}

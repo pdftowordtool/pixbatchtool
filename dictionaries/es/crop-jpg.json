@@ -1,0 +1,117 @@
+{
+  "breadcrumb": {
+    "home": "Inicio",
+    "imageCropper": "Recortador de Imagenes",
+    "cropWebp": "Recortar JPG"
+  },
+  "hero": {
+    "title": "Gratis Online",
+    "titleHighlight": "Recortador JPG",
+    "description": "Recorta imagenes JPG/JPEG con calidad ajustable. Rapido, gratis y privado."
+  },
+  "ui": {
+    "alerts": {
+      "selectImageFile": "Selecciona un archivo de imagen",
+      "fileSizeLimit": "El archivo debe ser menor de 10MB",
+      "selectLargerArea": "Selecciona un area mas grande para recortar",
+      "cropFailed": "No se pudo recortar la imagen. Intentalo de nuevo."
+    },
+    "dropzone": {
+      "dropYourImageHere": "Suelta Tu Imagen Aqui",
+      "orClickBrowse": "o haz clic para buscar un archivo",
+      "maxSizeHint": "Max 10MB - Salida JPG con control de calidad"
+    },
+    "replace": {
+      "title": "Reemplazar imagen",
+      "orDropNew": "o suelta un archivo nuevo"
+    },
+    "settings": {
+      "aspectRatio": "Relacion de aspecto",
+      "lockAspect": "Bloquear relacion al seleccionar",
+      "outputFormat": "Formato de salida",
+      "webpModernTitle": "JPG (Con perdida)",
+      "webpModernDesc": "Archivos mas pequenos con calidad ajustable"
+    },
+    "quality": {
+      "panelTitle": "Configuracion de Calidad",
+      "qualityLabel": "Calidad",
+      "smallerFile": "Archivo mas pequeno",
+      "betterQuality": "Mejor calidad"
+    },
+    "actions": {
+      "delete": "Eliminar",
+      "cropping": "Recortando...",
+      "startCrop": "Iniciar recorte",
+      "downloadWebp": "Descargar JPG",
+      "resetSelection": "Restablecer seleccion",
+      "croppedResult": "Resultado recortado",
+      "size": "Tamano"
+    },
+    "images": {
+      "uploadAlt": "Subida",
+      "croppedAlt": "Recortado"
+    },
+    "howTo": {
+      "title": "Como Recortar Imagenes JPG Online",
+      "step1Title": "Carga tu foto",
+      "step1Desc": "Arrastra cualquier imagen al editor o haz clic para elegirla desde tu dispositivo. Compatible con JPEG, PNG, WebP y mas.",
+      "step2Title": "Ajusta el recorte",
+      "step2Desc": "Elige una proporcion predefinida o recorte libre y usa el control de calidad para ajustar peso final.",
+      "step3Title": "Descarga tu JPG",
+      "step3Desc": "Pulsa recortar, revisa la vista previa y guarda el JPEG optimizado en un clic.",
+      "tip": "TIP:",
+      "tipText": "Usa 80-90% de calidad en fotos para buen detalle y menor peso."
+    },
+    "why": {
+      "title": "Por que Recortar JPG?",
+      "p1": "JPEG es el formato mas usado para fotos en la web. Recortar quita zonas innecesarias y reduce el peso del archivo.",
+      "p2": "Si no necesitas transparencia, JPG suele ser mejor que PNG para cargar mas rapido y ahorrar datos.",
+      "b1": "Ideal para fotos de producto, blog y redes sociales.",
+      "b2": "El control de calidad te deja equilibrar nitidez y tamano.",
+      "b3": "Imagenes ligeras mejoran velocidad, Core Web Vitals y experiencia de usuario."
+    },
+    "features": {
+      "title": "Funciones Clave",
+      "presetRatiosTitle": "Proporciones",
+      "presetRatiosDesc": "9 presets + libre + bloqueo",
+      "transparencyTitle": "Control de calidad",
+      "transparencyDesc": "Slider de calidad 1-100%",
+      "privateTitle": "100% Privado",
+      "privateDesc": "Procesamiento solo en el navegador",
+      "compressionTitle": "Archivos pequenos",
+      "compressionDesc": "Compresion JPG optimizada"
+    },
+    "proTips": {
+      "title": "Consejos Pro para JPG",
+      "t1": "Usa la relacion de recorte segun el destino: 16:9 para banners, 1:1 para feeds cuadrados.",
+      "t2": "En la mayoria de fotos web, 80-85% da un gran balance entre calidad y tamano.",
+      "t3": "JPG no soporta transparencia. Usa PNG o WebP si necesitas fondo transparente.",
+      "t4": "Para impresion usa 95-100%. Para email o chat, 70-80% suele ser suficiente."
+    },
+    "faqTitle": "Preguntas Frecuentes"
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Recortar JPG reduce calidad?",
+        "answer": "JPEG tiene compresion con perdida, asi que hay recodificacion. En 85-90% la diferencia casi no se nota."
+      },
+      {
+        "question": "Que calidad usar para imagenes web?",
+        "answer": "Empieza en 75-85% para equilibrar nitidez y peso. Sube solo si el detalle fino es muy importante."
+      },
+      {
+        "question": "Puedo recortar PNG o WebP y guardar como JPG?",
+        "answer": "Si. Puedes subir formatos comunes y exportar en JPG. Las zonas transparentes se rellenan con fondo solido."
+      },
+      {
+        "question": "Por que mi archivo recortado pesa mas de lo esperado?",
+        "answer": "Con calidad muy alta, JPG puede pesar mas, sobre todo en recortes pequenos. Bajar a 80-85% suele ayudar."
+      },
+      {
+        "question": "Se envia algun dato fuera de mi dispositivo?",
+        "answer": "No. El recorte y la codificacion JPG se hacen localmente en tu navegador."
+      }
+    ]
+  }
+}

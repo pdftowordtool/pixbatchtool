@@ -1,0 +1,109 @@
+{
+  "hero": {
+    "titlePrefix": "Rechtlicher",
+    "titleHighlight": "Hinweis",
+    "description": "Wichtige Informationen zur Nutzung unseres Dienstes und zu Haftungsbeschrankungen.",
+    "lastUpdatedLabel": "Zuletzt aktualisiert",
+    "lastUpdatedDate": "15. Januar 2025"
+  },
+  "sections": {
+    "generalDisclaimer": {
+      "title": "Allgemeiner Haftungsausschluss",
+      "paragraphs": [
+        "Die von PixBatch auf der Website und im Dienst bereitgestellten Informationen dienen nur allgemeinen Informationszwecken. Obwohl die Inhalte nach bestem Wissen bereitgestellt werden, ubernehmen wir keine ausdruckliche oder stillschweigende Gewahr fur Richtigkeit, Angemessenheit, Gultigkeit, Verlasslichkeit, Verfugbarkeit oder Vollstandigkeit.",
+        "Unter keinen Umstanden haften wir fur Verluste oder Schaden, die durch die Nutzung der Website oder des Dienstes oder durch das Vertrauen auf bereitgestellte Informationen entstehen. Die Nutzung erfolgt ausschliesslich auf eigenes Risiko."
+      ]
+    },
+    "noWarranties": {
+      "title": "Keine Gewahrleistungen",
+      "intro": "Der Dienst wird WIE BESEHEN und NACH VERFUGBARKEIT bereitgestellt, mit allen Fehlern und ohne Gewahrleistung irgendeiner Art. Soweit gesetzlich zulassig, schliessen wir alle Gewahrleistungen aus, einschliesslich:",
+      "items": [
+        "Stillschweigende Gewahrleistung der Marktgangigkeit",
+        "Eignung fur einen bestimmten Zweck",
+        "Nichtverletzung von Rechten",
+        "Eigentum oder ungestorte Nutzung",
+        "Richtigkeit oder Vollstandigkeit von Daten",
+        "Unterbrechungsfreier oder fehlerfreier Betrieb"
+      ],
+      "outro": "Wir gewahrleisten nicht, dass der Dienst Ihre Anforderungen erfullt, bestimmte Ergebnisse erzielt, mit anderer Software kompatibel ist, ohne Unterbrechungen oder Fehler lauft oder dass Fehler behoben werden konnen."
+    },
+    "imageProcessingDisclaimer": {
+      "title": "Hinweis zur Bildverarbeitung",
+      "intro": "Obwohl PixBatch Bilder aus Datenschutzgrunden lokal im Browser verarbeitet, konnen wir Folgendes nicht garantieren:",
+      "items": [
+        "Qualitat oder Genauigkeit verarbeiteter Bilder",
+        "Dass verarbeitete Bilder Ihren konkreten Anforderungen entsprechen",
+        "Kompatibilitat mit allen Bildformaten oder Dateigrossen",
+        "Vermeidung von Datenverlust wahrend der Verarbeitung",
+        "Dass Metadaten nicht unerwartet verandert werden"
+      ],
+      "outro": "Wichtig: Erstellen Sie immer Sicherungskopien Ihrer Originalbilder vor der Verarbeitung. Wir haften nicht fur Verlust, Beschadigung oder Korruption von Bildern wahrend oder nach der Verarbeitung."
+    },
+    "externalLinksDisclaimer": {
+      "title": "Haftungsausschluss fur externe Links",
+      "paragraphs": [
+        "Unsere Website kann Links zu externen Websites enthalten, die nicht von uns bereitgestellt oder verwaltet werden. Wir garantieren nicht fur Richtigkeit, Relevanz, Aktualitat oder Vollstandigkeit der dortigen Informationen.",
+        "Wir haben keine Kontrolle uber Art, Inhalt und Verfugbarkeit externer Seiten. Die Aufnahme von Links bedeutet keine Empfehlung oder Billigung der dort vertretenen Ansichten. Bei unangemessenen Inhalten kontaktieren Sie uns bitte."
+      ]
+    },
+    "professionalAdviceDisclaimer": {
+      "title": "Hinweis zu professioneller Beratung",
+      "paragraphs": [
+        "Diese Website enthalt keine professionelle Beratung. Die Informationen dienen nur allgemeinen Informations- und Bildungszwecken und ersetzen keine professionelle Beratung.",
+        "Bevor Sie auf Basis dieser Informationen handeln, sollten Sie geeignete Fachleute konsultieren. Wir bieten keine professionelle Beratung an. Die Nutzung erfolgt auf eigenes Risiko."
+      ]
+    },
+    "intellectualPropertyRights": {
+      "title": "Rechte am geistigen Eigentum",
+      "intro": "Sie sind allein dafur verantwortlich, dass Sie die erforderlichen Rechte und Genehmigungen zur Verarbeitung von Bildern uber unseren Dienst besitzen. Wir schliessen jede Haftung aus fur:",
+      "items": [
+        "Urheberrechtsverletzungen oder Verletzungen geistiger Eigentumsrechte",
+        "Unbefugte Nutzung markenrechtlich geschutzter Bilder oder Logos",
+        "Verletzung von Rechten Dritter, einschliesslich Datenschutz- und Personlichkeitsrechten",
+        "Verarbeitung von Bildern mit illegalen oder verbotenen Inhalten"
+      ],
+      "outro": "Durch die Nutzung unseres Dienstes sichern Sie zu, dass Sie alle erforderlichen Rechte, Lizenzen und Genehmigungen fur die verarbeiteten Bilder besitzen oder eingeholt haben."
+    },
+    "resultsAndPerformance": {
+      "title": "Ergebnisse und Leistung",
+      "intro": "Alle Leistungsmetriken, Verarbeitungsgeschwindigkeiten oder Qualitatsverbesserungen auf unserer Website oder in Marketingmaterialien sind nur allgemeine Beispiele. Tatsachliche Ergebnisse konnen je nach folgenden Faktoren abweichen:",
+      "items": [
+        "Geratespezifikationen und Browserfahigkeiten",
+        "Bildgrosse, Format und Komplexitat",
+        "Netzwerkverbindung und Bandbreite",
+        "Anzahl gleichzeitig verarbeiteter Bilder",
+        "Gewahlte Verarbeitungsoptionen und Einstellungen"
+      ],
+      "outro": "Wir garantieren keine bestimmten Ergebnisse, Verarbeitungszeiten oder Qualitatsverbesserungen. Fruhere Ergebnisse sind kein Indikator fur zukunftige Ergebnisse."
+    },
+    "limitationOfLiability": {
+      "title": "Haftungsbeschrankung",
+      "intro": "Soweit gesetzlich zulassig, haften PixBatch, verbundene Unternehmen, Direktoren, Mitarbeitende oder Vertreter nicht fur direkte, indirekte, zufallige, besondere, punitive oder Folgeschaden aus:",
+      "items": [
+        "Ihrer Nutzung oder Nichtnutzbarkeit des Dienstes",
+        "Fehlern oder Auslassungen in Inhalten oder Informationen",
+        "Verlust oder Schaden an Bildern oder Daten",
+        "Unbefugtem Zugriff auf oder Anderung Ihrer Ubertragungen oder Daten",
+        "Sonstigen Angelegenheiten im Zusammenhang mit dem Dienst"
+      ],
+      "outro": "Diese Begrenzung gilt unabhangig davon, ob die behauptete Haftung auf Vertrag, unerlaubter Handlung, Fahrlassigkeit, Gefahrdungshaftung oder anderer Grundlage beruht, selbst wenn wir auf mogliche Schaden hingewiesen wurden."
+    },
+    "changesToDisclaimer": {
+      "title": "Anderungen dieses Hinweises",
+      "paragraphs": [
+        "Wir behalten uns das Recht vor, diesen Hinweis jederzeit zu andern. Anderungen treten sofort mit Veroffentlichung auf dieser Seite und aktualisiertem Datum in Kraft.",
+        "Es liegt in Ihrer Verantwortung, diesen Hinweis regelmassig zu prufen. Ihre fortgesetzte Nutzung nach Veroffentlichung von Anderungen gilt als Zustimmung."
+      ]
+    },
+    "contactUs": {
+      "title": "Kontakt",
+      "intro": "Wenn Sie Fragen zu diesem Hinweis haben, kontaktieren Sie uns bitte:",
+      "emailLabel": "E-Mail",
+      "addressLabel": "Adresse",
+      "phoneLabel": "Telefon",
+      "email": "rohit@pixbatch.com",
+      "address": "Panchavti Road, Gorwa, Vadodara - 390016, Gujarat, India",
+      "phone": "+91 9104826422"
+    }
+  }
+}

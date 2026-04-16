@@ -1,0 +1,113 @@
+{
+  "hero": {
+    "titleLine1": "Every tool you need to edit",
+    "titleHighlight": "images in bulk",
+    "description": "Powerful browser-based image processing tools. Everything runs locally on your device. No uploads, complete privacy."
+  },
+  "tools": [
+    {
+      "title": "Compress IMAGE",
+      "description": "Reduce file size for JPG, PNG, SVG, and GIF without visible quality loss...",
+      "href": "/compress-image"
+    },
+    {
+      "title": "Resize IMAGE",
+      "description": "Resize by width/height or percentage. Maintain aspect ratio and choose fit...",
+      "href": "/image-resizer"
+    },
+    {
+      "title": "Crop IMAGE",
+      "description": "Precisely crop to custom or preset ratios. Frame your subject or prepare...",
+      "href": "/crop-image"
+    },
+    {
+      "title": "Rotate & Flip IMAGE",
+      "description": "Rotate by 90 degree steps and flip horizontally or vertically. Batch-process...",
+      "href": "/rotate-flip-image"
+    },
+    {
+      "title": "Convert IMAGE",
+      "description": "Convert between JPG, PNG, WebP, GIF, and more. Batch support with automatic...",
+      "href": "/image-converter"
+    },
+    {
+      "title": "Optimize IMAGE",
+      "description": "Automatically optimize images for web: smart compression, color profile...",
+      "href": "/optimize-image"
+    },
+    {
+      "title": "EXIF Viewer",
+      "description": "View EXIF, IPTC, XMP, and GPS metadata from your images. Privacy-first...",
+      "href": "/exif-viewer"
+    },
+    {
+      "title": "Remove EXIF",
+      "description": "Remove EXIF metadata from your images for privacy. Batch processing supported...",
+      "href": "/remove-exif"
+    }
+  ],
+  "howItWorks": {
+    "title": "How It Works",
+    "subtitle": "Simple, fast, and secure image processing in three easy steps",
+    "steps": [
+      {
+        "title": "Upload Your Images",
+        "description": "Drag and drop your files or click to browse. Support for all major formats up to 5MB per file."
+      },
+      {
+        "title": "Configure & Process",
+        "description": "Choose your settings and process images instantly in your browser. Everything happens on your device."
+      },
+      {
+        "title": "Download Results",
+        "description": "Download processed images individually or as a ZIP archive. Results are ready instantly."
+      }
+    ],
+    "badge": "Processing happens instantly in your browser"
+  },
+  "privacy": {
+    "title": "Complete Privacy by Design",
+    "description": "All processing happens locally in your browser. Your images never get uploaded to any server.",
+    "items": [
+      {
+        "title": "Zero Upload Required",
+        "description": "Your images never leave your device. All processing happens locally in your browser using modern web APIs."
+      },
+      {
+        "title": "Offline Capable",
+        "description": "Once loaded, most tools work without an internet connection. Process your images anywhere, anytime."
+      },
+      {
+        "title": "Open Source Technology",
+        "description": "Built with modern web technologies and open standards. You can verify exactly how your images are processed."
+      }
+    ],
+    "badge": "100% CLIENT-SIDE"
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "subtitle": "Everything you need to know about PixBatch",
+    "items": [
+      {
+        "question": "Do you upload my images to a server?",
+        "answer": "No. PixBatch processes images locally in your browser. Your files never leave your device."
+      },
+      {
+        "question": "What are the upload limits?",
+        "answer": "Up to 5MB per file and up to 10 images per batch (per upload)."
+      },
+      {
+        "question": "Which image formats are supported?",
+        "answer": "Most tools support JPG/JPEG, PNG, WebP, AVIF, and GIF. Supported formats can vary slightly by tool."
+      },
+      {
+        "question": "Can I remove EXIF/metadata before sharing?",
+        "answer": "Yes. Use our Remove EXIF tool (or the “Strip metadata” option where available) to remove EXIF/ICC metadata before downloading."
+      },
+      {
+        "question": "Does PixBatch work offline and on mobile?",
+        "answer": "Yes. After the page loads, most tools can keep working without an internet connection, and everything runs on modern mobile and desktop browsers. Processing speed depends on your device."
+      }
+    ]
+  }
+}

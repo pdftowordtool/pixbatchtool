@@ -1,0 +1,130 @@
+{
+  "breadcrumb": {
+    "home": "Home",
+    "compressImage": "Compress Image",
+    "compressWebp": "Compress WebP"
+  },
+  "hero": {
+    "title": "Free Online",
+    "titleHighlight": "WebP Compressor",
+    "description": "Reduce WebP file size while maintaining quality. Perfect for photos, web images, and digital content."
+  },
+  "dropzone": {
+    "addMore": "Add more WebP images",
+    "orDrop": "or drop WebP files",
+    "dropHere": "DROP YOUR WebP IMAGES HERE",
+    "orClick": "or click to browse WebP files",
+    "browse": "Browse WebP Files",
+    "maxSize": "Max 5MB per file - Up to 10 WebP images per upload"
+  },
+  "qualitySettings": {
+    "title": "Quality Settings",
+    "default": "(default is 85%)",
+    "smallerSize": "Smaller Size",
+    "betterQuality": "Better Quality",
+    "description": "WebP uses lossy compression. Lower quality reduces file size significantly but may affect image details. Recommended: 75-90% for most use cases.",
+    "presets": {
+      "web": "Web",
+      "standard": "Standard",
+      "high": "High",
+      "max": "Max"
+    }
+  },
+  "privacy": {
+    "title": "Data & Privacy",
+    "p1": "Your images are processed on-the-fly. Originals stay in your browser; compressed results are streamed back immediately.",
+    "p2": "No permanent storage: the server keeps temporary buffers just long enough to encode and deliver the result, then memory is released.",
+    "p3": "No analytics on image content; only anonymous aggregate performance counters may be collected (sizes, timings) for optimization.",
+    "p4": "Close the tab any time after processing completes. While processing, avoid closing to prevent interruption.",
+    "notice": "All processing local + server-side transient, no files stored.",
+    "details": "Details"
+  },
+  "status": {
+    "compressing": "Compressing...",
+    "errorCompressing": "Error compressing image",
+    "allDone": "All done!",
+    "imagesCompressed": "images compressed",
+    "imageCompressed": "image compressed",
+    "settingsChanged": "Settings have changed!",
+    "settingsChangedDesc": "Click Apply New Settings to re-compress your WebP images with the new quality configuration."
+  },
+  "actions": {
+    "applyNewSettings": "Apply New Settings",
+    "downloadZip": "Download ZIP",
+    "clearAll": "Clear All",
+    "download": "Download"
+  },
+  "summary": {
+    "title": "Compression Summary",
+    "spaceSaved": "Space Saved",
+    "filesProcessed": "Files Processed",
+    "sizeReduced": "Size Reduced",
+    "original": "Original",
+    "compressed": "Compressed",
+    "saved": "saved"
+  },
+  "sections": {
+    "howTo": {
+      "title": "How To Compress WebP",
+      "step1Title": "Upload WebP Files",
+      "step1Desc": "Drag and drop your WebP files. Multi-photo upload is fully supported.",
+      "step2Title": "Tune Lossy Output",
+      "step2Desc": "Turn down the quality slider slightly to see massive file size drops without visual artifacting.",
+      "step3Title": "Download",
+      "step3Desc": "Save your lightweight WebPs instantly, optimized for web and social media."
+    },
+    "makeSmaller": {
+      "title": "Make Your WebP Smaller Without Losing Quality",
+      "card1Title": "Lossy Perfection",
+      "card1Desc": "WebP compression removes unneeded data to reduce size without noticeable blur.",
+      "card2Title": "Fast Page Loads",
+      "card2Desc": "Lean WebPs speed up rendering and improve user experience.",
+      "card3Title": "Save Bandwidth",
+      "card3Desc": "Lower file sizes mean lower hosting costs and faster mobile downloads."
+    },
+    "why": {
+      "title": "Why Compress WebP?",
+      "p1": "Shrinking WebPs eliminates hidden metadata and applies lossy algorithms for much lighter files. This improves loading speed and SEO metrics.",
+      "tipLabel": "Tip:",
+      "tipText": "75%-85% quality usually gives excellent size reduction while looking almost identical."
+    },
+    "qualityGuide": {
+      "title": "Quality vs Size Guide",
+      "intro": "WebP compression is lossy, trading some quality for smaller file size. Adjust the quality slider to see file size changes.",
+      "demoQuality": "Demo Quality",
+      "samplePhoto": "Sample: 2MB Photo",
+      "noSavings": "No savings",
+      "qualityRecommendations": "Quality Recommendations",
+      "maximumQuality": "Maximum Quality",
+      "maximumQualityDesc": "Professional prints - Portfolio - Minimal compression",
+      "recommended": "Recommended",
+      "recommendedDesc": "Website photos - Social media - Best balance",
+      "highCompression": "High Compression",
+      "highCompressionDesc": "Thumbnails - Email attachments - Faster loading",
+      "maxCompression": "Maximum Compression",
+      "maxCompressionDesc": "Previews only - Visible artifacts - Not recommended"
+    },
+    "faqTitle": "Frequently Asked Questions"
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How does WebP compression reduce file size?",
+        "answer": "WebP uses lossy compression that removes less-visible image data, significantly reducing file size."
+      },
+      {
+        "question": "What is the best WebP quality percentage for websites?",
+        "answer": "Most sites use 75%-85% quality for the best balance between image quality and file size."
+      },
+      {
+        "question": "Does smaller WebP size help SEO?",
+        "answer": "Yes. Lighter WebP files improve loading speed and Core Web Vitals, which can help search rankings."
+      },
+      {
+        "question": "Why not use PNG instead of WebP?",
+        "answer": "WebP is better for complex photos and gradients. PNG is better for transparency, logos, and UI graphics."
+      }
+    ]
+  }
+}
+

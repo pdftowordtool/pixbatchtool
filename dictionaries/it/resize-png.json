@@ -1,0 +1,190 @@
+{
+  "breadcrumb": {
+    "home": "Home",
+    "imageResizer": "Ridimensiona immagini",
+    "resizePng": "Ridimensiona PNG"
+  },
+  "hero": {
+    "title": "Gratis online",
+    "titleHighlight": "PNG Resizer",
+    "description": "Ridimensiona immagini PNG mantenendo trasparenza e qualità senza perdita. Perfetto per loghi, grafiche e asset con sfondo trasparente."
+  },
+  "dropzone": {
+    "addMore": "Aggiungi altre immagini PNG",
+    "orDrop": "oppure trascina file PNG",
+    "dropHere": "TRASCINA QUI LE TUE IMMAGINI PNG",
+    "orClick": "o clicca per selezionare solo file PNG",
+    "browse": "Seleziona file PNG",
+    "maxSize": "Max 10MB per file • Fino a 20 immagini per caricamento"
+  },
+  "tabs": {
+    "custom": {
+      "title": "Dimensioni personalizzate",
+      "desc": "Imposta larghezza e altezza precise"
+    },
+    "percentage": {
+      "title": "Scala percentuale",
+      "desc": "Ridimensiona in percentuale"
+    },
+    "preset": {
+      "title": "Preset",
+      "desc": "Dimensioni popolari"
+    }
+  },
+  "custom": {
+    "maintainAspect": "Mantieni proporzioni (opzionale)",
+    "tipLabel": "Suggerimento:",
+    "tipText": "Attiva le proporzioni per evitare distorsioni"
+  },
+  "percentage": {
+    "scale": "Scala"
+  },
+  "presets": {
+    "items": {
+      "instagramPostSquare": "Post Instagram (quadrato)",
+      "instagramStory": "Storia Instagram",
+      "facebookPost": "Post Facebook",
+      "facebookCover": "Copertina Facebook",
+      "twitterPost": "Post Twitter",
+      "twitterHeader": "Header Twitter",
+      "youtubeThumbnail": "Miniatura YouTube",
+      "linkedinPost": "Post LinkedIn",
+      "fullHD": "Full HD"
+    }
+  },
+  "geometry": {
+    "title": "Geometria e vincoli",
+    "contain": "Contieni",
+    "cover": "Copri",
+    "fill": "Riempi",
+    "center": "Centro",
+    "top": "Alto",
+    "bottom": "Basso",
+    "left": "Sinistra",
+    "right": "Destra",
+    "preventUpscaling": "Evita upscaling"
+  },
+  "output": {
+    "title": "Formato di output",
+    "quality": "Qualità",
+    "lowerSize": "File più piccolo",
+    "higherQuality": "Qualità più alta",
+    "same": "Uguale"
+  },
+  "advanced": {
+    "title": "Impostazioni avanzate",
+    "badge": "Ottimizzato",
+    "stripMetadata": "Rimuovi metadati (EXIF, ICC) per file più piccoli",
+    "background": "Sfondo",
+    "backgroundPlaceholder": "#ffffff o rgba(0,0,0,0)"
+  },
+  "resizeSummary": {
+    "title": "Riepilogo",
+    "targetSize": "Dimensione target",
+    "filesResized": "File ridimensionati",
+    "totalSize": "Dimensione totale",
+    "format": "Formato",
+    "quality": "Qualità",
+    "aspectRatio": "Proporzioni",
+    "yes": "Sì",
+    "no": "No"
+  },
+  "notices": {
+    "startResizeHint": "Clicca \"Avvia\" per ridimensionare le immagini.",
+    "settingsChangedHint": "Impostazioni modificate. Clicca \"Avvia\" per applicarle alle immagini."
+  },
+  "actions": {
+    "startResize": "Avvia",
+    "resetSettings": "Reimposta",
+    "downloadZip": "Scarica ZIP",
+    "clearAll": "Svuota",
+    "download": "Scarica"
+  },
+  "status": {
+    "resizing": "Ridimensionamento...",
+    "errorResizing": "Errore nel ridimensionamento",
+    "allDone": "Fatto!",
+    "imageResized": "immagine ridimensionata",
+    "imagesResized": "immagini ridimensionate"
+  },
+  "privacy": {
+    "title": "Dati e privacy",
+    "p1": "Il ridimensionamento avviene localmente nel browser usando Canvas. Le immagini non lasciano il tuo dispositivo.",
+    "p2": "Nessun upload, nessuna archiviazione, nessun tracciamento del contenuto.",
+    "p3": "Privacy totale: tutto gira lato client sul tuo dispositivo.",
+    "p4": "Puoi chiudere la scheda quando vuoi. Gli originali restano intatti.",
+    "notice": "Tutto avviene nel browser, senza upload.",
+    "details": "Dettagli"
+  },
+  "errors": {
+    "pngOnly": "Seleziona solo file PNG"
+  },
+  "sections": {
+    "howTo": {
+      "title": "Come ridimensionare un PNG online",
+      "step1Title": "Seleziona PNG",
+      "step1Desc": "Trascina PNG trasparenti o loghi. Elaborazione sicura in memoria locale.",
+      "step2Title": "Definisci vincoli",
+      "step2Desc": "Imposta pixel target o percentuale. La trasparenza resta invariata.",
+      "step3Title": "Esporta asset",
+      "step3Desc": "Scarica i file ridimensionati. Se serve, imposta un colore di sfondo nelle impostazioni avanzate.",
+      "tipLabel": "TIP:",
+      "tipText": "PNG è perfetto per loghi con trasparenza. Usa Riempi per dimensioni esatte o Proporzioni per mantenere la forma. PNG mantiene la trasparenza; JPEG/WebP spesso riducono di più la dimensione."
+    },
+    "why": {
+      "title": "Perché ridimensionare PNG?",
+      "p1": "Ridimensionare PNG aiuta a servire grafiche nitide alle dimensioni corrette senza appesantire le pagine. Asset esatti migliorano Core Web Vitals e SEO mantenendo la trasparenza.",
+      "tipLabel": "Suggerimento:",
+      "tipText": "Pubblica dimensioni esatte per ridurre CLS e migliorare le performance percepite."
+    },
+    "platform": {
+      "title": "Dimensione perfetta per ogni piattaforma",
+      "card1Title": "Supporto canale alfa",
+      "card1Desc": "Sostituisci o mantieni lo sfondo senza rovinare la trasparenza.",
+      "card2Title": "Bordi perfetti",
+      "card2Desc": "Icone e grafiche web scalano senza sbavature.",
+      "card3Title": "Efficiente",
+      "card3Desc": "I PNG possono essere pesanti. Dimensioni esatte riducono il peso e migliorano le metriche."
+    },
+    "qualityGuide": {
+      "title": "Guida qualità vs dimensione",
+      "introPrefix": "Formati diversi producono dimensioni diverse.",
+      "introMiddle1": "offre i file più piccoli, seguito da",
+      "introMiddle2": "e",
+      "introSuffix": "Regola la qualità per vedere l'impatto sulla dimensione.",
+      "demoQuality": "Qualità demo",
+      "sample": "Esempio: immagine Full HD (1920x1080)",
+      "noSavings": "Nessun risparmio",
+      "qualityRecommendations": "Consigli",
+      "maximumQuality": "Qualità massima",
+      "maximumQualityDesc": "Stampa professionale • Portfolio • Compressione minima",
+      "recommended": "Consigliato",
+      "recommendedDesc": "Web • Social • Miglior equilibrio",
+      "moderate": "Moderato",
+      "moderateDesc": "Miniature • Anteprime • File più piccoli",
+      "lowQuality": "Bassa qualità",
+      "lowQualityDesc": "Anteprime piccole • Placeholder • Non consigliato"
+    },
+    "faqTitle": "Domande frequenti"
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Perdo la trasparenza ridimensionando un PNG?",
+        "answer": "No. Se mantieni PNG come formato di output, lo sfondo trasparente rimane trasparente."
+      },
+      {
+        "question": "Cosa succede se imposto JPEG come output?",
+        "answer": "JPEG non supporta trasparenza: le aree trasparenti vengono sostituite con un colore di sfondo (default #ffffff)."
+      },
+      {
+        "question": "Posso ingrandire un PNG piccolo?",
+        "answer": "Sì, ma l'upscaling può ridurre la nitidezza. Puoi disattivare \"Evita upscaling\" se necessario."
+      },
+      {
+        "question": "Questo tool è privato?",
+        "answer": "Sì. Tutto gira nel browser e le immagini non vengono caricate su un server."
+      }
+    ]
+  }
+}

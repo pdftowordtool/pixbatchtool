@@ -1,0 +1,140 @@
+{
+  "breadcrumb": {
+    "home": "Home",
+    "rotateFlip": "Rotate & Flip"
+  },
+  "hero": {
+    "title": "Free Online",
+    "titleHighlight": "Image Rotator",
+    "description": "Rotate and flip your images with precision. 90°, 180° rotations and horizontal/vertical flips — all processed locally in your browser."
+  },
+  "ui": {
+    "dropzone": {
+      "dropYourImageHere": "Drop Your Image Here",
+      "orClickBrowse": "or click to browse a file",
+      "supportsHint": "Supports JPEG, PNG, WebP, GIF"
+    },
+    "replace": {
+      "title": "Replace image",
+      "orDropNew": "or drop a new file"
+    },
+    "preview": {
+      "delete": "Delete",
+      "processing": "Processing...",
+      "downloadImage": "Download Image",
+      "resetToOriginal": "Reset to Original",
+      "applyTransformationHint": "Apply a transformation to enable download",
+      "previewAlt": "Preview",
+      "transformationApplied": "Transformation Applied",
+      "originalSize": "Original Size",
+      "newSize": "New Size",
+      "transformation": {
+        "rotated": "Rotated",
+        "flippedH": "Flipped H",
+        "flippedV": "Flipped V"
+      }
+    },
+    "settings": {
+      "angle": "Angle",
+      "flipHorizontal": "Flip horizontal",
+      "flipVertical": "Flip vertical",
+      "outputFormat": "Output format",
+      "stripMetadata": "Strip metadata (EXIF/ICC)",
+      "background": "Background",
+      "backgroundPlaceholder": "#ffffff or rgba(0,0,0,0)",
+      "quality": "Quality",
+      "smallerFile": "Smaller file",
+      "betterQuality": "Better quality"
+    },
+    "formats": {
+      "original": "original",
+      "jpeg": "jpeg",
+      "png": "png",
+      "webp": "webp",
+      "avif": "avif"
+    },
+    "featureCards": {
+      "items": [
+        {
+          "title": "Precise Rotation",
+          "description": "Rotate images by 90° or 180° with pixel-perfect accuracy."
+        },
+        {
+          "title": "Mirror & Flip",
+          "description": "Flip images horizontally or vertically to create mirror effects."
+        },
+        {
+          "title": "Instant Preview",
+          "description": "See your changes immediately. No waiting for server processing."
+        }
+      ]
+    },
+    "howTo": {
+      "title": "How to Rotate & Flip Images Online",
+      "step1Title": "Load Your Image",
+      "step1Desc": "Drag any JPEG, PNG, or WebP file into the editor. It opens right in your browser with zero upload wait.",
+      "step2Title": "Rotate or Flip",
+      "step2Desc": "Pick a preset angle, toggle horizontal or vertical flip, or combine them. The preview updates in real time so you can see exactly what you get.",
+      "step3Title": "Download the Result",
+      "step3Desc": "Choose an output format if you want to convert at the same time, then hit Download. The file is ready to use immediately.",
+      "tipLabel": "TIP:",
+      "tipText": "Rotating by 90° or 180° keeps every pixel intact. Quality loss only happens during re-compression, so set the slider to 90%+ for visually lossless output."
+    },
+    "featuresSection": {
+      "title": "Features",
+      "items": [
+        {
+          "title": "Preset Angles",
+          "description": "0°, 90°, 180°, 270° with one click"
+        },
+        {
+          "title": "Mirror Flip",
+          "description": "Horizontal and vertical flips"
+        },
+        {
+          "title": "100% Private",
+          "description": "Browser-only processing"
+        },
+        {
+          "title": "Multi-Format",
+          "description": "JPEG, PNG, WebP, AVIF output"
+        }
+      ]
+    },
+    "why": {
+      "title": "Why Rotate & Flip Images?",
+      "p1": "Cameras do not always get the orientation right. A phone might save a landscape shot as portrait, or the EXIF orientation tag gets lost during an export. A quick 90° rotation fixes the framing without touching the actual pixels, so there is no quality penalty beyond the final save step.",
+      "p2": "Flipping is equally useful. Product photographers mirror images so that items face the same direction across a catalog grid. Designers flip selfie-mode screenshots to make text readable again. And anyone building a thumbnail sheet saves time by fixing orientation in the browser instead of opening a heavy desktop editor.",
+      "bullets": [
+        "Fix sideways or upside-down photos caused by incorrect EXIF orientation tags.",
+        "Mirror selfies and product shots so text is readable and items face a consistent direction.",
+        "Make the correction right here in your browser — no need to install Photoshop or fire up GIMP for a simple rotation."
+      ]
+    },
+    "faqTitle": "Frequently Asked Questions"
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How do I rotate an image?",
+        "answer": "Simply upload your image and use the rotation buttons to rotate left (90° counter-clockwise), right (90° clockwise), or 180°. The preview updates instantly."
+      },
+      {
+        "question": "What's the difference between flip and rotate?",
+        "answer": "Rotating turns the image around its center point by a certain angle. Flipping creates a mirror image - horizontal flip mirrors left-to-right, vertical flip mirrors top-to-bottom."
+      },
+      {
+        "question": "Will rotating affect my image quality?",
+        "answer": "Rotating by 90° increments is lossless for the pixel data. When saving as JPEG/WebP, the quality slider controls the compression level. PNG output is always lossless."
+      },
+      {
+        "question": "Can I combine rotation and flip?",
+        "answer": "Yes! You can apply any combination of rotations and flips. Use the Reset button to return to the original orientation at any time."
+      },
+      {
+        "question": "Is my image uploaded to a server?",
+        "answer": "No, all processing happens entirely in your browser using HTML5 Canvas. Your images never leave your device, ensuring complete privacy."
+      }
+    ]
+  }
+}

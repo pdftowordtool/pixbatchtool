@@ -1,0 +1,145 @@
+{
+  "breadcrumb": {
+    "home": "Home",
+    "imageConverter": "Image Converter"
+  },
+  "hero": {
+    "title": "Free Online",
+    "titleHighlight": "Image Converter",
+    "description": "Convert images between PNG, JPEG, WebP, and AVIF formats. Fast, free, and privacy-focused - everything happens in your browser."
+  },
+  "dropzone": {
+    "addMore": "Add more images",
+    "orDrop": "or drop files",
+    "dropHere": "DROP YOUR IMAGES HERE",
+    "orClick": "or click to browse files",
+    "browseFiles": "Browse Files",
+    "maxSize": "Max 5MB per file - Up to 10 images per upload"
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Which formats can I convert to?",
+        "answer": "You can convert to WebP, AVIF, PNG, and JPEG, and select one or multiple output formats at once."
+      },
+      {
+        "question": "Is this image converter private?",
+        "answer": "Yes. Processing runs in your browser and your files are not permanently stored on a server."
+      },
+      {
+        "question": "Can I convert multiple images together?",
+        "answer": "Yes. Upload multiple images and download either individual outputs or a ZIP file."
+      },
+      {
+        "question": "Will image quality be reduced?",
+        "answer": "For lossy formats like JPEG, WebP, and AVIF, quality depends on the quality slider. PNG remains lossless."
+      }
+    ]
+  },
+  "ui": {
+    "alerts": {
+      "selectImagesOnly": "Please select image files only",
+      "dropImagesOnly": "Please drop image files only"
+    },
+    "settings": {
+      "targetFormatSettings": "Target Format Settings",
+      "all": "ALL",
+      "formatSelected": "formats selected",
+      "formatSelectedSingle": "format selected",
+      "chooseOutputFormats": "Choose Output Formats",
+      "resetWebpOnly": "Reset to WebP only",
+      "selectAllFormats": "Select All Formats",
+      "selectionInfo": "Each image will be converted to:",
+      "selectionDescription": "Select one or more target formats. When multiple formats are selected, each image will be converted to all selected formats and downloaded as a ZIP file. WebP offers excellent compression, AVIF provides the best compression, PNG preserves transparency losslessly, and JPEG has universal support.",
+      "qualitySettings": "Quality Settings",
+      "defaultQuality": "(default is 85%)",
+      "smallerFile": "Smaller file",
+      "betterQuality": "Better quality",
+      "advancedSettings": "Advanced Settings",
+      "optimized": "Optimized",
+      "basic": "Basic",
+      "stripMetadata": "Strip metadata (EXIF, ICC) for smaller files",
+      "stripMetadataDesc": "Removing metadata can reduce file size by 10-20% but removes camera information, color profiles, and location data."
+    },
+    "privacy": {
+      "title": "Data & Privacy",
+      "p1": "Your images are processed entirely in your browser. No files are uploaded to any server.",
+      "p2": "All conversion happens locally using JavaScript libraries. Your images never leave your device.",
+      "p3": "No analytics on image content; only anonymous aggregate performance counters may be collected for optimization.",
+      "p4": "Close the tab any time after processing completes. Your privacy is guaranteed.",
+      "notice": "All processing local + server-side transient, no files stored.",
+      "details": "Details"
+    },
+    "actions": {
+      "readyToConvert": "Ready to convert:",
+      "willBeConvertedTo": "will be converted to",
+      "convertTo": "Convert to",
+      "clearAll": "Clear All",
+      "conversionInProgress": "Conversion in Progress",
+      "allDone": "All done!",
+      "pending": "pending",
+      "convertMore": "Convert More",
+      "downloadZip": "Download ZIP",
+      "downloadAll": "Download All"
+    },
+    "summary": {
+      "conversionSummary": "Conversion Summary",
+      "spaceSaved": "Space Saved",
+      "filesConverted": "Files Converted",
+      "outputFormat": "Output Format",
+      "original": "Original",
+      "converted": "Converted",
+      "saved": "saved",
+      "sameSize": "Same size"
+    },
+    "status": {
+      "waitingToConvert": "Waiting to convert...",
+      "readyToConvert": "Ready to convert",
+      "converting": "Converting...",
+      "errorConvertingImage": "Error converting image"
+    },
+    "howTo": {
+      "title": "How To Convert Images Online",
+      "step1Title": "Inject Source Files",
+      "step1Desc": "Drag any standard graphics file (JPG, PNG, WebP) directly into the client processor. The engine immediately decodes the pixel grid securely on your device.",
+      "step2Title": "Target Desired Output",
+      "step2Desc": "Select modern rendering standards like AVIF or WebP to drastically cut weight, or stick with solid PNGs for flat colors. Tweak the quality scaler to balance lossy encoding.",
+      "step3Title": "Save Converted Assets",
+      "step3Desc": "Export your newly mapped assets instantly. Perform bulk cross-conversions and pack all the new extensions down into a neat ZIP archive.",
+      "tip": "TIP:",
+      "tipText": "Use WebP for modern websites (30% smaller than PNG/JPG). AVIF offers the best compression but limited browser support. PNG for transparency, JPEG for photos."
+    },
+    "features": {
+      "title": "Key Features",
+      "universalTitle": "Universal Mapping",
+      "universalDesc": "Translate pixels across JPEG, PNG, WebP, and AVIF output barriers instantly.",
+      "clientTitle": "Client Execution",
+      "clientDesc": "Conversion triggers natively in background threads inside your device.",
+      "encryptedTitle": "Encrypted Processing",
+      "encryptedDesc": "No outbound storage APIs. WebAssembly runs conversions with complete privacy.",
+      "controlTitle": "Micro-Management",
+      "controlDesc": "Manually control rendering weight or switch to lossless algorithms precisely.",
+      "archiveTitle": "Archive Ready",
+      "archiveDesc": "Batch hundreds of assets into a single ZIP library for rapid local downloading.",
+      "lighthouseTitle": "Lighthouse Ready",
+      "lighthouseDesc": "Deliver Next-Gen image formats directly into your picture tags cleanly."
+    },
+    "qualityGuide": {
+      "title": "Quality vs Size Guide",
+      "interactiveDemo": "Interactive demo: See how quality affects file size in real-time",
+      "demoQuality": "Demo Quality",
+      "samplePhoto": "Sample: 2MB Photo",
+      "noSavings": "No savings",
+      "qualityRecommendations": "Quality Recommendations",
+      "printQuality": "Print Quality",
+      "printQualityDesc": "Professional printing • Archival • Large files",
+      "highQuality": "High Quality",
+      "highQualityDesc": "Portfolio • Social media • Good balance",
+      "webOptimized": "Web Optimized",
+      "webOptimizedDesc": "Websites • Fast loading • Recommended",
+      "maxCompression": "Maximum Compression",
+      "maxCompressionDesc": "Thumbnails • Previews • Visible quality loss"
+    },
+    "faqTitle": "Frequently Asked Questions"
+  }
+}

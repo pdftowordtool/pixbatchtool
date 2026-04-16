@@ -1,0 +1,111 @@
+{
+  "breadcrumb": {
+    "home": "Inicio",
+    "imageCropper": "Recortador de Imagenes",
+    "cropPng": "Recortar PNG"
+  },
+  "hero": {
+    "title": "Gratis Online",
+    "titleHighlight": "Recortador PNG",
+    "description": "Recorta imagenes PNG con precision manteniendo la transparencia. Rapido, gratis y privado: todo ocurre en tu navegador."
+  },
+  "ui": {
+    "alerts": {
+      "selectImageFile": "Selecciona un archivo de imagen",
+      "fileSizeLimit": "El archivo debe ser menor de 10MB",
+      "selectLargerArea": "Selecciona un area mas grande para recortar",
+      "cropFailed": "No se pudo recortar la imagen. Intentalo de nuevo."
+    },
+    "dropzone": {
+      "dropYourPngHere": "Suelta Tu PNG Aqui",
+      "orClickBrowse": "o haz clic para buscar un archivo",
+      "maxSizeHint": "Maximo 10MB por archivo • Salida PNG con transparencia"
+    },
+    "replace": {
+      "title": "Reemplazar imagen",
+      "orDropNew": "o suelta un archivo nuevo"
+    },
+    "settings": {
+      "aspectRatio": "Relacion de aspecto",
+      "lockAspect": "Bloquear relacion al seleccionar",
+      "outputFormat": "Formato de salida",
+      "pngLosslessTitle": "PNG (Sin perdida)",
+      "pngLosslessDesc": "Mantiene transparencia y calidad"
+    },
+    "actions": {
+      "delete": "Eliminar",
+      "cropping": "Recortando...",
+      "startCrop": "Iniciar recorte",
+      "downloadPng": "Descargar PNG",
+      "resetSelection": "Restablecer seleccion",
+      "croppedResult": "Resultado recortado",
+      "size": "Tamano"
+    },
+    "images": {
+      "uploadAlt": "Subida",
+      "croppedAlt": "Recortado"
+    },
+    "howTo": {
+      "title": "Como Recortar Imagenes PNG Online",
+      "step1Title": "Sube Tu PNG",
+      "step1Desc": "Arrastra tu archivo PNG al editor o haz clic para buscar. La imagen se carga al instante en tu navegador.",
+      "step2Title": "Dibuja el Marco de Recorte",
+      "step2Desc": "Elige una proporcion o usa modo libre. Arrastra los controles hasta cubrir exactamente lo que quieres conservar.",
+      "step3Title": "Guarda Tu PNG Recortado",
+      "step3Desc": "Pulsa recortar, revisa la vista previa y descarga. La transparencia se mantiene, sin perdida de calidad.",
+      "tip": "TIP:",
+      "tipText": "El formato PNG conserva la transparencia: ideal para logos, iconos y graficos con fondo transparente."
+    },
+    "why": {
+      "title": "Por Que Recortar Imagenes PNG?",
+      "p1": "PNG es el formato mas comun que mantiene fondos transparentes. Al recortar un logo, icono o elemento UI en PNG, las zonas transparentes se conservan. Asi puedes usar el archivo en diseno o web sin que aparezcan cuadros blancos.",
+      "p2": "Recortar tambien elimina lienzo innecesario que aumenta el peso del archivo sin aportar nada visual. Un marco mas ajustado en un icono PNG puede reducir el tamano del archivo y eso se nota cuando sirves muchos recursos en una pagina.",
+      "b1": "Mantiene el canal alfa para que logos e iconos se vean limpios sobre cualquier fondo.",
+      "b2": "Recorta el espacio vacio de exportaciones de Figma o Photoshop para ordenar tu biblioteca de assets.",
+      "b3": "Entrega iconos y elementos UI con dimensiones exactas para tu diseno."
+    },
+    "features": {
+      "title": "Funciones Clave",
+      "presetRatiosTitle": "Proporciones Predefinidas",
+      "presetRatiosDesc": "9 proporciones • Recorte libre • Opcion de bloqueo",
+      "transparencyTitle": "Transparencia",
+      "transparencyDesc": "Soporte completo del canal alfa",
+      "privateTitle": "100% Privado",
+      "privateDesc": "Todo el procesamiento ocurre en tu navegador",
+      "losslessTitle": "Salida Sin Perdida",
+      "losslessDesc": "Sin perdida de calidad: PNG es lossless"
+    },
+    "proTips": {
+      "title": "Consejos Pro para Recortar PNG",
+      "t1": "Usa 1:1 para iconos de apps y favicons. Muchos navegadores y tiendas esperan un cuadrado perfecto.",
+      "t2": "Recorta tu logo lo mas ajustado posible. El relleno extra desperdicia espacio y complica la alineacion.",
+      "t3": "Si el tamano importa mas que la transparencia, recorta aqui y luego convierte a WebP. Mantendras la transparencia con menos peso.",
+      "t4": "Para fotos sin transparencia, usa el recortador JPG. JPEG suele ser mucho mas pequeno para fotografias a color."
+    },
+    "faqTitle": "Preguntas Frecuentes"
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Recortar un PNG mantiene el fondo transparente?",
+        "answer": "Si. El recortador lee los pixeles incluyendo el canal alfa, por lo que las zonas transparentes siguen siendo transparentes en el resultado."
+      },
+      {
+        "question": "Recortar reduce la calidad de mi PNG?",
+        "answer": "No. PNG es un formato sin perdida, asi que no se descarta informacion de pixeles durante la codificacion."
+      },
+      {
+        "question": "Puedo recortar un JPEG y obtener un PNG?",
+        "answer": "Si. Sube cualquier formato comun, recorta el area y el resultado se codifica como PNG sin perdida."
+      },
+      {
+        "question": "Por que mis PNG recortados pesan tanto?",
+        "answer": "PNG usa compresion sin perdida y conserva cada pixel. Las fotos con muchos colores unicos producen PNG grandes."
+      },
+      {
+        "question": "Se sube algo a un servidor durante el recorte?",
+        "answer": "No. Todo se ejecuta localmente en tu navegador. Tu imagen nunca sale de tu dispositivo."
+      }
+    ]
+  }
+}

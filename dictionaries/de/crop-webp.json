@@ -1,0 +1,117 @@
+{
+  "breadcrumb": {
+    "home": "Startseite",
+    "imageCropper": "Bild Zuschneider",
+    "cropWebp": "WebP Zuschneiden"
+  },
+  "hero": {
+    "title": "Kostenlos Online",
+    "titleHighlight": "WebP Cropper",
+    "description": "Bilder als WebP zuschneiden — kleinere Dateien mit Transparenz. Schnell, kostenlos und privat."
+  },
+  "ui": {
+    "alerts": {
+      "selectImageFile": "Bitte wahlen Sie eine Bilddatei aus",
+      "fileSizeLimit": "Die Dateigrosse muss unter 10MB liegen",
+      "selectLargerArea": "Bitte wahlen Sie einen grosseren Bereich zum Zuschneiden",
+      "cropFailed": "Bild konnte nicht zugeschnitten werden. Bitte erneut versuchen."
+    },
+    "dropzone": {
+      "dropYourImageHere": "Bild hier ablegen",
+      "orClickBrowse": "oder klicken, um eine Datei auszuwahlen",
+      "maxSizeHint": "Max 10MB • WebP-Ausgabe mit Transparenz"
+    },
+    "replace": {
+      "title": "Bild ersetzen",
+      "orDropNew": "oder neue Datei ablegen"
+    },
+    "settings": {
+      "aspectRatio": "Seitenverhaltnis",
+      "lockAspect": "Seitenverhaltnis beim Auswahlen sperren",
+      "outputFormat": "Ausgabeformat",
+      "webpModernTitle": "WebP (Modern)",
+      "webpModernDesc": "Beste Kompression + Transparenz"
+    },
+    "quality": {
+      "panelTitle": "Qualitatseinstellungen",
+      "qualityLabel": "Qualitat",
+      "smallerFile": "Kleinere Datei",
+      "betterQuality": "Bessere Qualitat"
+    },
+    "actions": {
+      "delete": "Loschen",
+      "cropping": "Zuschneiden...",
+      "startCrop": "Zuschneiden starten",
+      "downloadWebp": "WebP herunterladen",
+      "resetSelection": "Auswahl zurucksetzen",
+      "croppedResult": "Zugeschnittenes Ergebnis",
+      "size": "Grosse"
+    },
+    "images": {
+      "uploadAlt": "Upload",
+      "croppedAlt": "Zugeschnitten"
+    },
+    "howTo": {
+      "title": "So schneiden Sie WebP-Bilder online zu",
+      "step1Title": "Beliebiges Bild hochladen",
+      "step1Desc": "Ziehen Sie ein JPEG, PNG oder ein anderes Bild in den Editor. Es wird im Browser geladen, nichts wird hochgeladen.",
+      "step2Title": "Zuschnitt festlegen",
+      "step2Desc": "Wahlen Sie ein Seitenverhaltnis oder freien Zuschnitt und ziehen Sie die Griffe, bis der Bereich passt.",
+      "step3Title": "Als WebP speichern",
+      "step3Desc": "Auf Zuschneiden klicken, Vorschau prufen und eine kompakte WebP-Datei herunterladen.",
+      "tip": "TIPP:",
+      "tipText": "WebP bei 80% Qualitat ist oft 30% kleiner als JPG bei gleicher visueller Qualitat."
+    },
+    "why": {
+      "title": "Warum auf WebP zuschneiden?",
+      "p1": "WebP kombiniert die Kompression von JPEG mit der Transparenz von PNG in einer Datei. Ein Format fur Produktfotos, Banner, Logos und Icons.",
+      "p2": "Zuschneiden entfernt unnotige Bereiche, dadurch muss WebP weniger Pixel komprimieren. Das ergibt kleinere Dateien, schnellere Ladezeiten und bessere Core Web Vitals. Lighthouse empfiehlt moderne Formate wie WebP.",
+      "b1": "Ein Format fur alles: Fotos, Grafiken und transparente Overlays in einem leichteren Paket.",
+      "b2": "Der Qualitatsregler hilft beim Ausgleich zwischen Scharfe und Dateigrosse.",
+      "b3": "Schnellere Seiten verbessern Engagement, senken Bounce und steigern Umsatz."
+    },
+    "features": {
+      "title": "Hauptfunktionen",
+      "presetRatiosTitle": "Voreinstellungen",
+      "presetRatiosDesc": "9 Presets + frei + Sperre",
+      "transparencyTitle": "Transparenz",
+      "transparencyDesc": "Alpha-Kanal erhalten",
+      "privateTitle": "100% Privat",
+      "privateDesc": "Nur im Browser",
+      "compressionTitle": "Beste Kompression",
+      "compressionDesc": "25-35% kleiner als JPG"
+    },
+    "proTips": {
+      "title": "Pro-Tipps fur WebP",
+      "t1": "WebP ist fur das Web gemacht: nutzen Sie es fur Hero-Bilder, Produktkarten, Thumbnails und alles above the fold.",
+      "t2": "Fur Fotos liefert 75-85% meist scharfe Ergebnisse. 90%+ nur fur Grafiken mit harten Kanten, Flachenfarben oder Text.",
+      "t3": "PNG mit transparentem Hintergrund zuschneiden? WebP behalt den Alpha-Kanal und ist oft deutlich kleiner als PNG.",
+      "t4": "Wenn Safari 13 oder IE wichtig ist, liefern Sie einen JPEG-Fallback per picture. Fur alle anderen klappt WebP problemlos."
+    },
+    "faqTitle": "Haufige Fragen"
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Wie viel kleiner ist WebP als JPEG beim gleichen Zuschnitt?",
+        "answer": "In der Praxis ist WebP bei 80% Qualitat oft 25-35% leichter als JPEG bei ahnlicher Scharfe. Bei flachen Farben oder Verlaufe kann der Vorteil grosser sein."
+      },
+      {
+        "question": "Behalt WebP Transparenz, wenn ich ein PNG zuschneide?",
+        "answer": "Ja. Wenn die Quelle einen Alpha-Kanal hat, bleibt er im zugeschnittenen WebP erhalten. JPEG hat keine Transparenz."
+      },
+      {
+        "question": "Empfiehlt Lighthouse WebP statt JPEG?",
+        "answer": "Ja. Lighthouse empfiehlt Next-Gen-Formate wie WebP. Das kann Audits verbessern und LCP reduzieren."
+      },
+      {
+        "question": "Gibt es Browser ohne WebP Support?",
+        "answer": "Moderne Browser unterstutzen WebP. Nur sehr alte Browser konnen Probleme haben."
+      },
+      {
+        "question": "Wird beim Zuschneiden etwas auf einen Server hochgeladen?",
+        "answer": "Nein. Zuschnitt und WebP-Encoding laufen lokal im Browser. Das Bild verlasst das Gerat nicht."
+      }
+    ]
+  }
+}

@@ -1,0 +1,139 @@
+{
+  "hero": {
+    "titlePrefix": "Privacy",
+    "titleHighlight": "Policy",
+    "description": "Your privacy is our priority. Learn how we protect your data and respect your rights.",
+    "lastUpdatedLabel": "Last updated",
+    "lastUpdatedDate": "January 15, 2025"
+  },
+  "sections": {
+    "informationWeCollect": {
+      "title": "Information We Collect",
+      "intro": "At PixBatch, we take a privacy-first approach. We collect minimal information necessary to provide our services:",
+      "items": [
+        {
+          "label": "Account Information",
+          "text": "Email address, username, and password (encrypted) when you create an account."
+        },
+        {
+          "label": "Usage Data",
+          "text": "Information about how you use our service, including features accessed and processing statistics."
+        },
+        {
+          "label": "Device Information",
+          "text": "Browser type, operating system, and IP address for security and optimization purposes."
+        },
+        {
+          "label": "Cookies",
+          "text": "Essential cookies for authentication and preferences. No third-party tracking cookies."
+        }
+      ]
+    },
+    "imagesPrivate": {
+      "title": "Your Images Are Private",
+      "promise": "This is our core promise: All image processing happens directly in your browser using client-side technology.",
+      "items": [
+        "Your images never leave your device",
+        "We never upload your images to our servers",
+        "We never store your images in any cloud storage",
+        "We never analyze the content of your images",
+        "We cannot access your images even if we wanted to"
+      ],
+      "outro": "Everything is processed locally in your browser using modern web APIs. This ensures complete privacy and security for your sensitive images."
+    },
+    "howWeUseInformation": {
+      "title": "How We Use Your Information",
+      "intro": "We use the limited information we collect only for the following purposes:",
+      "items": [
+        "To provide and maintain our services",
+        "To authenticate your account and keep it secure",
+        "To improve our platform based on usage patterns",
+        "To communicate important updates about our service",
+        "To respond to your support requests",
+        "To comply with legal obligations"
+      ],
+      "outro": "We never sell your personal information to third parties. We never share your data with advertisers or data brokers."
+    },
+    "dataSecurity": {
+      "title": "Data Security",
+      "intro": "We implement industry-standard security measures to protect your information:",
+      "items": [
+        "All data transmission is encrypted using HTTPS/TLS",
+        "Passwords are hashed using bcrypt with strong salting",
+        "Our infrastructure follows security best practices",
+        "Regular security audits and updates",
+        "Access controls and monitoring systems"
+      ]
+    },
+    "yourRights": {
+      "title": "Your Rights",
+      "intro": "You have full control over your personal information:",
+      "items": [
+        {
+          "label": "Access",
+          "text": "Request a copy of your personal data"
+        },
+        {
+          "label": "Rectification",
+          "text": "Correct any inaccurate information"
+        },
+        {
+          "label": "Deletion",
+          "text": "Request deletion of your account and data"
+        },
+        {
+          "label": "Portability",
+          "text": "Export your data in a standard format"
+        },
+        {
+          "label": "Objection",
+          "text": "Object to certain data processing activities"
+        }
+      ],
+      "outroPrefix": "To exercise any of these rights, please contact us at"
+    },
+    "thirdPartyServices": {
+      "title": "Third-Party Services",
+      "intro": "We use minimal third-party services to operate our platform:",
+      "items": [
+        {
+          "label": "Hosting",
+          "text": "Our infrastructure is hosted on secure cloud providers"
+        },
+        {
+          "label": "Analytics",
+          "text": "Privacy-focused analytics to understand usage (no personal identification)"
+        },
+        {
+          "label": "Payment Processing",
+          "text": "Secure payment processors for premium features (PCI-DSS compliant)"
+        }
+      ],
+      "outro": "These services are carefully selected for their privacy practices and only receive the minimum data necessary."
+    },
+    "childrenPrivacy": {
+      "title": "Children's Privacy",
+      "body": "Our service is not directed to children under the age of 13. We do not knowingly collect personal information from children under 13. If you are a parent or guardian and believe your child has provided us with personal information, please contact us immediately and we will delete such information."
+    },
+    "changesToPolicy": {
+      "title": "Changes to This Policy",
+      "intro": "We may update this Privacy Policy from time to time to reflect changes in our practices or legal requirements. We will notify you of any material changes by:",
+      "items": [
+        "Posting the updated policy on this page",
+        "Updating the Last updated date at the top",
+        "Sending an email notification for significant changes"
+      ],
+      "outro": "We encourage you to review this Privacy Policy periodically to stay informed about how we protect your information."
+    },
+    "contactUs": {
+      "title": "Contact Us",
+      "intro": "If you have any questions, concerns, or requests regarding this Privacy Policy or our data practices, please contact us:",
+      "emailLabel": "Email",
+      "addressLabel": "Address",
+      "phoneLabel": "Phone",
+      "email": "rohit@pixbatch.com",
+      "address": "Panchavti Road, Gorwa, Vadodara - 390016, Gujarat, India",
+      "phone": "+91 9104826422"
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "hero": {
+    "titlePrefix": "Nimm",
+    "titleHighlight": "Kontakt auf",
+    "description": "Du hast Fragen oder Feedback? Wir freuen uns von dir zu horen. Sende uns eine Nachricht und wir melden uns so schnell wie moglich."
+  },
+  "cards": {
+    "emailTitle": "Schreib uns",
+    "emailValue": "rohit@pixbatch.com",
+    "phoneTitle": "Ruf uns an",
+    "phoneValue": "+91 9104826422",
+    "visitTitle": "Besuch uns",
+    "visitValue": "Panchavti Road, Gorwa, Vadodara - 390016, Gujarat, India"
+  },
+  "form": {
+    "title": "Sende uns eine Nachricht",
+    "nameLabel": "Dein Name",
+    "namePlaceholder": "Max Mustermann",
+    "emailLabel": "E-Mail-Adresse",
+    "emailPlaceholder": "max@beispiel.de",
+    "subjectLabel": "Betreff",
+    "subjectPlaceholder": "Wie konnen wir helfen?",
+    "messageLabel": "Nachricht",
+    "messagePlaceholder": "Erzahl uns mehr uber dein Anliegen...",
+    "submit": "Nachricht senden",
+    "successAlert": "Danke fur deine Nachricht. Wir melden uns so schnell wie moglich."
+  }
+}

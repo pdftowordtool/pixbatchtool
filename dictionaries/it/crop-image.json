@@ -1,0 +1,110 @@
+{
+  "breadcrumb": {
+    "home": "Home",
+    "imageCropper": "Ritagliatore Immagini"
+  },
+  "hero": {
+    "title": "Gratis Online",
+    "titleHighlight": "Ritagliatore Immagini",
+    "description": "Ritaglia immagini con precisione usando proporzioni predefinite. Veloce, gratis e privato, tutto avviene nel browser."
+  },
+  "ui": {
+    "alerts": {
+      "selectImageFile": "Seleziona un file immagine",
+      "fileSizeLimit": "La dimensione del file deve essere inferiore a 10MB",
+      "selectLargerArea": "Seleziona un'area piu grande da ritagliare",
+      "cropFailed": "Impossibile ritagliare l'immagine. Riprova."
+    },
+    "dropzone": {
+      "dropYourImageHere": "Trascina Qui La Tua Immagine",
+      "orClickBrowse": "o fai clic per scegliere un file",
+      "maxSizeSingle": "Max 10MB per file • Una sola immagine"
+    },
+    "replace": {
+      "title": "Sostituisci immagine",
+      "orDropNew": "o trascina un nuovo file"
+    },
+    "settings": {
+      "aspectRatio": "Rapporto d'aspetto",
+      "lockAspect": "Blocca il rapporto durante la selezione",
+      "outputFormat": "Formato di output",
+      "advancedSettings": "Impostazioni avanzate",
+      "optimized": "Ottimizzato",
+      "quality": "Qualita",
+      "smallerFile": "File piu piccolo",
+      "betterQuality": "Qualita migliore",
+      "pngLossless": "PNG e un formato lossless, le impostazioni di qualita non si applicano."
+    },
+    "actions": {
+      "delete": "Elimina",
+      "cropping": "Ritaglio in corso...",
+      "startCrop": "Avvia ritaglio",
+      "downloadResult": "Scarica risultato",
+      "resetSelection": "Reimposta selezione",
+      "croppedResult": "Risultato ritagliato",
+      "size": "Dimensione"
+    },
+    "howTo": {
+      "title": "Come Ritagliare Immagini Online",
+      "step1Title": "CARICA IMMAGINE",
+      "step1Desc": "Trascina l'immagine o fai clic per scegliere. Supporta JPEG, PNG, WebP e AVIF.",
+      "step2Title": "SELEZIONA AREA",
+      "step2Desc": "Scegli un rapporto d'aspetto e trascina per selezionare l'area da mantenere.",
+      "step3Title": "SCARICA",
+      "step3Desc": "Fai clic su ritaglia e scarica l'immagine nel formato scelto.",
+      "tip": "TIP:",
+      "tipText": "Usa 1:1 per immagini profilo, 16:9 per miniature video e 9:16 per storie social."
+    },
+    "why": {
+      "title": "Perche Ritagliare le Immagini?",
+      "p1": "Molte immagini hanno troppo sfondo. Il ritaglio elimina il superfluo e mette in evidenza il soggetto principale.",
+      "p2": "Meno pixel significano file piu piccoli e caricamenti piu rapidi, utili anche per SEO e mobile.",
+      "b1": "Posiziona i soggetti principali lungo le linee dei terzi per una composizione piu equilibrata.",
+      "b2": "Rimuovi spazio vuoto dalle foto prodotto per migliorare le conversioni ecommerce.",
+      "b3": "Pubblica solo i pixel necessari e migliora le prestazioni della pagina."
+    },
+    "features": {
+      "title": "Funzionalita Principali",
+      "presetRatiosTitle": "Rapporti Predefiniti",
+      "presetRatiosDesc": "9 rapporti predefiniti • Ritaglio libero • Blocco rapporto",
+      "formatOptionsTitle": "Opzioni Formato",
+      "formatOptionsDesc": "Esporta come JPEG, PNG, WebP o AVIF",
+      "privateTitle": "100% Privato",
+      "privateDesc": "Tutta l'elaborazione avviene nel browser",
+      "instantTitle": "Risultati Immediati",
+      "instantDesc": "Ritaglio veloce con anteprima live"
+    },
+    "proTips": {
+      "title": "Suggerimenti Pro per il Ritaglio",
+      "t1": "Usa un rapporto adatto al contesto: 1:1 per Instagram, 4:5 per feed verticali, 16:9 per miniature video.",
+      "t2": "Posiziona il soggetto leggermente fuori centro per un risultato piu dinamico.",
+      "t3": "Se ti serve trasparenza, esporta in PNG o WebP. JPEG non supporta trasparenza.",
+      "t4": "Lascia il formato su Originale se non serve cambiarlo. Ricodificare JPEG puo ridurre la qualita."
+    },
+    "faqTitle": "Domande Frequenti"
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Cosa fa esattamente un ritagliatore di immagini?",
+        "answer": "Ti permette di selezionare una porzione della foto e mantenere solo quella parte. Il resto viene rimosso."
+      },
+      {
+        "question": "Quali rapporti d'aspetto posso scegliere?",
+        "answer": "Sono disponibili nove preset come 1:1, 4:3, 16:9 e 9:16. In alternativa puoi usare il ritaglio libero."
+      },
+      {
+        "question": "Posso esportare in un formato diverso dopo il ritaglio?",
+        "answer": "Si. Puoi mantenere il formato originale o esportare in JPEG, PNG, WebP o AVIF prima del download."
+      },
+      {
+        "question": "Le mie immagini vengono inviate a un server?",
+        "answer": "No. Tutto avviene localmente nel browser. Nessun file viene caricato."
+      },
+      {
+        "question": "C'e un limite di dimensione del file?",
+        "answer": "Si, il limite e 10 MB per immagine per mantenere il processo fluido nel browser."
+      }
+    ]
+  }
+}

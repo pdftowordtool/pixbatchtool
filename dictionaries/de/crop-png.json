@@ -1,0 +1,111 @@
+{
+  "breadcrumb": {
+    "home": "Startseite",
+    "imageCropper": "Bild Zuschneider",
+    "cropPng": "PNG Zuschneiden"
+  },
+  "hero": {
+    "title": "Kostenlos Online",
+    "titleHighlight": "PNG Zuschneider",
+    "description": "PNG-Bilder prazise zuschneiden und Transparenz behalten. Schnell, kostenlos und privat — alles passiert in deinem Browser."
+  },
+  "ui": {
+    "alerts": {
+      "selectImageFile": "Bitte wahlen Sie eine Bilddatei aus",
+      "fileSizeLimit": "Die Dateigrosse muss unter 10MB liegen",
+      "selectLargerArea": "Bitte wahlen Sie einen grosseren Bereich zum Zuschneiden",
+      "cropFailed": "Bild konnte nicht zugeschnitten werden. Bitte erneut versuchen."
+    },
+    "dropzone": {
+      "dropYourPngHere": "PNG Hier Ablegen",
+      "orClickBrowse": "oder klicken, um eine Datei auszuwahlen",
+      "maxSizeHint": "Max. 10MB pro Datei • PNG-Ausgabe mit Transparenz"
+    },
+    "replace": {
+      "title": "Bild ersetzen",
+      "orDropNew": "oder neue Datei ablegen"
+    },
+    "settings": {
+      "aspectRatio": "Seitenverhaltnis",
+      "lockAspect": "Seitenverhaltnis beim Auswahlen sperren",
+      "outputFormat": "Ausgabeformat",
+      "pngLosslessTitle": "PNG (Lossless)",
+      "pngLosslessDesc": "Erhalt Transparenz und Qualitat"
+    },
+    "actions": {
+      "delete": "Loschen",
+      "cropping": "Zuschneiden...",
+      "startCrop": "Zuschneiden starten",
+      "downloadPng": "PNG herunterladen",
+      "resetSelection": "Auswahl zurucksetzen",
+      "croppedResult": "Zugeschnittenes Ergebnis",
+      "size": "Grosse"
+    },
+    "images": {
+      "uploadAlt": "Upload",
+      "croppedAlt": "Zugeschnitten"
+    },
+    "howTo": {
+      "title": "So Schneiden Sie PNG-Bilder Online Zu",
+      "step1Title": "PNG hochladen",
+      "step1Desc": "Ziehen Sie Ihre PNG-Datei in den Editor oder klicken Sie zum Auswahlen. Das Bild wird sofort im Browser geladen.",
+      "step2Title": "Crop-Rahmen zeichnen",
+      "step2Desc": "Wahlen Sie ein Seitenverhaltnis oder freien Zuschnitt. Ziehen Sie die Griffe, bis der Rahmen genau passt.",
+      "step3Title": "PNG speichern",
+      "step3Desc": "Auf Zuschneiden klicken, Vorschau prufen und herunterladen. Transparenz bleibt erhalten, ohne Qualitatsverlust.",
+      "tip": "TIPP:",
+      "tipText": "PNG erhalt Transparenz — ideal fur Logos, Icons und Grafiken mit transparentem Hintergrund."
+    },
+    "why": {
+      "title": "Warum PNG-Bilder zuschneiden?",
+      "p1": "PNG ist das am weitesten verbreitete Format, das transparente Hintergrunde erhalt. Beim Zuschneiden eines Logos, Icons oder UI-Elements bleiben die transparenten Bereiche erhalten. So gibt es keine weissen Kasten im Design oder auf Webseiten.",
+      "p2": "Zuschneiden entfernt auch unnotigen Leerraum, der die Dateigrosse erhoht. Ein engerer Rahmen um ein PNG-Icon kann die Dateigrosse spurb ar senken, besonders wenn Sie viele Assets auf einer Seite nutzen.",
+      "b1": "Alpha-Kanal erhalten, damit Logos und Icons auf jedem Hintergrund sauber aussehen.",
+      "b2": "Leeren Canvas aus Figma- oder Photoshop-Exports entfernen, um die Asset-Bibliothek aufzuraumen.",
+      "b3": "Pixelgenaue Icons und UI-Elemente in genau den Dimensionen liefern, die Ihr Layout erwartet."
+    },
+    "features": {
+      "title": "Hauptfunktionen",
+      "presetRatiosTitle": "Voreinstellungen",
+      "presetRatiosDesc": "9 Seitenverhaltnisse • Freier Zuschnitt • Sperre",
+      "transparencyTitle": "Transparenz",
+      "transparencyDesc": "Voller Alpha-Kanal Support",
+      "privateTitle": "100% Privat",
+      "privateDesc": "Alles passiert in Ihrem Browser",
+      "losslessTitle": "Verlustfreie Ausgabe",
+      "losslessDesc": "Kein Qualitatsverlust — PNG ist lossless"
+    },
+    "proTips": {
+      "title": "Pro-Tipps fur PNG-Zuschnitt",
+      "t1": "Nutzen Sie 1:1 fur App-Icons und Favicons. Viele Stores und Browser erwarten ein perfektes Quadrat.",
+      "t2": "Schneiden Sie Ihr Logo so eng wie moglich. Zusat zlicher Rand verschwendet Platz und erschwert die Ausrichtung.",
+      "t3": "Wenn Dateigrosse wichtiger ist als Transparenz, schneiden Sie hier zu und konvertieren Sie danach zu WebP. Sie behalten Transparenz bei kleinerer Datei.",
+      "t4": "Fur Fotos ohne Transparenz ist der JPG-Zuschneider besser. JPEG ist fur Fotos meist deutlich kleiner als PNG."
+    },
+    "faqTitle": "Haufige Fragen"
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Bleibt der transparente Hintergrund beim PNG-Zuschnitt erhalten?",
+        "answer": "Ja. Der Zuschnitt berucksichtigt alle Pixel inklusive Alpha-Kanal, daher bleibt Transparenz im Ergebnis erhalten."
+      },
+      {
+        "question": "Verringert Zuschneiden die Qualitat meines PNG?",
+        "answer": "Nein. PNG ist verlustfrei, beim Encoden wird keine Pixelinformation verworfen."
+      },
+      {
+        "question": "Kann ich ein JPEG zuschneiden und als PNG speichern?",
+        "answer": "Ja. Sie konnen ein Bild hochladen, zuschneiden und das Ergebnis als verlustfreies PNG ausgeben lassen."
+      },
+      {
+        "question": "Warum sind zugeschnittene PNG-Dateien so gross?",
+        "answer": "PNG komprimiert verlustfrei und erhalt jedes Pixel. Fotos mit vielen Farben konnen als PNG gross werden."
+      },
+      {
+        "question": "Wird beim Zuschneiden etwas auf einen Server hochgeladen?",
+        "answer": "Nein. Alles lauft lokal in Ihrem Browser. Ihr Bild verlasst Ihr Gerat nicht."
+      }
+    ]
+  }
+}

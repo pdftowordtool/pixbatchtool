@@ -1,0 +1,72 @@
+{
+  "breadcrumb": { "home": "Startseite", "imageResizer": "Bildgrößenänderer" },
+  "hero": { "title": "Kostenloser Online", "titleHighlight": "Bildgrößenänderer", "description": "Bilder auf jede Dimension skalieren. Perfekt für Social Media, Miniaturbilder und Web-Optimierung." },
+  "dropzone": { "dropHere": "BILDER HIER ABLEGEN", "orClick": "oder klicken zum Durchsuchen (JPG, PNG, WebP)", "browseFiles": "Bilddateien Durchsuchen", "maxSize": "Max 10MB pro Datei • Bis zu 20 Bilder pro Upload" },
+  "settings": {
+    "customDimensions": "Benutzerdefinierte Abmessungen", "setExactSize": "Exakte Breite & Höhe festlegen",
+    "percentageScale": "Prozentuale Skalierung", "scaleByPercentage": "Nach Prozent skalieren",
+    "presetSizes": "Voreingestellte Größen", "popularDimensions": "Beliebte Abmessungen",
+    "maintainAspect": "Seitenverhältnis beibehalten (empfohlen)", "tipAspect": "Seitenverhältnis aktivieren um Bildverzerrung zu vermeiden",
+    "scale": "Skalierung", "geometryConstraints": "Geometrie & Einschränkungen",
+    "contain": "Einpassen", "cover": "Abdecken", "fill": "Füllen",
+    "center": "Mitte", "top": "Oben", "bottom": "Unten", "left": "Links", "right": "Rechts",
+    "preventUpscaling": "Hochskalierung verhindern",
+    "outputFormat": "Ausgabeformat", "quality": "Qualität",
+    "lowerSize": "Kleinere Größe", "higherQuality": "Höhere Qualität",
+    "advancedSettings": "Erweiterte Einstellungen", "optimized": "Optimiert",
+    "stripMetadata": "Metadaten (EXIF, ICC) entfernen für kleinere Dateien", "background": "Hintergrund",
+    "resizeSummary": "Größenänderungs-Zusammenfassung", "targetSize": "Zielgröße", "format": "Format", "same": "Gleich", "aspectRatio": "Seitenverhältnis", "yes": "Ja", "no": "Nein",
+    "settingsChanged": "Einstellungen haben sich geändert. Klicken Sie auf \"Größenänderung Starten\" um die neuen Einstellungen auf Ihre Bilder anzuwenden.",
+    "startResize": "Größenänderung Starten", "resetSettings": "Einstellungen Zurücksetzen"
+  },
+  "privacy": {
+    "title": "Daten & Datenschutz", "notice": "Alle Verarbeitung erfolgt in Ihrem Browser, keine Uploads.", "details": "Details",
+    "p1": "Die gesamte Bildgrößenänderung erfolgt lokal in Ihrem Browser mit HTML5 Canvas. Ihre Bilder verlassen nie Ihr Gerät.",
+    "p2": "Keine Uploads auf Server. Kein Speicher. Keine Verfolgung Ihrer Bildinhalte.",
+    "p3": "Ihre Privatsphäre ist zu 100% geschützt - alles läuft clientseitig auf Ihrem Gerät.",
+    "p4": "Schließen Sie den Tab jederzeit. Ihre Originalbilder bleiben unberührt."
+  },
+  "results": {
+    "resizing": "Wird skaliert...", "errorResizing": "Fehler bei der Größenänderung",
+    "allDone": "Alles fertig!", "imageResized": "Bild skaliert", "imagesResized": "Bilder skaliert",
+    "downloadZip": "ZIP Herunterladen", "clearAll": "Alle Löschen", "download": "Herunterladen",
+    "resizeSummary": "Größenänderungs-Zusammenfassung", "dimensions": "Abmessungen", "filesResized": "Dateien Skaliert", "totalSize": "Gesamtgröße"
+  },
+  "howTo": {
+    "title": "Anleitung zur Bildgrößenänderung",
+    "step1Title": "Bilder Hochladen", "step1Desc": "Ziehen Sie hochauflösende Fotos oder Banner in die Zielzone. Die Verarbeitung ist vollständig lokal und sicher.",
+    "step2Title": "Seitenverhältnis Sperren", "step2Desc": "Geben Sie bestimmte Breite/Höhe in Pixeln ein oder verwenden Sie unsere integrierten Social-Media-Dimensionsvorlagen.",
+    "step3Title": "Verarbeiten & Exportieren", "step3Desc": "Laden Sie gestochen scharfe, perfekt skalierte Assets einzeln oder als ZIP-Paket herunter.",
+    "tip": "Manueller Start gibt Ihnen volle Kontrolle. Sperren Sie das Seitenverhältnis um Verzerrung zu vermeiden, nutzen Sie Voreinstellungen für gängige Größen und exportieren Sie responsive Assets die Seitengeschwindigkeit und SEO verbessern."
+  },
+  "features": {
+    "title": "Perfekte Größe für Jede Plattform",
+    "socialMedia": "Social-Media-Layouts", "socialMediaDesc": "Starten Sie Vorlagen für LinkedIn, Twitter, Instagram oder YouTube mit exakten nativen Auflösungsabmessungen sofort.",
+    "proportions": "Proportionen Beibehalten", "proportionsDesc": "Intelligente Grenzerkennungen stellen sicher, dass Elemente nie seltsam gestreckt werden, ohne dass Sie explizit 'Füllen'-Einschränkungen auswählen.",
+    "parallel": "Parallele Verarbeitung", "parallelDesc": "Skalieren Sie riesige Verzeichnisse mit Multi-Thread-WebAssembly in der gleichen Zeit wie ein einzelnes Bild.",
+    "privacy": "Vollständige Privatsphäre", "privacyDesc": "Fotos werden vollständig im Frontend gepuffert. Nichts verbindet sich mit einem externen Server.",
+    "storage": "Speicher Sparen", "storageDesc": "Physische Geometrie automatisch verkleinern und schwere EXIF-Kamerametadaten entfernen um das Festplattengewicht zu reduzieren.",
+    "safeguards": "Intelligente Schutzmaßnahmen", "safeguardsDesc": "Skalierungsgrenzen verhindern versehentliches, unsauberes Hochskalieren wenn das Quellbild nicht genug native Auflösung hat."
+  },
+  "qualityGuide": {
+    "title": "Qualität vs Größe Leitfaden",
+    "description": "Verschiedene Ausgabeformate erzeugen verschiedene Dateigrößen. **AVIF** bietet die kleinsten Dateien, gefolgt von **WebP** und **JPEG**. Passen Sie den Qualitätsregler an um zu sehen wie er die Dateigröße beeinflusst.",
+    "demoQuality": "Demo Qualität", "samplePhoto": "Beispiel: Full HD Bild (1920x1080)", "noSavings": "Keine Einsparungen",
+    "qualityRecommendations": "Qualitätsempfehlungen",
+    "maxQuality": "Maximale Qualität", "maxQualityDesc": "Professionelle Drucke • Portfolio • Minimale Komprimierung",
+    "recommended": "Empfohlen", "recommendedDesc": "Web-Bilder • Social Media • Bestes Gleichgewicht",
+    "moderate": "Moderat", "moderateDesc": "Miniaturbilder • Vorschauen • Kleinere Dateigröße",
+    "lowQuality": "Niedrige Qualität", "lowQualityDesc": "Winzige Vorschauen • Platzhalter • Nicht empfohlen"
+  },
+  "faq": {
+    "title": "Häufig Gestellte Fragen",
+    "q1": "Welche CSS-Eigenschaften ahmt 'Einpassen' vs 'Abdecken' nach?",
+    "a1": "Die 'Einpassen'-Geometrie passt Ihr Bild ordentlich in die Zielabmessungen ein und fügt logisches Padding hinzu. 'Abdecken' füllt die gesamte Zielgrenze vollständig aus und beschneidet Ränder elegant, wenn das Seitenverhältnis des Bildes abweicht. 'Füllen' erzwingt die exakten Pixel und kann verzerren.",
+    "q2": "Riskiere ich es, meine Fotos zu verpixeln wenn ich skaliere?",
+    "a2": "Nicht beim Verkleinern! Solange Sie ein Bild verkleinern, bleibt die Schärfe erhalten. Wir aktivieren standardmäßig 'Hochskalierung verhindern', sodass wenn Sie ein 500px-Icon in einen 1920px-Container ziehen, wir die Pixel nicht künstlich aufblähen oder verwischen.",
+    "q3": "Warum sollte ich Metadaten beim Skalieren entfernen?",
+    "a3": "Moderne Digitalkameras betten EXIF-Daten ein, einschließlich Gerätetyp, Verschlusszeit und Standort-Tracking-Daten in massive Hintergrundschichten. Durch Entfernen dieser versteckten Aufblähung während der Skalierung sparen wir sofort entscheidende Kilobytes für SEO.",
+    "q4": "Werden Uploads sicher zurückgesendet?",
+    "a4": "Alles wird dynamisch im lokalen Speicher Ihres Geräts gerendert (HTML-Canvas-Interpolation). Wir übertragen, laden oder lagern niemals Benutzerdaten auf Unternehmensservern."
+  }
+}

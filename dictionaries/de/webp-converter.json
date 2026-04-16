@@ -1,0 +1,215 @@
+{
+  "breadcrumb": {
+    "home": "Startseite",
+    "imageConverter": "Bildkonverter",
+    "webpConverter": "WebP-Konverter"
+  },
+  "hero": {
+    "title": "Kostenloser Online",
+    "titleHighlight": "WebP-Konverter",
+    "description": "Konvertiere PNG-, JPEG-, AVIF- und andere Bilder in das WebP-Format. Moderne Kompression bei starker Qualität – alles passiert in deinem Browser."
+  },
+  "dropzone": {
+    "addMore": "Weitere Bilder hinzufügen",
+    "orDrop": "oder Dateien ablegen",
+    "dropHere": "BILDER HIER ABLEGEN",
+    "orClick": "oder klicken, um Dateien auszuwählen",
+    "browse": "Dateien auswählen",
+    "supports": "Unterstützt PNG, JPEG, AVIF, GIF, BMP • Bis zu 10 Bilder"
+  },
+  "formatSettings": {
+    "title": "Zielformat-Einstellungen",
+    "badgeAll": "ALLE",
+    "formatSingular": "Format",
+    "formatPlural": "Formate",
+    "formatsSelectedSingular": "Format ausgewählt",
+    "formatsSelectedPlural": "Formate ausgewählt",
+    "chooseOutputFormats": "Ausgabeformate wählen",
+    "resetToWebpOnly": "Nur WebP zurücksetzen",
+    "selectAllFormats": "Alle Formate auswählen",
+    "selectionInfoEachImage": "Jedes Bild wird konvertiert zu:",
+    "description": "Wähle ein oder mehrere Zielformate. Wenn mehrere Formate ausgewählt sind, wird jedes Bild in alle gewählten Formate konvertiert und als ZIP-Datei heruntergeladen. WebP bietet starke Kompression, AVIF liefert die beste Kompression, PNG erhält Transparenz verlustfrei und JPEG hat universelle Unterstützung.",
+    "cards": {
+      "webp": {
+        "label": "WebP",
+        "subtitle": "Modernes Webformat"
+      },
+      "avif": {
+        "label": "AVIF",
+        "subtitle": "Next-Gen-Kompression"
+      },
+      "png": {
+        "label": "PNG",
+        "subtitle": "Verlustfrei mit Transparenz"
+      },
+      "jpeg": {
+        "label": "JPEG",
+        "subtitle": "Universelle Kompatibilität"
+      }
+    }
+  },
+  "qualitySettings": {
+    "title": "Qualitätseinstellungen",
+    "compressionQuality": "Kompressionsqualität",
+    "smallerFile": "Kleinere Datei",
+    "betterQuality": "Bessere Qualität",
+    "note": "Gilt für WebP, AVIF und JPEG. Höhere Qualität = größere Dateien. 80% empfohlen. PNG ist immer verlustfrei."
+  },
+  "advancedSettings": {
+    "title": "Erweiterte Einstellungen",
+    "badgeOptimized": "Optimiert",
+    "badgeBasic": "Basis",
+    "stripMetadataLabel": "Metadaten (EXIF, ICC) entfernen für kleinere Dateien",
+    "stripMetadataDesc": "Das Entfernen von Metadaten kann die Dateigröße reduzieren, entfernt jedoch Kamerainformationen, Farbprofile und Standortdaten."
+  },
+  "privacy": {
+    "title": "Daten & Datenschutz",
+    "p1": "Deine Bilder werden vollständig in deinem Browser verarbeitet. Es werden keine Dateien auf einen Server hochgeladen.",
+    "p2": "Die komplette WebP-Konvertierung läuft lokal mit JavaScript-Bibliotheken. Deine Bilder verlassen niemals dein Gerät.",
+    "p3": "Keine Analyse von Bildinhalten; höchstens anonyme, aggregierte Performance-Zähler können zur Optimierung erfasst werden.",
+    "p4": "Du kannst den Tab jederzeit schließen, sobald die Verarbeitung abgeschlossen ist. Deine Privatsphäre ist geschützt.",
+    "notice": "Alles lokal + serverseitig nur transient, keine Dateien gespeichert.",
+    "details": "Details"
+  },
+  "errors": {
+    "selectImages": "Bitte wähle Bilddateien aus (PNG, JPEG, WebP, AVIF usw.)",
+    "dropImages": "Bitte lege Bilddateien ab (PNG, JPEG, WebP, AVIF usw.)"
+  },
+  "notices": {
+    "readyToConvertLabel": "Bereit zum Konvertieren:",
+    "willBeConvertedTo": "wird konvertiert zu",
+    "atQuality": "bei",
+    "qualitySuffix": "Qualität.",
+    "readyToConvertTo": "Bereit zum Konvertieren zu"
+  },
+  "actions": {
+    "convert": "Konvertieren",
+    "convertTo": "Konvertieren zu",
+    "formats": "Formaten",
+    "more": "mehr",
+    "clearAll": "Alles löschen",
+    "downloadZip": "ZIP herunterladen",
+    "download": "Herunterladen",
+    "downloadAll": "Alles herunterladen",
+    "convertMore": "Konvertieren",
+    "addMore": "Weitere Bilder hinzufügen"
+  },
+  "status": {
+    "conversionInProgress": "Konvertierung läuft",
+    "allDone": "Fertig!",
+    "pending": "ausstehend",
+    "waitingToConvert": "Warten auf Konvertierung…",
+    "convertingTo": "Konvertiere zu",
+    "convertedTo": "Konvertiert zu",
+    "errorConverting": "Fehler beim Konvertieren",
+    "image": "Bild",
+    "images": "Bilder"
+  },
+  "summary": {
+    "conversionSummary": "Konvertierungsübersicht",
+    "filesConverted": "Konvertierte Dateien",
+    "outputFormat": "Ausgabeformat",
+    "outputFormats": "Ausgabeformate",
+    "quality": "Qualität",
+    "original": "Original",
+    "converted": "Konvertiert"
+  },
+  "sections": {
+    "howTo": {
+      "title": "So konvertierst du Bilder zu WebP",
+      "step1Title": "Quellbilder ablegen",
+      "step1Desc": "Lege eine PNG-, JPEG- oder AVIF-Datei in den Upload-Bereich. Alles wird lokal auf deinem Gerät verarbeitet.",
+      "step2Title": "Qualität festlegen",
+      "step2Desc": "Nutze den Qualitätsregler, um Dateigröße und Schärfe auszubalancieren. 80% funktioniert für die meisten Fotos sehr gut. Transparenz bleibt automatisch erhalten.",
+      "step3Title": "WebP-Dateien herunterladen",
+      "step3Desc": "Speichere Dateien einzeln oder lade alles als ein ZIP-Archiv herunter.",
+      "tipLabel": "TIPP:",
+      "tipText": "WebP bietet sehr gute Kompression für Webbilder und unterstützt Transparenz. Für Fotos sind 75-85% meist ideal, für Grafiken mit Transparenz gern höher."
+    },
+    "keyFeatures": {
+      "title": "Hauptfunktionen",
+      "items": [
+        {
+          "title": "Intelligentere Kompression",
+          "desc": "WebP ist bei gleicher wahrgenommener Qualität oft 25-35% kleiner als ein vergleichbares JPEG. Deine Seiten laden spürbar schneller."
+        },
+        {
+          "title": "Transparenz inklusive",
+          "desc": "Im Gegensatz zu JPEG unterstützt WebP einen vollständigen Alphakanal. Du bekommst transparente Hintergründe wie bei PNG – bei deutlich kleinerer Dateigröße."
+        },
+        {
+          "title": "Nichts verlässt dein Gerät",
+          "desc": "Die gesamte Konvertierung läuft lokal in deinem Browser-Tab. Keine Uploads, keine Cloud-Verarbeitung, keine Datenerfassung von Inhalten."
+        },
+        {
+          "title": "Fast sofortige Ergebnisse",
+          "desc": "Der WebAssembly-Encoder arbeitet im Hintergrund und fertig meist in ein bis zwei Sekunden – auch auf weniger leistungsstarker Hardware."
+        },
+        {
+          "title": "ZIP-Export mit einem Klick",
+          "desc": "Konvertiere einen ganzen Ordner und lade alles gesammelt als ZIP herunter – ohne jede Datei einzeln anklicken zu müssen."
+        },
+        {
+          "title": "Überall relevant",
+          "desc": "Chrome, Firefox, Safari und Edge unterstützen WebP heute nativ. WebP wird in Lighthouse-Audits ausdrücklich empfohlen."
+        }
+      ]
+    },
+    "qualityGuide": {
+      "title": "Qualität vs. Größe – Leitfaden",
+      "interactiveIntro": "Interaktive Demo: Sieh in Echtzeit, wie Qualität die Dateigröße beeinflusst",
+      "demoQuality": "Demo-Qualität",
+      "sampleLabel": "Beispiel: 2MB-Foto",
+      "pngLossless": "PNG (verlustfrei)",
+      "qualityLabel": "Qualität",
+      "qualityRecommendations": "Qualitätsempfehlungen",
+      "tiers": [
+        {
+          "range": "90-100%",
+          "title": "Druckqualität",
+          "desc": "Professioneller Druck • Archiv • Große Dateien"
+        },
+        {
+          "range": "75-89%",
+          "title": "Hohe Qualität",
+          "desc": "Portfolio • Social Media • Gute Balance"
+        },
+        {
+          "range": "60-74%",
+          "title": "Web-optimiert",
+          "desc": "Websites • Schnelles Laden • Empfohlen"
+        },
+        {
+          "range": "10-59%",
+          "title": "Maximale Kompression",
+          "desc": "Thumbnails • Vorschauen • Sichtbarer Qualitätsverlust"
+        }
+      ]
+    },
+    "faqTitle": "Häufig gestellte Fragen"
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Wie viel kleiner werden meine Bilder wirklich?",
+        "answer": "Das hängt von der Quelle ab, aber viele JPEG-Fotos werden bei gleicher wahrgenommener Qualität etwa 25-35% kleiner, wenn du sie zu WebP konvertierst. PNGs mit flächigen Farben schrumpfen oft noch stärker. Bei vielen Bildern merkst du den Unterschied in Ladezeiten deutlich."
+      },
+      {
+        "question": "Welche Qualität ist gut für alltägliche Webbilder?",
+        "answer": "Für Produktfotos und Blogbilder ist 75-85% oft der Sweet Spot. Die Dateien werden spürbar leichter und bleiben auf Retina-Displays scharf. Für Icons oder Logos aus PNG kannst du eher 90% wählen, da diese meist ohnehin kleiner sind."
+      },
+      {
+        "question": "Bleibt die Transparenz meiner PNG erhalten?",
+        "answer": "Ja. Das ist einer der größten Vorteile: Ein PNG-Logo mit transparentem Hintergrund wird häufig 30-50% kleiner als WebP – bei identischer Transparenz. JPEG-Quellen besitzen natürlich keine Transparenz, die übernommen werden könnte."
+      },
+      {
+        "question": "Muss ich mir wegen Browser-Kompatibilität Sorgen machen?",
+        "answer": "In der Regel nicht. Chrome, Firefox, Edge und Safari unterstützen WebP inzwischen nativ (seit 2023). Nur sehr alte Browser können Probleme haben. Für maximale Sicherheit kannst du ein picture-Tag mit JPEG-Fallback nutzen, aber viele Teams lassen das inzwischen weg."
+      },
+      {
+        "question": "Gibt es ein Risiko beim Hochladen meiner Bilder?",
+        "answer": "Nein, denn es wird nichts hochgeladen. Die Konvertierung passiert vollständig in deinem Browser mit einem lokalen WebAssembly-Encoder. Deine Dateien berühren unsere Server nicht, und beim Schließen des Tabs wird alles aus dem Speicher entfernt."
+      }
+    ]
+  }
+}

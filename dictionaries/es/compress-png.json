@@ -1,0 +1,129 @@
+{
+  "breadcrumb": {
+    "home": "Inicio",
+    "compressImage": "Comprimir Imagen",
+    "compressPng": "Comprimir PNG"
+  },
+  "hero": {
+    "title": "Compresor PNG",
+    "titleHighlight": "Gratis Online",
+    "description": "Reduce el tamano de archivos PNG manteniendo transparencia y calidad. Ideal para logos, iconos y graficos."
+  },
+  "dropzone": {
+    "addMore": "Agregar mas imagenes PNG",
+    "orDrop": "o suelta archivos PNG",
+    "dropHere": "SUELTA TUS IMAGENES PNG AQUI",
+    "orClick": "o haz clic para buscar archivos PNG",
+    "browse": "Buscar Archivos PNG",
+    "maxSize": "Max 5MB por archivo - Hasta 10 imagenes PNG por carga"
+  },
+  "qualitySettings": {
+    "title": "Configuracion de Calidad",
+    "default": "(por defecto 85%)",
+    "smallerSize": "Tamano menor",
+    "betterQuality": "Mejor calidad",
+    "description": "La compresion PNG es sin perdida. Ajustar la calidad optimiza la eficiencia de compresion sin perder calidad visual.",
+    "presets": {
+      "web": "Web",
+      "standard": "Estandar",
+      "high": "Alta",
+      "max": "Max"
+    }
+  },
+  "privacy": {
+    "title": "Datos y Privacidad",
+    "p1": "Tus imagenes se procesan al instante. Los originales permanecen en tu navegador y el resultado se entrega de inmediato.",
+    "p2": "Sin almacenamiento permanente: el servidor usa buffers temporales solo para codificar y devolver el resultado.",
+    "p3": "No se analizan contenidos de imagen; solo metricas anonimas agregadas para optimizacion.",
+    "p4": "Puedes cerrar la pestana cuando finalice el proceso. Durante el proceso evita cerrarla para no interrumpir.",
+    "notice": "Procesamiento local + temporal en servidor, no se almacenan archivos.",
+    "details": "Detalles"
+  },
+  "status": {
+    "compressing": "Comprimiendo...",
+    "errorCompressing": "Error al comprimir la imagen",
+    "allDone": "Listo!",
+    "imagesCompressed": "imagenes comprimidas",
+    "imageCompressed": "imagen comprimida",
+    "settingsChanged": "La configuracion ha cambiado!",
+    "settingsChangedDesc": "Haz clic en Aplicar nueva configuracion para recomprimir tus PNG con la nueva calidad."
+  },
+  "actions": {
+    "applyNewSettings": "Aplicar Nueva Configuracion",
+    "downloadZip": "Descargar ZIP",
+    "clearAll": "Limpiar Todo",
+    "download": "Descargar"
+  },
+  "summary": {
+    "title": "Resumen de Compresion",
+    "spaceSaved": "Espacio Ahorrado",
+    "filesProcessed": "Archivos Procesados",
+    "sizeReduced": "Tamano Reducido",
+    "original": "Original",
+    "compressed": "Comprimido",
+    "saved": "ahorrado"
+  },
+  "sections": {
+    "howTo": {
+      "title": "Como Comprimir PNG",
+      "step1Title": "Sube Archivos PNG",
+      "step1Desc": "Arrastra tus graficos o iconos. Se soporta totalmente la transparencia alfa.",
+      "step2Title": "Optimiza Salida Sin Perdida",
+      "step2Desc": "Ajusta la calidad para encontrar el mejor equilibrio sin destruir fidelidad de pixeles.",
+      "step3Title": "Descargar",
+      "step3Desc": "Recibe tus PNG optimizados al instante. Ideal para elementos UI nitidos."
+    },
+    "makeSmaller": {
+      "title": "Haz Tu PNG Mas Pequeno Sin Perder Calidad",
+      "card1Title": "Conserva Transparencia",
+      "card1Desc": "Comprime PNG sin romper el canal alfa, ideal para logos y overlays.",
+      "card2Title": "Activos UI Nitidos",
+      "card2Desc": "Mantiene la nitidez pixel-perfect para pantallas de alta densidad.",
+      "card3Title": "Mejora SEO",
+      "card3Desc": "PNG mas ligeros mejoran tiempos de carga y Core Web Vitals."
+    },
+    "why": {
+      "title": "Por Que Comprimir PNG?",
+      "p1": "Los PNG sin optimizar suelen ser pesados y afectan la velocidad movil. Al comprimirlos, mantienes claridad y transparencia mientras ahorras ancho de banda.",
+      "tipLabel": "Tip:",
+      "tipText": "Agrega atributos width y height a tus PNG para evitar Cumulative Layout Shift (CLS)."
+    },
+    "qualityGuide": {
+      "title": "Guia Calidad vs Tamano",
+      "intro": "La compresion PNG es sin perdida. El ajuste de calidad optimiza la eficiencia de compresion.",
+      "demoQuality": "Calidad Demo",
+      "samplePhoto": "Ejemplo: Foto de 2MB",
+      "noSavings": "Sin ahorro",
+      "qualityRecommendations": "Recomendaciones de Calidad",
+      "maximumQuality": "Calidad Maxima",
+      "maximumQualityDesc": "Graficos detallados - Ilustraciones complejas - Compresion minima",
+      "recommended": "Recomendado",
+      "recommendedDesc": "Logos - Iconos UI - Mejor equilibrio",
+      "highCompression": "Compresion Alta",
+      "highCompressionDesc": "Graficos web - Miniaturas - Prioridad a tamano",
+      "maxCompression": "Compresion Maxima",
+      "maxCompressionDesc": "Solo vistas previas - Puede mostrar artefactos - No recomendado"
+    },
+    "faqTitle": "Preguntas Frecuentes"
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "La compresion PNG desenfoca la imagen?",
+        "answer": "No. La compresion PNG suele ser sin perdida y elimina datos redundantes manteniendo fidelidad de pixeles."
+      },
+      {
+        "question": "Debo usar PNG o JPEG en mi web?",
+        "answer": "Usa PNG para logos, interfaz y transparencia. Para fotos complejas, JPEG o WebP suele reducir mas tamano."
+      },
+      {
+        "question": "Como mejora el SEO comprimir PNG?",
+        "answer": "Archivos mas pequenos reducen el peso de pagina y mejoran metricas como LCP, ayudando al rendimiento SEO."
+      },
+      {
+        "question": "Se mantiene transparente el fondo despues de comprimir?",
+        "answer": "Si. El canal alfa de PNG se conserva, por lo que la transparencia se mantiene."
+      }
+    ]
+  }
+}

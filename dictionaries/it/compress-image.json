@@ -1,0 +1,111 @@
+{
+  "breadcrumb": {
+    "home": "Home",
+    "compressImage": "Comprimi Immagine"
+  },
+  "hero": {
+    "title": "Compressore Immagini",
+    "titleHighlight": "Gratuito Online",
+    "description": "Riduci la dimensione dei file immagine mantenendo la qualità. Perfetto per l'ottimizzazione web e tempi di caricamento più veloci."
+  },
+  "dropzone": {
+    "addMore": "Aggiungi altre immagini",
+    "orDrop": "o trascina i file",
+    "dropHere": "TRASCINA LE TUE IMMAGINI QUI",
+    "orClick": "o clicca per sfogliare i file",
+    "browseFiles": "Sfoglia File",
+    "maxSize": "Max 5MB per file • Fino a 10 immagini per caricamento"
+  },
+  "settings": {
+    "qualitySettings": "Impostazioni Qualità",
+    "defaultQuality": "(predefinito 85%)",
+    "web": "Web",
+    "standard": "Standard",
+    "high": "Alta",
+    "max": "Max",
+    "smallerSize": "Dimensione Minore",
+    "betterQuality": "Qualità Migliore",
+    "qualityExplainer": "La maggior parte degli utenti può lasciare a 85% per un'eccellente qualità visiva con forte compressione. Regola solo se hai bisogno di file molto piccoli (inferiore) o output quasi senza perdita (95-100%)."
+  },
+  "privacy": {
+    "title": "Dati e Privacy",
+    "notice": "Tutta l'elaborazione locale + transitoria lato server, nessun file archiviato.",
+    "details": "Dettagli",
+    "p1": "Le tue immagini vengono elaborate al volo. Gli originali restano nel tuo browser; i risultati compressi vengono restituiti immediatamente.",
+    "p2": "Nessun archivio permanente: il server mantiene buffer temporanei solo il tempo necessario per codificare e consegnare il risultato, poi la memoria viene rilasciata.",
+    "p3": "Nessuna analisi del contenuto delle immagini; possono essere raccolti solo contatori di prestazioni anonimi aggregati (dimensioni, tempi) per l'ottimizzazione.",
+    "p4": "Chiudi la scheda in qualsiasi momento dopo il completamento dell'elaborazione. Durante l'elaborazione, evita di chiudere per prevenire interruzioni."
+  },
+  "results": {
+    "compressing": "Comprimendo...",
+    "errorCompressing": "Errore nella compressione",
+    "settingsChanged": "Le impostazioni sono cambiate! Clicca \"Applica Nuove Impostazioni\" per ricomprimere le tue immagini con la nuova configurazione di qualità.",
+    "allDone": "Tutto fatto!",
+    "imageCompressed": "immagine compressa",
+    "imagesCompressed": "immagini compresse",
+    "applyNewSettings": "Applica Nuove Impostazioni",
+    "downloadZip": "Scarica ZIP",
+    "clearAll": "Cancella Tutto",
+    "download": "Scarica",
+    "compressionSummary": "Riepilogo Compressione",
+    "spaceSaved": "Spazio Risparmiato",
+    "filesProcessed": "File Elaborati",
+    "sizeReduced": "Dimensione Ridotta",
+    "original": "Originale:",
+    "saved": "risparmiato",
+    "compressed": "Compresso:"
+  },
+  "howTo": {
+    "title": "Come Comprimere",
+    "step1Title": "Carica le Tue Immagini",
+    "step1Desc": "Trascina e rilascia file JPEG, PNG o WebP. Nessuna registrazione richiesta e tutto viene elaborato istantaneamente.",
+    "step2Title": "Regola la Qualità",
+    "step2Desc": "Usa il cursore per bilanciare la chiarezza visiva con la massima riduzione della dimensione del file per siti web più veloci.",
+    "step3Title": "Scarica Immediatamente",
+    "step3Desc": "Ottieni le tue immagini ultraleggere una ad una o confezionate in un file ZIP per risparmiare larghezza di banda."
+  },
+  "features": {
+    "title": "Caratteristiche Principali",
+    "blazingFast": "Pagine Velocissime",
+    "blazingFastDesc": "File immagine più piccoli garantiscono caricamenti pagina più veloci e Core Web Vitals migliorati.",
+    "privacy": "Privacy Basata sul Browser",
+    "privacyDesc": "Tutto viene ridotto localmente. Non carichiamo mai né ArChiviamo le tue immagini private.",
+    "bulk": "Compressione in Blocco",
+    "bulkDesc": "Elabora più foto grandi simultaneamente e scaricale in un unico file ZIP.",
+    "lossyLossless": "Con e Senza Perdita",
+    "lossyLosslessDesc": "Algoritmi regolati automaticamente per i migliori risparmi senza sacrificare pixel.",
+    "seo": "Migliora il Ranking SEO",
+    "seoDesc": "I motori di ricerca penalizzano i siti lenti. Le immagini compresse ti mantengono in alto nel ranking.",
+    "bandwidth": "Risparmia Larghezza di Banda",
+    "bandwidthDesc": "Riduce drasticamente il consumo di dati per i visitatori mobili a livello globale."
+  },
+  "qualityGuide": {
+    "title": "Guida Qualità vs Dimensione",
+    "interactiveDemo": "Demo interattiva: guarda come la qualità influisce sulla dimensione del file in tempo reale",
+    "demoQuality": "Qualità Demo",
+    "samplePhoto": "Campione: Foto 2MB",
+    "noSavings": "Nessun risparmio",
+    "qualityRecommendations": "Raccomandazioni Qualità",
+    "printQuality": "Qualità Stampa",
+    "printQualityDesc": "Stampa professionale • Archiviazione • File grandi",
+    "highQuality": "Alta Qualità",
+    "highQualityDesc": "Portfolio • Social media • Buon equilibrio",
+    "webOptimized": "Ottimizzato per Web",
+    "webOptimizedDesc": "Siti web • Caricamento veloce • Consigliato",
+    "maxCompression": "Compressione Massima",
+    "maxCompressionDesc": "Miniature • Anteprime • Perdita di qualità visibile"
+  },
+  "faq": {
+    "title": "Domande Frequenti",
+    "q1": "Come la compressione immagini migliora il SEO?",
+    "a1": "Immagini enormi causano caricamenti lenti delle pagine, danneggiando i tuoi Core Web Vitals. Riducendo le dimensioni dei file (spesso fino all'80%), le tue pagine si caricano istantaneamente, portando a migliori posizionamenti nei motori di ricerca.",
+    "q2": "C'è perdita di qualità quando si riducono le immagini?",
+    "a2": "La maggior parte della compressione è 'con perdita' ma praticamente invisibile all'occhio umano. Mantenendo il cursore della qualità tra il 75% e l'85%, ottieni una riduzione sostanziale delle dimensioni mantenendo immagini nitide.",
+    "q3": "Qual è il formato migliore per la massima riduzione della dimensione?",
+    "a3": "I formati moderni come WebP e AVIF offrono algoritmi di compressione vastamente superiori rispetto ai vecchi formati JPEG e PNG, consentendo file più piccoli con esattamente la stessa qualità.",
+    "q4": "Le mie foto private locali sono sicure?",
+    "a4": "Assolutamente. I browser eseguono il codice del nostro strumento localmente senza caricare su un server remoto. I tuoi dati privati rimangono al 100% sul tuo dispositivo.",
+    "q5": "Posso comprimere immagini in blocco?",
+    "a5": "Sì, puoi rilasciare fino a 10 immagini alla volta. Lo strumento le elabora tutte simultaneamente e ti permette di scaricare un archivio ZIP compresso."
+  }
+}

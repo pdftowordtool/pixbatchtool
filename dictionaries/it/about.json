@@ -1,0 +1,61 @@
+{
+  "hero": {
+    "titlePrefix": "Informazioni su",
+    "titleHighlight": "PixBatch",
+    "description": "Potenti strumenti di elaborazione immagini nel browser che funzionano interamente sul tuo dispositivo. Nessun upload, nessun server, privacy totale."
+  },
+  "story": {
+    "title": "La Nostra Storia",
+    "p1": "PixBatch nasce da una frustrazione semplice: perche strumenti professionali per immagini devono richiedere software costoso o upload rischiosi sul cloud? Pensavamo ci fosse un modo migliore.",
+    "p2": "Fondato nel 2024, abbiamo costruito una piattaforma in cui tutta l elaborazione avviene direttamente nel browser con tecnologie web moderne. Le immagini non lasciano mai il tuo dispositivo, cosi hai controllo e privacy completi. Oggi migliaia di creator, sviluppatori e aziende si affidano a PixBatch."
+  },
+  "values": {
+    "title": "I Nostri Valori",
+    "subtitle": "I principi che guidano tutto cio che facciamo",
+    "items": [
+      {
+        "title": "Privacy prima di tutto",
+        "description": "Le tue immagini restano sul tuo dispositivo. Elaborazione completamente locale."
+      },
+      {
+        "title": "Codice di qualita",
+        "description": "Tecnologie web moderne per velocita e affidabilita."
+      },
+      {
+        "title": "Focus sull utente",
+        "description": "Creato per bisogni reali e feedback reali."
+      },
+      {
+        "title": "Crescita continua",
+        "description": "Miglioriamo costantemente con il feedback della community."
+      }
+    ]
+  },
+  "why": {
+    "title": "Perche scegliere PixBatch?",
+    "subtitle": "Cosa ci distingue dagli altri strumenti di elaborazione immagini",
+    "items": [
+      {
+        "title": "Progettato per il batch processing",
+        "description": "Elabora centinaia di immagini in una volta con le stesse impostazioni. Risparmia ore di lavoro ripetitivo."
+      },
+      {
+        "title": "Elaborazione 100% lato client",
+        "description": "Tutto gira nel browser. I file non lasciano il tuo dispositivo e non toccano alcun server."
+      },
+      {
+        "title": "Risultati professionali",
+        "description": "Algoritmi ottimizzati per offrire la migliore qualita per web e stampa."
+      },
+      {
+        "title": "Guidato dalla community",
+        "description": "Costruito con feedback degli utenti. Aiutaci a definire il futuro di PixBatch."
+      }
+    ]
+  },
+  "cta": {
+    "title": "Pronto per iniziare?",
+    "description": "Unisciti a migliaia di creator che scelgono PixBatch per elaborare immagini.",
+    "button": "Inizia a elaborare immagini"
+  }
+}

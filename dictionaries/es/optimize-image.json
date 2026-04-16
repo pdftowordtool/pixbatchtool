@@ -1,0 +1,174 @@
+{
+  "breadcrumb": {
+    "home": "Inicio",
+    "imageOptimizer": "Optimizador de Imágenes"
+  },
+  "hero": {
+    "title": "Optimizador de Imágenes",
+    "titleHighlight": "Gratuito en Línea",
+    "description": "Compresión inteligente con conversión WebP/AVIF. Archivos hasta un 80% más pequeños — gratis, privacidad primero y sin marcas de agua."
+  },
+  "dropzone": {
+    "dropHere": "SUELTA TUS IMÁGENES AQUÍ",
+    "orClick": "o haz clic para buscar archivos",
+    "browseFiles": "Buscar Archivos",
+    "maxSize": "Máx 5MB por archivo • Hasta 10 imágenes por carga",
+    "addMore": "Añadir más imágenes",
+    "orDrop": "o suelta archivos"
+  },
+  "modes": {
+    "smart": {
+      "title": "Optimización Inteligente",
+      "description": "Selección automática del mejor formato y configuración",
+      "activeMessage": "Modo inteligente activo:",
+      "activeDetail": "Formato WebP/AVIF automático con calidad optimizada."
+    },
+    "manual": {
+      "title": "Control Manual",
+      "description": "Elige formato y calidad específicos"
+    }
+  },
+  "settings": {
+    "advancedSettings": "Configuración Avanzada",
+    "optimized": "Optimizado",
+    "basic": "Básico",
+    "stripMetadata": "Eliminar metadatos (EXIF, ICC) para archivos más pequeños",
+    "stripMetadataDesc": "Eliminar metadatos puede reducir el tamaño del archivo entre un 10-20%, pero elimina la información de la cámara, perfiles de color y datos de ubicación.",
+    "targetFormat": "Formato de Destino",
+    "modernWeb": "Web moderna",
+    "bestCompression": "Mejor compresión",
+    "universal": "Universal",
+    "lossless": "Sin pérdida",
+    "formatTip": "Salida única: elige un formato para resultados optimizados. Para múltiples formatos, usa la herramienta Convertir.",
+    "qualitySettings": "Configuración de Calidad",
+    "defaultQuality": "(por defecto 85%)",
+    "web": "Web",
+    "standard": "Estándar",
+    "high": "Alto",
+    "max": "Máximo",
+    "smallerSize": "Tamaño Menor",
+    "betterQuality": "Mejor Calidad",
+    "qualityExplainer": "La mayoría de los usuarios pueden dejarlo en 85% para una excelente calidad visual con fuerte compresión. Ajusta solo si necesitas archivos muy pequeños (menor) o salida casi sin pérdida (95-100%)."
+  },
+  "privacy": {
+    "notice": "Todo el procesamiento es local + transitorio del lado del servidor, no se almacenan archivos.",
+    "details": "Detalles",
+    "title": "Datos y Privacidad",
+    "p1": "Tus imágenes se procesan al instante. Los originales permanecen en tu navegador; los resultados comprimidos se transmiten de inmediato.",
+    "p2": "Sin almacenamiento permanente: el servidor mantiene búferes temporales solo el tiempo necesario para codificar y entregar el resultado, luego se libera la memoria.",
+    "p3": "Sin análisis del contenido de las imágenes; solo se pueden recopilar contadores de rendimiento anónimos (tamaños, tiempos) para la optimización.",
+    "p4": "Cierra la pestaña en cualquier momento después de que se complete el procesamiento. Durante el procesamiento, evita cerrar para prevenir interrupciones."
+  },
+  "results": {
+    "optimizing": "Optimizando...",
+    "errorOptimizing": "Error al optimizar la imagen",
+    "processing": "Procesando...",
+    "errorProcessing": "Error al procesar la imagen",
+    "allDone": "¡Todo listo!",
+    "imageOptimized": "{count} imagen optimizada",
+    "imagesOptimized": "{count} imágenes optimizadas",
+    "applyNewSettings": "Aplicar Nueva Configuración",
+    "downloadZip": "Descargar ZIP",
+    "clearAll": "Limpiar Todo",
+    "settingsChanged": "¡La configuración ha cambiado! Haz clic en \"Aplicar Nueva Configuración\" para re-optimizar tus imágenes con la nueva configuración.",
+    "optimizationSummary": "Resumen de Optimización",
+    "spaceSaved": "Espacio Ahorrado",
+    "filesProcessed": "Archivos Procesados",
+    "sizeReduced": "Tamaño Reducido",
+    "original": "Original:",
+    "saved": "{percent}% ahorrado",
+    "optimizedLabel": "Optimizado:",
+    "download": "Descargar"
+  },
+  "howTo": {
+    "title": "Cómo Optimizar Imágenes en Línea",
+    "step1Title": "Sube Tus Imágenes",
+    "step1Desc": "Arrastra y suelta tus archivos en la zona de carga. Funciona al instante en móvil y escritorio sin registros.",
+    "step2Title": "Auto-Optimización para Velocidad",
+    "step2Desc": "El modo inteligente convierte automáticamente tus imágenes a WebP o AVIF para el tamaño de archivo más pequeño posible.",
+    "step3Title": "Descarga Archivos Comprimidos",
+    "step3Desc": "Descarga imágenes individualmente o como carpeta ZIP. Cambia al modo Manual para ajustar la configuración.",
+    "proTip": "Consejo Pro:",
+    "proTipText": "¡Optimización masiva! Puedes seleccionar múltiples imágenes a la vez para comprimir todo tu lote de imágenes de manera consistente en segundos."
+  },
+  "whyOptimize": {
+    "title": "¿Por Qué Optimizar Tus Imágenes Web?",
+    "intro": "Los sitios web rápidos tienen mejor posicionamiento. Reducir el tamaño de los archivos de imagen disminuye el ancho de banda, mejora tus Core Web Vitals y potencia el SEO.",
+    "smartMode": "Modo Inteligente",
+    "smartModeDesc": "elige automáticamente",
+    "smartModeFormats": "WebP o AVIF",
+    "smartModeEnd": "para máximo ahorro sin pérdida visible.",
+    "manualControl": "Control Manual",
+    "manualControlDesc": "para ajustes precisos de formato, calidad y metadatos.",
+    "avif": "AVIF",
+    "avifDesc": "para mejores tamaños,",
+    "webp": "WebP",
+    "webpDesc": "para webs modernas,",
+    "png": "PNG",
+    "pngDesc": "para transparencia, y",
+    "jpeg": "JPEG",
+    "jpegDesc": "para aplicaciones antiguas."
+  },
+  "seo": {
+    "title": "Maximiza la Velocidad del Sitio Web y el SEO",
+    "lighterPages": "Páginas Más Ligeras",
+    "lighterPagesDesc": "Reduce tamaños hasta un 80% para reducir el ancho de banda y acelerar los tiempos de carga.",
+    "coreWebVitals": "Mejora los Core Web Vitals",
+    "coreWebVitalsDesc": "Sirve formatos modernos para mejorar tu LCP y escalar en los rankings de los motores de búsqueda.",
+    "secure": "Seguro y Privado",
+    "secureDesc": "Las imágenes se procesan en tu navegador y nunca se suben a un servidor remoto.",
+    "outro": "Usa el modo Inteligente para resultados sin configuración o cambia a Manual para control granular y estricto sobre tus archivos."
+  },
+  "tips": {
+    "title": "Consejos Pro de Compresión de Imágenes",
+    "tip1": "WebP: Comienza con calidad del 75-85%. AVIF: 60-80% suele ser suficiente para excelentes resultados.",
+    "tip2": "¿Necesitas transparencia? Prefiere PNG o WebP sin pérdida. JPEG aplana los fondos.",
+    "tip3": "Mantén UI/Texto nítido con PNG/WebP sin pérdida. Usa WebP/AVIF con pérdida para fotos estándar.",
+    "tip4": "Elimina metadatos EXIF/ICC en Configuración Avanzada para reducir otro 5-15%."
+  },
+  "qualityGuide": {
+    "title": "Guía de Calidad vs Tamaño",
+    "interactiveDemo": "Demo interactiva: Observa cómo la calidad afecta el tamaño del archivo en tiempo real",
+    "demoQuality": "CALIDAD DE DEMO",
+    "samplePhoto": "MUESTRA: FOTO 2MB",
+    "noSavings": "Sin ahorro",
+    "recommendations": "RECOMENDACIONES DE CALIDAD",
+    "printQuality": "CALIDAD DE IMPRESIÓN",
+    "printQualityDesc": "Impresión profesional • Archival • Archivos grandes",
+    "highQuality": "ALTA CALIDAD",
+    "highQualityDesc": "Portafolio • Redes sociales • Buen equilibrio",
+    "webOptimized": "OPTIMIZADO PARA WEB",
+    "webOptimizedDesc": "Sitios web • Carga rápida • Recomendado",
+    "maxCompression": "COMPRESIÓN MÁXIMA",
+    "maxCompressionDesc": "Miniaturas • Vistas previas • Pérdida de calidad visible"
+  },
+  "faq": {
+    "title": "Preguntas Frecuentes",
+    "items": [
+      {
+        "question": "¿Cómo funciona la Optimización Inteligente?",
+        "answer": "El Modo Inteligente selecciona automáticamente el mejor formato (WebP/AVIF) y la configuración para máximo ahorro sin pérdida de calidad visible."
+      },
+      {
+        "question": "¿Cuánta reducción de tamaño puedo esperar?",
+        "answer": "Típicamente 50-80% al cambiar a formatos modernos como WebP o AVIF, aunque las fotografías complejas se comprimen mejor que los gráficos simples."
+      },
+      {
+        "question": "¿Por qué debería usar esto en lugar de otras herramientas?",
+        "answer": "Ofrecemos conversión privada, todo en uno, compresión y eliminación de metadatos directamente en tu navegador con vistas previas en tiempo real."
+      },
+      {
+        "question": "¿Qué formatos de imagen puedo subir y descargar?",
+        "answer": "Sube JPEG, PNG, WebP, AVIF, GIF y BMP. Descarga como WebP (soporte amplio), AVIF (mejor compresión), JPEG (sistemas antiguos) o PNG (transparencia)."
+      },
+      {
+        "question": "¿Hay un límite de imágenes que puedo comprimir?",
+        "answer": "Puedes comprimir hasta 10 imágenes simultáneamente, con un límite de 5MB por archivo. Puedes procesar lotes ilimitados."
+      },
+      {
+        "question": "¿Mis imágenes se procesan de forma segura?",
+        "answer": "Sí. Todo el procesamiento ocurre completamente dentro de tu navegador web. Tus archivos nunca salen de tu computadora y desaparecen cuando cierras la pestaña."
+      }
+    ]
+  }
+}

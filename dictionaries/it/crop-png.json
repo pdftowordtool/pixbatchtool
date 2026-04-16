@@ -1,0 +1,111 @@
+{
+  "breadcrumb": {
+    "home": "Home",
+    "imageCropper": "Ritaglia Immagini",
+    "cropPng": "Ritaglia PNG"
+  },
+  "hero": {
+    "title": "Gratis Online",
+    "titleHighlight": "Ritagliatore PNG",
+    "description": "Ritaglia immagini PNG con precisione mantenendo la trasparenza. Veloce, gratis e privacy-first: tutto avviene nel tuo browser."
+  },
+  "ui": {
+    "alerts": {
+      "selectImageFile": "Seleziona un file immagine",
+      "fileSizeLimit": "La dimensione del file deve essere inferiore a 10MB",
+      "selectLargerArea": "Seleziona un'area piu grande da ritagliare",
+      "cropFailed": "Impossibile ritagliare l'immagine. Riprova."
+    },
+    "dropzone": {
+      "dropYourPngHere": "Trascina Qui il Tuo PNG",
+      "orClickBrowse": "oppure clicca per scegliere un file",
+      "maxSizeHint": "Max 10MB per file • Output PNG con trasparenza"
+    },
+    "replace": {
+      "title": "Sostituisci immagine",
+      "orDropNew": "oppure trascina un nuovo file"
+    },
+    "settings": {
+      "aspectRatio": "Rapporto d'aspetto",
+      "lockAspect": "Blocca il rapporto durante la selezione",
+      "outputFormat": "Formato di output",
+      "pngLosslessTitle": "PNG (Lossless)",
+      "pngLosslessDesc": "Preserva trasparenza e qualita"
+    },
+    "actions": {
+      "delete": "Elimina",
+      "cropping": "Ritaglio in corso...",
+      "startCrop": "Avvia ritaglio",
+      "downloadPng": "Scarica PNG",
+      "resetSelection": "Reimposta selezione",
+      "croppedResult": "Risultato ritagliato",
+      "size": "Dimensione"
+    },
+    "images": {
+      "uploadAlt": "Caricamento",
+      "croppedAlt": "Ritagliato"
+    },
+    "howTo": {
+      "title": "Come Ritagliare Immagini PNG Online",
+      "step1Title": "Carica il tuo PNG",
+      "step1Desc": "Trascina il file PNG nell'editor o clicca per sceglierlo. L'immagine si carica subito nel browser.",
+      "step2Title": "Disegna l'area di ritaglio",
+      "step2Desc": "Scegli un rapporto predefinito o libero. Trascina le maniglie finche l'area copre cio che vuoi tenere.",
+      "step3Title": "Salva il PNG ritagliato",
+      "step3Desc": "Premi ritaglia, controlla l'anteprima e scarica. La trasparenza resta intatta, zero perdita di qualita.",
+      "tip": "TIP:",
+      "tipText": "Il formato PNG mantiene la trasparenza: perfetto per loghi, icone e grafiche con sfondo trasparente."
+    },
+    "why": {
+      "title": "Perche ritagliare immagini PNG?",
+      "p1": "PNG e il formato piu diffuso che mantiene gli sfondi trasparenti. Quando ritagli un logo, un'icona o un elemento UI in PNG, le aree trasparenti rimangono tali. Puoi usare il file in un design o su una pagina web senza box bianchi dietro.",
+      "p2": "Ritagliare elimina anche pixel inutili che aumentano il peso del file senza vantaggi visivi. Un riquadro piu stretto su un'icona PNG puo ridurre il peso in modo evidente, soprattutto quando servono molti asset in una pagina.",
+      "b1": "Mantieni il canale alpha cosi loghi e icone risultano puliti su qualsiasi sfondo.",
+      "b2": "Rimuovi spazio vuoto da export di Figma o Photoshop per tenere ordinata la libreria di asset.",
+      "b3": "Ottieni icone ed elementi UI con dimensioni esatte, perfette per il tuo layout."
+    },
+    "features": {
+      "title": "Funzionalita Principali",
+      "presetRatiosTitle": "Rapporti predefiniti",
+      "presetRatiosDesc": "9 rapporti • Ritaglio libero • Blocco",
+      "transparencyTitle": "Trasparenza",
+      "transparencyDesc": "Supporto completo del canale alpha",
+      "privateTitle": "100% Privato",
+      "privateDesc": "Tutto avviene nel tuo browser",
+      "losslessTitle": "Output lossless",
+      "losslessDesc": "Nessuna perdita di qualita — PNG e lossless"
+    },
+    "proTips": {
+      "title": "Consigli Pro per il ritaglio PNG",
+      "t1": "Usa 1:1 per icone app e favicon. Molti store e browser si aspettano un quadrato perfetto.",
+      "t2": "Ritaglia il logo il piu possibile. Troppo margine spreca spazio e rende piu difficile l'allineamento.",
+      "t3": "Se la dimensione conta piu della trasparenza, ritaglia qui e poi converti in WebP. Avrai la stessa trasparenza con un peso minore.",
+      "t4": "Per foto senza trasparenza, usa il ritagliatore JPG. I file JPEG sono molto piu piccoli delle PNG per foto a colori."
+    },
+    "faqTitle": "Domande Frequenti"
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Ritagliare un PNG mantiene lo sfondo trasparente?",
+        "answer": "Si. Il ritaglio considera tutti i pixel incluso il canale alpha, quindi le aree trasparenti restano trasparenti nel risultato."
+      },
+      {
+        "question": "Il ritaglio riduce la qualita del PNG?",
+        "answer": "No. PNG e un formato lossless, quindi non viene scartata alcuna informazione dei pixel durante l'encoding."
+      },
+      {
+        "question": "Posso ritagliare un JPEG e ottenere un PNG?",
+        "answer": "Si. Carica un'immagine comune, ritaglia l'area e l'output viene codificato come PNG lossless."
+      },
+      {
+        "question": "Perche i PNG ritagliati sono cosi grandi?",
+        "answer": "PNG usa compressione lossless e mantiene ogni pixel. Le foto con molti colori unici possono risultare molto pesanti."
+      },
+      {
+        "question": "Durante il ritaglio viene caricato qualcosa su un server?",
+        "answer": "No. Tutto avviene localmente nel browser. La tua immagine non lascia mai il dispositivo."
+      }
+    ]
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "breadcrumb": {
+    "home": "Startseite",
+    "removeExif": "EXIF entfernen"
+  },
+  "hero": {
+    "title": "Kostenloser Online",
+    "titleHighlight": "EXIF-Entferner",
+    "description": "Entferne Metadaten aus deinen Fotos, um deine Privatsphäre zu schützen. Lösche GPS-Standort, Kamerainfos und alle anderen EXIF-Daten—zu 100% lokal in deinem Browser."
+  },
+  "ui": {
+    "uploader": {
+      "dropYourImagesHere": "Ziehe deine Bilder hierher",
+      "addMoreImages": "Weitere Bilder hinzufügen",
+      "orClickBrowseFiles": "oder klicken, um Dateien auszuwählen",
+      "supportsHint": "Unterstützt JPEG, PNG, WebP • Stapelverarbeitung unterstützt"
+    },
+    "processing": {
+      "processingImages": "Bilder werden verarbeitet..."
+    },
+    "imageBadges": {
+      "exifRemoved": "EXIF entfernt",
+      "noExifFound": "Kein EXIF gefunden"
+    },
+    "settings": {
+      "outputFormat": "Ausgabeformat",
+      "formats": [
+        { "id": "jpeg", "label": "JPEG", "desc": "Am besten für Fotos" },
+        { "id": "png", "label": "PNG", "desc": "Verlustfreie Qualität" },
+        { "id": "webp", "label": "WebP", "desc": "Modernes Format" }
+      ],
+      "quality": "Qualität",
+      "smallerFile": "Kleinere Datei",
+      "betterQuality": "Bessere Qualität"
+    },
+    "removedData": {
+      "title": "Zu entfernende Daten",
+      "items": [
+        "GPS-Standort",
+        "Kamerainfos",
+        "Vorschaubilder",
+        "Datum/Uhrzeit"
+      ]
+    },
+    "summary": {
+      "totalImages": "Bilder insgesamt",
+      "exifRemovedFrom": "EXIF entfernt bei",
+      "sizeChange": "Größenänderung",
+      "imagesWord": "Bildern",
+      "downloadAll": "Alle herunterladen",
+      "clearAll": "Alles löschen"
+    },
+    "privacyNotice": {
+      "title": "100% privat & sicher",
+      "description": "Die Verarbeitung erfolgt lokal in deinem Browser. Deine Bilder verlassen nie dein Gerät."
+    },
+    "features": {
+      "items": [
+        {
+          "title": "Privatsphäre schützen",
+          "description": "Entferne GPS-Standort und persönliche Daten, bevor du Fotos online teilst."
+        },
+        {
+          "title": "Stapelverarbeitung",
+          "description": "Verarbeite mehrere Bilder gleichzeitig. Keine Limits und kein Warten."
+        },
+        {
+          "title": "Vollständig offline",
+          "description": "Funktioniert komplett in deinem Browser. Keine Server-Uploads erforderlich."
+        }
+      ]
+    },
+    "howTo": {
+      "title": "So entfernst du EXIF-Metadaten aus Fotos",
+      "steps": [
+        {
+          "title": "Fotos ablegen",
+          "description": "Ziehe ein oder mehrere Bilder in den Uploader. Stapelverarbeitung wird unterstützt, sodass du Metadaten aus einem ganzen Ordner in einem Durchgang entfernen kannst."
+        },
+        {
+          "title": "Format auswählen",
+          "description": "Wähle JPEG, PNG oder WebP als Ausgabeformat. Passe den Qualitätsregler an, wenn du kleinere Dateien möchtest — EXIF wird so oder so entfernt."
+        },
+        {
+          "title": "Saubere Dateien herunterladen",
+          "description": "Jedes Bild wird sofort ohne Metadaten neu kodiert. Lade sie einzeln herunter oder klicke auf \"Alle herunterladen\", um den ganzen Stapel zu bekommen."
+        }
+      ],
+      "tipLabel": "TIPP:",
+      "tipText": "Wenn ein Bild \"Kein EXIF gefunden\" zeigt, war es bereits sauber — vielleicht ein Screenshot, ein PNG oder eine Datei, die von einer Social-Media-Plattform bereits bereinigt wurde."
+    },
+    "why": {
+      "title": "Warum EXIF-/GPS-Metadaten entfernen?",
+      "paragraphs": [
+        "Jedes Foto, das dein Smartphone aufnimmt, speichert unbemerkt GPS-Koordinaten, den genauen Zeitpunkt und das verwendete Gerät. Diese versteckten Daten werden beim Teilen mitgesendet — und jeder, der das Bild herunterlädt, kann nachvollziehen, wo du warst und wann.",
+        "EXIF vor dem Hochladen auf Marktplätze, Foren oder Blogs zu entfernen, ist eine einfache Gewohnheit für mehr Privatsphäre. Außerdem spart es pro Datei ein paar Kilobyte, was sich bemerkbar macht, wenn du hunderte Produkt- oder Portfoliofotos auf einer Website auslieferst."
+      ],
+      "bullets": [
+        "Entferne GPS-Koordinaten, damit niemand ein Foto zu deinem Zuhause, Büro oder deiner Schule zurückverfolgen kann.",
+        "Lösche Kamera-Seriennummern und Zeitstempel, die verschiedene Fotos derselben Person zuordnen könnten.",
+        "Erfülle DSGVO- und Datenminimierungsanforderungen beim Veröffentlichen von nutzergenerierten Inhalten."
+      ]
+    },
+    "faqTitle": "Häufig gestellte Fragen"
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Was sind EXIF-Daten und warum sollte man sie entfernen?",
+        "answer": "EXIF (Exchangeable Image File Format) sind Metadaten in Fotos mit Kameraeinstellungen, Datum/Uhrzeit und häufig GPS-Standort. Das Entfernen schützt deine Privatsphäre beim Teilen von Fotos online."
+      },
+      {
+        "question": "Welche Metadaten werden entfernt?",
+        "answer": "Es werden alle EXIF-Metadaten entfernt, darunter: GPS-Koordinaten, Kamera-Marke/Modell, Aufnahmezeit, Objektivinfos, Belichtungseinstellungen, Vorschaubilder und weitere eingebettete Daten."
+      },
+      {
+        "question": "Beeinflusst das Entfernen von EXIF die Bildqualität?",
+        "answer": "Bei JPEG/WebP kann es je nach Qualitätseinstellung zu minimalem Qualitätsverlust kommen. PNG-Ausgabe ist verlustfrei. Visuelle Unterschiede sind bei 90%+ Qualität meist kaum sichtbar."
+      },
+      {
+        "question": "Sind meine Daten sicher?",
+        "answer": "Ja. Die Verarbeitung erfolgt vollständig in deinem Browser. Deine Bilder werden nie auf einen Server hochgeladen. Die EXIF-Entfernung geschieht per HTML5-Canvas, das Metadaten von Natur aus entfernt."
+      },
+      {
+        "question": "Welche Bildformate werden unterstützt?",
+        "answer": "Du kannst JPEG, PNG, WebP, GIF und die meisten gängigen Bildformate hochladen. Die Ausgabe kann als JPEG, PNG oder WebP gespeichert werden."
+      }
+    ]
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "breadcrumb": {
+    "home": "Startseite",
+    "imageCropper": "Bild Zuschneider"
+  },
+  "hero": {
+    "title": "Kostenlos Online",
+    "titleHighlight": "Bild Zuschneider",
+    "description": "Schneide Bilder praezise mit vordefinierten Seitenverhaeltnissen zu. Schnell, kostenlos und privat, alles laeuft im Browser."
+  },
+  "ui": {
+    "alerts": {
+      "selectImageFile": "Bitte waehle eine Bilddatei aus",
+      "fileSizeLimit": "Die Dateigroesse muss unter 10MB liegen",
+      "selectLargerArea": "Bitte waehle einen groesseren Bereich zum Zuschneiden",
+      "cropFailed": "Bild konnte nicht zugeschnitten werden. Bitte erneut versuchen."
+    },
+    "dropzone": {
+      "dropYourImageHere": "Bild Hier Ablegen",
+      "orClickBrowse": "oder klicken, um eine Datei auszuwaehlen",
+      "maxSizeSingle": "Max. 10MB pro Datei • Nur ein Bild"
+    },
+    "replace": {
+      "title": "Bild ersetzen",
+      "orDropNew": "oder neue Datei ablegen"
+    },
+    "settings": {
+      "aspectRatio": "Seitenverhaeltnis",
+      "lockAspect": "Seitenverhaeltnis beim Auswaehlen sperren",
+      "outputFormat": "Ausgabeformat",
+      "advancedSettings": "Erweiterte Einstellungen",
+      "optimized": "Optimiert",
+      "quality": "Qualitaet",
+      "smallerFile": "Kleinere Datei",
+      "betterQuality": "Bessere Qualitaet",
+      "pngLossless": "PNG ist verlustfrei, Qualitaetseinstellungen gelten nicht."
+    },
+    "actions": {
+      "delete": "Loeschen",
+      "cropping": "Zuschneiden...",
+      "startCrop": "Zuschneiden starten",
+      "downloadResult": "Ergebnis herunterladen",
+      "resetSelection": "Auswahl zuruecksetzen",
+      "croppedResult": "Zugeschnittenes Ergebnis",
+      "size": "Groesse"
+    },
+    "howTo": {
+      "title": "So Schneidest Du Bilder Online Zu",
+      "step1Title": "BILD HOCHLADEN",
+      "step1Desc": "Lege dein Bild ab oder klicke zum Auswaehlen. Unterstuetzt JPEG, PNG, WebP und AVIF.",
+      "step2Title": "BEREICH AUSWAEHLEN",
+      "step2Desc": "Waehle ein Seitenverhaeltnis und ziehe den Bereich, den du behalten moechtest.",
+      "step3Title": "HERUNTERLADEN",
+      "step3Desc": "Klicke auf Zuschneiden und lade das Ergebnis im gewuenschten Format herunter.",
+      "tip": "TIPP:",
+      "tipText": "Nutze 1:1 fuer Profilbilder, 16:9 fuer Video-Thumbnails und 9:16 fuer Story-Formate."
+    },
+    "why": {
+      "title": "Warum Bilder Zuschneiden?",
+      "p1": "Viele Bilder enthalten zu viel Hintergrund. Zuschneiden entfernt Ueberfluessiges und lenkt den Blick auf das Wesentliche.",
+      "p2": "Weniger Pixel bedeuten kleinere Dateien und schnellere Ladezeiten. Das hilft auch beim SEO, besonders mobil.",
+      "b1": "Platziere Hauptmotive entlang der Drittel-Linien fuer eine harmonische Komposition.",
+      "b2": "Entferne leeren Raum bei Produktfotos fuer bessere Conversion im E-Commerce.",
+      "b3": "Liefere nur benoetigte Pixel aus und verbessere deine Performance-Werte."
+    },
+    "features": {
+      "title": "Hauptfunktionen",
+      "presetRatiosTitle": "Vordefinierte Verhaeltnisse",
+      "presetRatiosDesc": "9 Verhaeltnisse • Freier Zuschnitt • Sperr-Option",
+      "formatOptionsTitle": "Formatoptionen",
+      "formatOptionsDesc": "Export als JPEG, PNG, WebP oder AVIF",
+      "privateTitle": "100% Privat",
+      "privateDesc": "Alle Verarbeitung erfolgt in deinem Browser",
+      "instantTitle": "Sofortige Ergebnisse",
+      "instantDesc": "Schnelles Zuschneiden mit Live-Vorschau"
+    },
+    "proTips": {
+      "title": "Pro Tipps zum Zuschneiden",
+      "t1": "Nutze ein passendes Seitenverhaeltnis je nach Einsatzzweck, z. B. 1:1 fuer Instagram oder 16:9 fuer Thumbnails.",
+      "t2": "Platziere das Hauptmotiv leicht ausserhalb der Mitte fuer dynamischere Bilder.",
+      "t3": "Bei Transparenz nutze PNG oder WebP. JPEG entfernt Transparenz.",
+      "t4": "Bleibe bei Original, wenn kein anderes Format noetig ist. Mehrfaches JPEG-Encoding reduziert Qualitaet."
+    },
+    "faqTitle": "Haeufige Fragen"
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Was macht ein Bild Zuschneider genau?",
+        "answer": "Du waehst einen Bereich aus, der behalten wird. Alles ausserhalb wird entfernt."
+      },
+      {
+        "question": "Welche Seitenverhaeltnisse stehen zur Auswahl?",
+        "answer": "Es gibt neun Presets wie 1:1, 4:3, 16:9 und 9:16. Alternativ kannst du frei zuschneiden."
+      },
+      {
+        "question": "Kann ich nach dem Zuschneiden in ein anderes Format exportieren?",
+        "answer": "Ja. Du kannst das Original behalten oder in JPEG, PNG, WebP oder AVIF exportieren."
+      },
+      {
+        "question": "Werden meine Bilder an einen Server gesendet?",
+        "answer": "Nein. Alles passiert lokal im Browser. Es wird nichts hochgeladen."
+      },
+      {
+        "question": "Gibt es ein Dateigroessenlimit?",
+        "answer": "Ja, maximal 10 MB pro Bild fuer stabile Verarbeitung im Browser."
+      }
+    ]
+  }
+}

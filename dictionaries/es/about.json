@@ -1,0 +1,61 @@
+{
+  "hero": {
+    "titlePrefix": "Acerca de",
+    "titleHighlight": "PixBatch",
+    "description": "Potentes herramientas de procesamiento de imagenes en el navegador que funcionan totalmente en tu dispositivo. Sin subidas, sin servidores, privacidad total."
+  },
+  "story": {
+    "title": "Nuestra Historia",
+    "p1": "PixBatch nacio de una frustracion simple: por que las herramientas de imagen de nivel profesional deben requerir software caro o subidas riesgosas a la nube? Creimos que tenia que haber una mejor forma.",
+    "p2": "Fundado en 2024, construimos una plataforma donde todo el procesamiento ocurre directamente en tu navegador con tecnologias web modernas. Tus imagenes nunca salen de tu dispositivo, dandonte control y privacidad total. Hoy, miles de creadores, desarrolladores y negocios confian en PixBatch para sus necesidades de imagen."
+  },
+  "values": {
+    "title": "Nuestros Valores",
+    "subtitle": "Los principios que guian todo lo que hacemos",
+    "items": [
+      {
+        "title": "Privacidad Primero",
+        "description": "Tus imagenes se quedan en tu dispositivo. Procesamiento local completo."
+      },
+      {
+        "title": "Codigo de Calidad",
+        "description": "Tecnologias web modernas para velocidad y confiabilidad."
+      },
+      {
+        "title": "Enfoque en el Usuario",
+        "description": "Creado para necesidades reales y comentarios de usuarios."
+      },
+      {
+        "title": "Crecimiento Continuo",
+        "description": "Siempre mejorando con comentarios de la comunidad."
+      }
+    ]
+  },
+  "why": {
+    "title": "Por que Elegir PixBatch?",
+    "subtitle": "Lo que nos diferencia de otras herramientas de imagen",
+    "items": [
+      {
+        "title": "Hecho para Procesamiento por Lotes",
+        "description": "Procesa cientos de imagenes de una vez con la misma configuracion. Ahorra horas de trabajo repetitivo."
+      },
+      {
+        "title": "100% del Lado del Cliente",
+        "description": "Todo corre en tu navegador. Tus archivos nunca salen de tu dispositivo ni tocan ningun servidor."
+      },
+      {
+        "title": "Resultados Profesionales",
+        "description": "Algoritmos ajustados para ofrecer la mejor calidad para web o impresion."
+      },
+      {
+        "title": "Impulsado por la Comunidad",
+        "description": "Construido con feedback real. Unete y ayuda a definir el futuro de PixBatch."
+      }
+    ]
+  },
+  "cta": {
+    "title": "Listo para Empezar?",
+    "description": "Unete a miles de creadores que confian en PixBatch para procesar imagenes.",
+    "button": "Comenzar a Procesar Imagenes"
+  }
+}

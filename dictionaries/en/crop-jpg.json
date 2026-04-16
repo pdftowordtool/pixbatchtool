@@ -1,0 +1,117 @@
+{
+  "breadcrumb": {
+    "home": "Home",
+    "imageCropper": "Image Cropper",
+    "cropWebp": "Crop JPG"
+  },
+  "hero": {
+    "title": "Free Online",
+    "titleHighlight": "JPG Cropper",
+    "description": "Crop JPG/JPEG images with adjustable quality. Fast, free, and privacy-focused."
+  },
+  "ui": {
+    "alerts": {
+      "selectImageFile": "Please select an image file",
+      "fileSizeLimit": "File size must be less than 10MB",
+      "selectLargerArea": "Please select a larger area to crop",
+      "cropFailed": "Failed to crop image. Please try again."
+    },
+    "dropzone": {
+      "dropYourImageHere": "Drop Your Image Here",
+      "orClickBrowse": "or click to browse a file",
+      "maxSizeHint": "Max 10MB - JPG output with quality control"
+    },
+    "replace": {
+      "title": "Replace image",
+      "orDropNew": "or drop a new file"
+    },
+    "settings": {
+      "aspectRatio": "Aspect ratio",
+      "lockAspect": "Lock aspect when selecting",
+      "outputFormat": "Output format",
+      "webpModernTitle": "JPG (Lossy)",
+      "webpModernDesc": "Smaller files with adjustable quality"
+    },
+    "quality": {
+      "panelTitle": "Quality Settings",
+      "qualityLabel": "Quality",
+      "smallerFile": "Smaller file",
+      "betterQuality": "Better quality"
+    },
+    "actions": {
+      "delete": "Delete",
+      "cropping": "Cropping...",
+      "startCrop": "Start Crop",
+      "downloadWebp": "Download JPG",
+      "resetSelection": "Reset Selection",
+      "croppedResult": "Cropped Result",
+      "size": "Size"
+    },
+    "images": {
+      "uploadAlt": "Upload",
+      "croppedAlt": "Cropped"
+    },
+    "howTo": {
+      "title": "How To Crop JPG Images Online",
+      "step1Title": "Load Your Photo",
+      "step1Desc": "Drag any image file into the editor or click to pick one from your device. Works with JPEG, PNG, WebP, and more.",
+      "step2Title": "Frame and Fine-Tune",
+      "step2Desc": "Pick a preset ratio or draw a freeform selection, then adjust the quality slider to control file size.",
+      "step3Title": "Download Your JPG",
+      "step3Desc": "Hit crop, preview the result, and save your optimized JPEG in one click.",
+      "tip": "TIP:",
+      "tipText": "Use 80-90% quality for photos for smaller files with minimal visible difference."
+    },
+    "why": {
+      "title": "Why Crop JPG Images?",
+      "p1": "JPEG is the workhorse format for photography on the web. Cropping removes unused areas so the final file becomes lighter and faster to load.",
+      "p2": "If you do not need transparency, JPG is usually the best choice over PNG for page speed and bandwidth savings.",
+      "b1": "Great for product photos, blog images, and social media visuals.",
+      "b2": "The quality slider gives direct control over visual quality versus file size.",
+      "b3": "Lighter images improve page speed, Core Web Vitals, and user experience."
+    },
+    "features": {
+      "title": "Key Features",
+      "presetRatiosTitle": "Preset Ratios",
+      "presetRatiosDesc": "9 presets + free crop + lock",
+      "transparencyTitle": "Quality Control",
+      "transparencyDesc": "1-100% quality slider",
+      "privateTitle": "100% Private",
+      "privateDesc": "Browser-only processing",
+      "compressionTitle": "Small Files",
+      "compressionDesc": "Optimized JPG compression"
+    },
+    "proTips": {
+      "title": "Pro Tips for JPG Cropping",
+      "t1": "Match your crop ratio to where the image will be used, such as 16:9 for banners or 1:1 for square feeds.",
+      "t2": "For most web photos, 80-85% quality gives an excellent balance between quality and size.",
+      "t3": "JPEG does not support transparency. Use PNG or WebP if you need a transparent background.",
+      "t4": "For print, use 95-100% quality. For email and chat previews, 70-80% is usually enough."
+    },
+    "faqTitle": "Frequently Asked Questions"
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Will cropping my JPG reduce image quality?",
+        "answer": "JPEG uses lossy compression, so there is a small re-encoding step. At 85-90% quality, differences are usually invisible."
+      },
+      {
+        "question": "What quality setting should I use for website images?",
+        "answer": "Start around 75-85% for a strong quality-size balance. Increase only when fine details are critical."
+      },
+      {
+        "question": "Can I crop PNG or WebP and save as JPG?",
+        "answer": "Yes. You can upload common image formats and export the crop as JPG. Transparent regions become a solid background."
+      },
+      {
+        "question": "Why is my cropped file larger than expected?",
+        "answer": "Very high JPG quality can create larger files, especially for small crops. Lowering quality to 80-85% usually helps."
+      },
+      {
+        "question": "Does any file data leave my device?",
+        "answer": "No. Cropping and JPG encoding run locally in your browser. Nothing is uploaded to a server."
+      }
+    ]
+  }
+}

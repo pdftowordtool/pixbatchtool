@@ -1,0 +1,174 @@
+{
+  "breadcrumb": {
+    "home": "Home",
+    "imageOptimizer": "Image Optimizer"
+  },
+  "hero": {
+    "title": "Free Online",
+    "titleHighlight": "Image Optimizer",
+    "description": "Smart compression with WebP/AVIF conversion. Up to 80% smaller files — free, privacy-first, and watermark-free."
+  },
+  "dropzone": {
+    "dropHere": "DROP YOUR IMAGES HERE",
+    "orClick": "or click to browse files",
+    "browseFiles": "Browse Files",
+    "maxSize": "Max 5MB per file • Up to 10 images per upload",
+    "addMore": "Add more images",
+    "orDrop": "or drop files"
+  },
+  "modes": {
+    "smart": {
+      "title": "Smart Optimization",
+      "description": "Auto-select best format and settings",
+      "activeMessage": "Smart mode active:",
+      "activeDetail": "Auto WebP/AVIF format with optimized quality."
+    },
+    "manual": {
+      "title": "Manual Control",
+      "description": "Choose specific format and quality"
+    }
+  },
+  "settings": {
+    "advancedSettings": "Advanced Settings",
+    "optimized": "Optimized",
+    "basic": "Basic",
+    "stripMetadata": "Strip metadata (EXIF, ICC) for smaller files",
+    "stripMetadataDesc": "Removing metadata can reduce file size by 10-20% but removes camera information, color profiles, and location data.",
+    "targetFormat": "Target Format",
+    "modernWeb": "Modern web",
+    "bestCompression": "Best compression",
+    "universal": "Universal",
+    "lossless": "Lossless",
+    "formatTip": "Single output: Choose one format for optimized results. For multiple formats, use the Convert tool.",
+    "qualitySettings": "Quality Settings",
+    "defaultQuality": "(default is 85%)",
+    "web": "Web",
+    "standard": "Standard",
+    "high": "High",
+    "max": "Max",
+    "smallerSize": "Smaller Size",
+    "betterQuality": "Better Quality",
+    "qualityExplainer": "Most users can leave this at 85% for excellent visual quality with strong compression. Adjust only if you need very small files (lower) or near-lossless output (95-100%)."
+  },
+  "privacy": {
+    "notice": "All processing local + server-side transient, no files stored.",
+    "details": "Details",
+    "title": "Data & Privacy",
+    "p1": "Your images are processed on-the-fly. Originals stay in your browser; compressed results are streamed back immediately.",
+    "p2": "No permanent storage: the server keeps temporary buffers just long enough to encode & deliver the result, then memory is released.",
+    "p3": "No analytics on image content; only anonymous aggregate performance counters may be collected (sizes, timings) for optimization.",
+    "p4": "Close the tab any time after processing completes. While processing, avoid closing to prevent interruption."
+  },
+  "results": {
+    "optimizing": "Optimizing...",
+    "errorOptimizing": "Error optimizing image",
+    "processing": "Processing...",
+    "errorProcessing": "Error processing image",
+    "allDone": "All done!",
+    "imageOptimized": "{count} image optimized",
+    "imagesOptimized": "{count} images optimized",
+    "applyNewSettings": "Apply New Settings",
+    "downloadZip": "Download ZIP",
+    "clearAll": "Clear All",
+    "settingsChanged": "Settings have changed! Click \"Apply New Settings\" to re-optimize your images with the new configuration.",
+    "optimizationSummary": "Optimization Summary",
+    "spaceSaved": "Space Saved",
+    "filesProcessed": "Files Processed",
+    "sizeReduced": "Size Reduced",
+    "original": "Original:",
+    "saved": "{percent}% saved",
+    "optimizedLabel": "Optimized:",
+    "download": "Download"
+  },
+  "howTo": {
+    "title": "How to Optimize Images Online",
+    "step1Title": "Upload Your Images",
+    "step1Desc": "Drag & drop your files into the dropzone. Works instantly on mobile and desktop without sign-ups.",
+    "step2Title": "Auto-Optimize for Speed",
+    "step2Desc": "Smart mode automatically converts your images to WebP or AVIF for the absolute smallest file size.",
+    "step3Title": "Download Compressed Files",
+    "step3Desc": "Download images individually or as a ZIP folder. Switch to Manual mode to tweak settings.",
+    "proTip": "Pro Tip:",
+    "proTipText": "Bulk optimize! You can select multiple images at once to compress your entire image batch consistently in seconds."
+  },
+  "whyOptimize": {
+    "title": "Why Optimize Your Web Images?",
+    "intro": "Fast websites rank higher. Shrinking image file sizes decreases bandwidth, improves your Core Web Vitals, and boosts SEO.",
+    "smartMode": "Smart Mode",
+    "smartModeDesc": "automatically chooses",
+    "smartModeFormats": "WebP or AVIF",
+    "smartModeEnd": "for maximum savings without visible loss.",
+    "manualControl": "Manual Control",
+    "manualControlDesc": "for precise format, quality, and metadata adjustments.",
+    "avif": "AVIF",
+    "avifDesc": "for best sizes,",
+    "webp": "WebP",
+    "webpDesc": "for modern webs,",
+    "png": "PNG",
+    "pngDesc": "for transparency, and",
+    "jpeg": "JPEG",
+    "jpegDesc": "for older apps."
+  },
+  "seo": {
+    "title": "Maximize Website Speed and SEO",
+    "lighterPages": "Lighter Pages",
+    "lighterPagesDesc": "Reduce sizes by up to 80% to cut bandwidth and speed up page load times.",
+    "coreWebVitals": "Crush Core Web Vitals",
+    "coreWebVitalsDesc": "Serve modern formats to improve your LCP and climb search engine rankings.",
+    "secure": "Secure & Private",
+    "secureDesc": "Images process in your browser and are never uploaded to a remote server.",
+    "outro": "Use Smart mode for zero-config, effortless results or switch to Manual for strict, granular control over your files."
+  },
+  "tips": {
+    "title": "Pro Image Compression Tips",
+    "tip1": "WebP: Start at 75–85% quality. AVIF: 60–80% is often plenty for great results.",
+    "tip2": "Need transparency? Prefer PNG or lossless WebP. JPEG flattens backgrounds.",
+    "tip3": "Keep UI/Text crisp with lossless PNG/WebP. Use lossy WebP/AVIF for standard photos.",
+    "tip4": "Strip EXIF/ICC metadata under Advanced Settings to shave off another 5-15%."
+  },
+  "qualityGuide": {
+    "title": "Quality vs Size Guide",
+    "interactiveDemo": "Interactive demo: See how quality affects file size in real-time",
+    "demoQuality": "DEMO QUALITY",
+    "samplePhoto": "SAMPLE: 2MB PHOTO",
+    "noSavings": "No savings",
+    "recommendations": "QUALITY RECOMMENDATIONS",
+    "printQuality": "PRINT QUALITY",
+    "printQualityDesc": "Professional printing • Archival • Large files",
+    "highQuality": "HIGH QUALITY",
+    "highQualityDesc": "Portfolio • Social media • Good balance",
+    "webOptimized": "WEB OPTIMIZED",
+    "webOptimizedDesc": "Websites • Fast loading • Recommended",
+    "maxCompression": "MAXIMUM COMPRESSION",
+    "maxCompressionDesc": "Thumbnails • Previews • Visible quality loss"
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "items": [
+      {
+        "question": "How does the Smart Optimization feature work?",
+        "answer": "Smart Mode automatically selects the best format (WebP/AVIF) and tuning for maximum savings without visible quality loss."
+      },
+      {
+        "question": "How much file size reduction can I expect?",
+        "answer": "Typically 50-80% when switching to modern formats like WebP or AVIF, though complex photographs compress better than simple graphics."
+      },
+      {
+        "question": "Why should I use this over other image tools?",
+        "answer": "We offer private, all-in-one conversion, compression, and metadata stripping directly in your browser with real-time previews."
+      },
+      {
+        "question": "What image formats can I upload and download?",
+        "answer": "Upload JPEG, PNG, WebP, AVIF, GIF, and BMP. Download as WebP (broad support), AVIF (best compression), JPEG (older systems), or PNG (transparency)."
+      },
+      {
+        "question": "Is there a limit to how many images I can compress?",
+        "answer": "You can compress up to 10 images simultaneously, with a 5MB limit per file. You can process unlimited batches."
+      },
+      {
+        "question": "Are my images securely processed?",
+        "answer": "Yes. All processing happens entirely within your web browser. Your files never leave your computer and disappear when you close the tab."
+      }
+    ]
+  }
+}

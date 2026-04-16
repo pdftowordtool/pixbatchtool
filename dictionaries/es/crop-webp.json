@@ -1,0 +1,117 @@
+{
+  "breadcrumb": {
+    "home": "Inicio",
+    "imageCropper": "Recortador de Imagenes",
+    "cropWebp": "Recortar WebP"
+  },
+  "hero": {
+    "title": "Gratis Online",
+    "titleHighlight": "Recortador WebP",
+    "description": "Recorta imagenes a formato WebP: archivos mas pequenos con soporte de transparencia. Rapido, gratis y privado."
+  },
+  "ui": {
+    "alerts": {
+      "selectImageFile": "Selecciona un archivo de imagen",
+      "fileSizeLimit": "El archivo debe ser menor de 10MB",
+      "selectLargerArea": "Selecciona un area mas grande para recortar",
+      "cropFailed": "No se pudo recortar la imagen. Intentalo de nuevo."
+    },
+    "dropzone": {
+      "dropYourImageHere": "Suelta Tu Imagen Aqui",
+      "orClickBrowse": "o haz clic para buscar un archivo",
+      "maxSizeHint": "Max 10MB • Salida WebP con transparencia"
+    },
+    "replace": {
+      "title": "Reemplazar imagen",
+      "orDropNew": "o suelta un archivo nuevo"
+    },
+    "settings": {
+      "aspectRatio": "Relacion de aspecto",
+      "lockAspect": "Bloquear relacion al seleccionar",
+      "outputFormat": "Formato de salida",
+      "webpModernTitle": "WebP (Moderno)",
+      "webpModernDesc": "Mejor compresion + transparencia"
+    },
+    "quality": {
+      "panelTitle": "Configuracion de Calidad",
+      "qualityLabel": "Calidad",
+      "smallerFile": "Archivo mas pequeno",
+      "betterQuality": "Mejor calidad"
+    },
+    "actions": {
+      "delete": "Eliminar",
+      "cropping": "Recortando...",
+      "startCrop": "Iniciar recorte",
+      "downloadWebp": "Descargar WebP",
+      "resetSelection": "Restablecer seleccion",
+      "croppedResult": "Resultado recortado",
+      "size": "Tamano"
+    },
+    "images": {
+      "uploadAlt": "Subida",
+      "croppedAlt": "Recortado"
+    },
+    "howTo": {
+      "title": "Como Recortar Imagenes WebP Online",
+      "step1Title": "Sube cualquier imagen",
+      "step1Desc": "Arrastra un JPEG, PNG u otra imagen al editor. Se carga en tu navegador, no se sube nada.",
+      "step2Title": "Enmarca el recorte",
+      "step2Desc": "Elige una proporcion o modo libre y ajusta las manillas para cubrir exactamente la zona que quieres conservar.",
+      "step3Title": "Guardar como WebP",
+      "step3Desc": "Pulsa recortar, revisa la vista previa y descarga un WebP compacto listo para tu web o app.",
+      "tip": "TIP:",
+      "tipText": "WebP al 80% suele ser 30% mas pequeno que JPG con calidad visual similar."
+    },
+    "why": {
+      "title": "Por que recortar a WebP?",
+      "p1": "WebP combina la compresion de JPEG y la transparencia de PNG en un solo archivo. Un formato sirve para fotos de producto, banners, logos e iconos sin elegir entre peso y transparencia.",
+      "p2": "Recortar elimina partes innecesarias, asi el encoder WebP comprime menos pixeles. El resultado es un archivo aun mas pequeno que carga mas rapido y ayuda a Core Web Vitals. Lighthouse recomienda formatos modernos como WebP.",
+      "b1": "Un formato para todo: fotos, graficos y overlays transparentes en un paquete mas ligero.",
+      "b2": "El control de calidad te permite ajustar el equilibrio entre nitidez y peso.",
+      "b3": "Paginas mas rapidas mejoran engagement, reducen rebote y aumentan ingresos."
+    },
+    "features": {
+      "title": "Funciones Clave",
+      "presetRatiosTitle": "Proporciones",
+      "presetRatiosDesc": "9 presets + libre + bloqueo",
+      "transparencyTitle": "Transparencia",
+      "transparencyDesc": "Canal alfa conservado",
+      "privateTitle": "100% Privado",
+      "privateDesc": "Procesamiento solo en el navegador",
+      "compressionTitle": "Mejor compresion",
+      "compressionDesc": "25-35% mas pequeno que JPG"
+    },
+    "proTips": {
+      "title": "Consejos Pro para WebP",
+      "t1": "WebP es ideal para la web: hero images, tarjetas de producto, miniaturas y cualquier recurso arriba del fold.",
+      "t2": "Para fotos, 75-85% suele verse nitido. Sube a 90%+ solo para graficos con bordes duros, colores planos o texto.",
+      "t3": "Recortas un PNG con fondo transparente? WebP mantiene el canal alfa y suele ser mucho mas ligero que PNG.",
+      "t4": "Si necesitas Safari 13 o IE, sirve un JPEG fallback con picture. Para el resto, WebP funciona sin problemas."
+    },
+    "faqTitle": "Preguntas Frecuentes"
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Cuanto mas pequeno es WebP que JPEG para el mismo recorte?",
+        "answer": "En la practica, WebP al 80% suele ser 25-35% mas ligero que JPEG con nitidez similar. El ahorro puede ser mayor en areas planas o degradados."
+      },
+      {
+        "question": "WebP mantiene transparencia si recorto un PNG?",
+        "answer": "Si. Si la imagen origen tiene canal alfa, el WebP recortado lo conserva. En JPEG no hay transparencia que conservar."
+      },
+      {
+        "question": "Lighthouse recomienda WebP frente a JPEG?",
+        "answer": "Si. Lighthouse sugiere servir imagenes en formatos next-gen como WebP. Cambiar a WebP puede mejorar auditorias y LCP."
+      },
+      {
+        "question": "Hay navegadores que no soporten WebP?",
+        "answer": "Hoy en dia, los navegadores principales soportan WebP. Solo navegadores muy antiguos pueden no mostrarlo."
+      },
+      {
+        "question": "Se envia algo a un servidor al recortar?",
+        "answer": "No. El recorte y la codificacion WebP ocurren localmente en tu navegador. Tu imagen no sale del dispositivo."
+      }
+    ]
+  }
+}

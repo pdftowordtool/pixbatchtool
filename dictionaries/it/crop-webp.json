@@ -1,0 +1,117 @@
+{
+  "breadcrumb": {
+    "home": "Home",
+    "imageCropper": "Ritaglia Immagini",
+    "cropWebp": "Ritaglia WebP"
+  },
+  "hero": {
+    "title": "Gratis Online",
+    "titleHighlight": "Ritagliatore WebP",
+    "description": "Ritaglia immagini in formato WebP: file piu piccoli con supporto trasparenza. Veloce, gratis e privacy-first."
+  },
+  "ui": {
+    "alerts": {
+      "selectImageFile": "Seleziona un file immagine",
+      "fileSizeLimit": "La dimensione del file deve essere inferiore a 10MB",
+      "selectLargerArea": "Seleziona un'area piu grande da ritagliare",
+      "cropFailed": "Impossibile ritagliare l'immagine. Riprova."
+    },
+    "dropzone": {
+      "dropYourImageHere": "Trascina Qui la Tua Immagine",
+      "orClickBrowse": "oppure clicca per scegliere un file",
+      "maxSizeHint": "Max 10MB • Output WebP con trasparenza"
+    },
+    "replace": {
+      "title": "Sostituisci immagine",
+      "orDropNew": "oppure trascina un nuovo file"
+    },
+    "settings": {
+      "aspectRatio": "Rapporto d'aspetto",
+      "lockAspect": "Blocca il rapporto durante la selezione",
+      "outputFormat": "Formato di output",
+      "webpModernTitle": "WebP (Moderno)",
+      "webpModernDesc": "Migliore compressione + trasparenza"
+    },
+    "quality": {
+      "panelTitle": "Impostazioni Qualita",
+      "qualityLabel": "Qualita",
+      "smallerFile": "File piu piccolo",
+      "betterQuality": "Qualita migliore"
+    },
+    "actions": {
+      "delete": "Elimina",
+      "cropping": "Ritaglio in corso...",
+      "startCrop": "Avvia ritaglio",
+      "downloadWebp": "Scarica WebP",
+      "resetSelection": "Reimposta selezione",
+      "croppedResult": "Risultato ritagliato",
+      "size": "Dimensione"
+    },
+    "images": {
+      "uploadAlt": "Caricamento",
+      "croppedAlt": "Ritagliato"
+    },
+    "howTo": {
+      "title": "Come ritagliare immagini WebP online",
+      "step1Title": "Carica qualsiasi immagine",
+      "step1Desc": "Trascina un JPEG, PNG o altra immagine nell'editor. Si carica nel browser, nulla viene caricato su server.",
+      "step2Title": "Imposta il ritaglio",
+      "step2Desc": "Scegli un rapporto o il ritaglio libero e trascina le maniglie per coprire esattamente l'area da mantenere.",
+      "step3Title": "Salva come WebP",
+      "step3Desc": "Premi ritaglia, controlla l'anteprima e scarica un WebP compatto pronto per web o app.",
+      "tip": "TIP:",
+      "tipText": "WebP al 80% e spesso 30% piu piccolo di JPG con qualita visiva simile."
+    },
+    "why": {
+      "title": "Perche ritagliare in WebP?",
+      "p1": "WebP unisce la compressione di JPEG e la trasparenza di PNG in un unico file. Un formato per foto prodotto, banner, loghi e icone.",
+      "p2": "Ritagliare rimuove parti inutili, quindi WebP deve comprimere meno pixel. Risultato: file piu piccoli, caricamenti piu rapidi e Core Web Vitals migliori. Lighthouse consiglia formati moderni come WebP.",
+      "b1": "Un formato per tutto: foto, grafiche e overlay trasparenti in un pacchetto piu leggero.",
+      "b2": "Lo slider qualita aiuta a bilanciare nitidezza e peso del file.",
+      "b3": "Pagine piu veloci migliorano engagement, riducono bounce e aumentano ricavi."
+    },
+    "features": {
+      "title": "Funzionalita Principali",
+      "presetRatiosTitle": "Rapporti predefiniti",
+      "presetRatiosDesc": "9 preset + libero + blocco",
+      "transparencyTitle": "Trasparenza",
+      "transparencyDesc": "Canale alpha preservato",
+      "privateTitle": "100% Privato",
+      "privateDesc": "Solo nel browser",
+      "compressionTitle": "Migliore compressione",
+      "compressionDesc": "25-35% piu piccolo di JPG"
+    },
+    "proTips": {
+      "title": "Consigli Pro per WebP",
+      "t1": "WebP e pensato per il web: usalo per hero image, schede prodotto, thumbnail e contenuti above the fold.",
+      "t2": "Per le foto, 75-85% di qualita e spesso perfetto. Salire oltre 90% solo per grafiche con bordi netti, colori piatti o testo.",
+      "t3": "Ritagli un PNG con sfondo trasparente? WebP mantiene il canale alpha ed e molto piu leggero del PNG.",
+      "t4": "Se devi supportare Safari 13 o IE, servi un fallback JPEG con picture. Per gli altri, WebP funziona."
+    },
+    "faqTitle": "Domande Frequenti"
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Quanto e piu piccolo WebP rispetto a JPEG per lo stesso ritaglio?",
+        "answer": "In pratica, WebP al 80% e spesso 25-35% piu leggero di JPEG a nitidezza simile. Il vantaggio cresce con aree piatte o gradienti."
+      },
+      {
+        "question": "WebP mantiene la trasparenza se ritaglio un PNG?",
+        "answer": "Si. Se la sorgente ha un canale alpha, l'output WebP lo preserva. JPEG non ha trasparenza da mantenere."
+      },
+      {
+        "question": "Lighthouse valuta WebP meglio di JPEG?",
+        "answer": "Si. Lighthouse consiglia formati next-gen come WebP. Passare a WebP puo migliorare audit e ridurre LCP."
+      },
+      {
+        "question": "Ci sono browser che non supportano WebP?",
+        "answer": "I browser moderni supportano WebP. Solo browser molto vecchi possono non mostrarlo correttamente."
+      },
+      {
+        "question": "Durante il ritaglio viene inviato qualcosa a un server?",
+        "answer": "No. Ritaglio ed encoding WebP avvengono localmente nel browser. L'immagine non lascia mai il dispositivo."
+      }
+    ]
+  }
+}

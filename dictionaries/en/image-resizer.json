@@ -1,0 +1,72 @@
+{
+  "breadcrumb": { "home": "Home", "imageResizer": "Image Resizer" },
+  "hero": { "title": "Free Online", "titleHighlight": "Image Resizer", "description": "Resize images to any dimension. Perfect for social media, thumbnails, and web optimization." },
+  "dropzone": { "dropHere": "DROP YOUR IMAGES HERE", "orClick": "or click to browse files (JPG, PNG, WebP)", "browseFiles": "Browse Image Files", "maxSize": "Max 10MB per file • Up to 20 images per upload" },
+  "settings": {
+    "customDimensions": "Custom Dimensions", "setExactSize": "Set exact width & height",
+    "percentageScale": "Percentage Scale", "scaleByPercentage": "Scale by percentage",
+    "presetSizes": "Preset Sizes", "popularDimensions": "Popular dimensions",
+    "maintainAspect": "Maintain aspect ratio (recommended)", "tipAspect": "Enable aspect ratio to prevent image distortion",
+    "scale": "Scale", "geometryConstraints": "Geometry & Constraints",
+    "contain": "Contain", "cover": "Cover", "fill": "Fill",
+    "center": "Center", "top": "Top", "bottom": "Bottom", "left": "Left", "right": "Right",
+    "preventUpscaling": "Prevent upscaling",
+    "outputFormat": "Output format", "quality": "Quality",
+    "lowerSize": "Lower size", "higherQuality": "Higher quality",
+    "advancedSettings": "Advanced Settings", "optimized": "Optimized",
+    "stripMetadata": "Strip metadata (EXIF, ICC) for smaller files", "background": "Background",
+    "resizeSummary": "Resize Summary", "targetSize": "Target size", "format": "Format", "same": "Same", "aspectRatio": "Aspect ratio", "yes": "Yes", "no": "No",
+    "settingsChanged": "Settings have changed. Click \"Start Resize\" to apply new settings to your images.",
+    "startResize": "Start Resize", "resetSettings": "Reset Settings"
+  },
+  "privacy": {
+    "title": "Data & Privacy", "notice": "All processing happens in your browser, no uploads.", "details": "Details",
+    "p1": "All image resizing happens locally in your browser using HTML5 Canvas. Your images never leave your device.",
+    "p2": "No uploads to any server. No storage. No tracking of your image content.",
+    "p3": "Your privacy is 100% protected - everything runs client-side on your machine.",
+    "p4": "Close the tab anytime. Your original images remain untouched."
+  },
+  "results": {
+    "resizing": "Resizing...", "errorResizing": "Error resizing image",
+    "allDone": "All done!", "imageResized": "image resized", "imagesResized": "images resized",
+    "downloadZip": "Download ZIP", "clearAll": "Clear All", "download": "Download",
+    "resizeSummary": "Resize Summary", "dimensions": "Dimensions", "filesResized": "Files Resized", "totalSize": "Total Size"
+  },
+  "howTo": {
+    "title": "How To Resize Images",
+    "step1Title": "Upload Visuals", "step1Desc": "Drop high-definition photos or banners onto the target zone. Processing is fully local and secure.",
+    "step2Title": "Lock Aspect Ratio", "step2Desc": "Type specific width/height pixels or snap to our built-in social media dimension templates.",
+    "step3Title": "Process & Export", "step3Desc": "Download crisp, flawlessly resized assets individually or bundled via ZIP.",
+    "tip": "Manual start gives you full control. Lock aspect ratio to avoid distortion, use presets for common sizes, and export responsive assets that improve page speed and SEO."
+  },
+  "features": {
+    "title": "Perfect Size for Every Platform",
+    "socialMedia": "Social Media Layouts", "socialMediaDesc": "Launch templates for LinkedIn, Twitter, Instagram, or YouTube exact native resolution dimensions instantly.",
+    "proportions": "Maintain Proportions", "proportionsDesc": "Smart boundary collision ensures elements never stretch weirdly without you explicitly selecting 'Fill' constraints.",
+    "parallel": "Parallel Processing", "parallelDesc": "Resize giant directories using multi-threaded WebAssembly in the same time it takes to resize a single image.",
+    "privacy": "Complete Privacy", "privacyDesc": "Photos are buffered entirely on the front-end. Nothing connects to an external server.",
+    "storage": "Save Storage", "storageDesc": "Automatically shrink physical geometry while stripping heavy EXIF camera metadata to reduce disk weight.",
+    "safeguards": "Smart Safeguards", "safeguardsDesc": "Scale caps prevent accidental, messy upscaling if the source picture lacks enough native resolution."
+  },
+  "qualityGuide": {
+    "title": "Quality vs Size Guide",
+    "description": "Different output formats produce different file sizes. **AVIF** offers the smallest files, followed by **WebP** and **JPEG**. Adjust the quality slider to see how it affects file size.",
+    "demoQuality": "Demo Quality", "samplePhoto": "Sample: Full HD Image (1920x1080)", "noSavings": "No savings",
+    "qualityRecommendations": "Quality Recommendations",
+    "maxQuality": "Maximum Quality", "maxQualityDesc": "Professional prints • Portfolio • Minimal compression",
+    "recommended": "Recommended", "recommendedDesc": "Web images • Social media • Best balance",
+    "moderate": "Moderate", "moderateDesc": "Thumbnails • Previews • Smaller file size",
+    "lowQuality": "Low Quality", "lowQualityDesc": "Tiny previews • Placeholders • Not recommended"
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "q1": "What CSS properties does 'Contain' vs 'Cover' mimic?",
+    "a1": "The 'Contain' geometry fits your image neatly inside the target dimensions, adding logical padding. 'Cover' fills the entire target boundary completely, gracefully cropping edges if the picture's aspect ratio differs. 'Fill' forces the exact pixels and may distort.",
+    "q2": "Do I risk pixelating my photos if I resize?",
+    "a2": "Not down-sizing! As long as you shrink an image, crispness maintains. We default to 'Prevent upscaling' enabled so if you drop a 500px icon into a 1920px container, we won't artificially bloat or blur the pixels.",
+    "q3": "Why should I strip metadata when scaling?",
+    "a3": "Modern digital cameras embed EXIF data including device type, shutter speed, and location tracking data into massive background layers. By slicing that hidden bloat off during resize operations, we shave crucial kilobytes instantly for SEO.",
+    "q4": "Are uploads sent back safely?",
+    "a4": "Everything renders on your device local memory dynamically (HTML canvas interpolation). We never transmit, upload, or warehouse user data on corporate servers."
+  }
+}

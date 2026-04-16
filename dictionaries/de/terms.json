@@ -1,0 +1,137 @@
+{
+  "hero": {
+    "titlePrefix": "Nutzungs-",
+    "titleHighlight": "bedingungen",
+    "description": "Bitte lesen Sie diese Nutzungsbedingungen sorgfaltig, bevor Sie unseren Dienst verwenden.",
+    "lastUpdatedLabel": "Zuletzt aktualisiert",
+    "lastUpdatedDate": "15. Januar 2025"
+  },
+  "sections": {
+    "acceptanceOfTerms": {
+      "title": "Akzeptanz der Bedingungen",
+      "paragraphs": [
+        "Durch den Zugriff auf und die Nutzung von PixBatch (\"Dienst\") akzeptieren Sie diese Nutzungsbedingungen. Wenn Sie nicht einverstanden sind, nutzen Sie unseren Dienst bitte nicht.",
+        "Diese Bedingungen gelten fur alle Besucher, Nutzer und andere Personen, die auf den Dienst zugreifen oder ihn verwenden. Wir behalten uns das Recht vor, diese Bedingungen jederzeit zu aktualisieren. Ihre fortgesetzte Nutzung gilt als Zustimmung zu den Anderungen."
+      ]
+    },
+    "useOfService": {
+      "title": "Nutzung des Dienstes",
+      "intro": "Sie durfen unseren Dienst nur fur rechtmassige Zwecke und gemaess diesen Bedingungen nutzen. Sie stimmen zu, den Dienst nicht zu verwenden:",
+      "items": [
+        "Auf eine Weise, die gegen geltende nationale oder internationale Gesetze oder Vorschriften verstosst",
+        "Zur Ubermittlung von Werbung oder Werbematerial ohne unsere vorherige schriftliche Zustimmung",
+        "Um das Unternehmen, Mitarbeitende, andere Nutzer oder andere Personen/Organisationen zu imitieren",
+        "Fur Verhalten, das die Nutzung des Dienstes durch andere einschrankt oder behindert",
+        "Zum Hochladen oder Ubertragen von Viren, Malware oder anderem schadlichen Code",
+        "Zur Verarbeitung von Bildern mit illegalen Inhalten oder Verstoßen gegen Urheber- oder Datenschutzrechte"
+      ]
+    },
+    "userAccounts": {
+      "title": "Benutzerkonten",
+      "intro": "Wenn Sie ein Konto erstellen, mussen Sie stets korrekte, vollstandige und aktuelle Informationen angeben. Sie sind verantwortlich fur:",
+      "items": [
+        "Die Vertraulichkeit Ihres Passworts",
+        "Alle Aktivitaten, die uber Ihr Konto stattfinden",
+        "Die sofortige Meldung jeder unbefugten Nutzung Ihres Kontos",
+        "Die Verwendung eines starken und sicheren Passworts"
+      ],
+      "outro": "Wir behalten uns das Recht vor, ein Konto jederzeit ohne Vorankundigung zu deaktivieren, wenn wir einen Verstoss gegen diese Bedingungen vermuten."
+    },
+    "intellectualPropertyRights": {
+      "title": "Rechte an geistigem Eigentum",
+      "paragraphs": [
+        "Der Dienst sowie seine Inhalte, Funktionen und Funktionalitat sind und bleiben das ausschliessliche Eigentum von PixBatch und seinen Lizenzgebern.",
+        "Ihre Inhalte: Sie behalten alle Rechte an den Bildern, die Sie mit unserem Dienst verarbeiten. Wir beanspruchen kein Eigentum an Ihren Bildern. Da die Verarbeitung im Browser erfolgt, haben wir keinen Zugriff auf Ihre Bilder.",
+        "Unsere Inhalte: Unsere Marken, Logos und Dienstleistungszeichen sind unser Eigentum. Sie durfen diese ohne vorherige schriftliche Genehmigung nicht verwenden."
+      ]
+    },
+    "paymentAndBilling": {
+      "title": "Zahlung und Abrechnung",
+      "intro": "Wenn Sie Premium-Funktionen kaufen, stimmen Sie zu, aktuelle, vollstandige und korrekte Zahlungsdaten bereitzustellen. Sie autorisieren uns, alle anfallenden Gebuhren abzubuchen.",
+      "items": [
+        {
+          "label": "Abonnementplane",
+          "text": "Werden wiederkehrend (monatlich oder jahrlich) bis zur Kundigung berechnet"
+        },
+        {
+          "label": "Erstattungen",
+          "text": "Werden grundsatzlich nicht gewahrt, ausser gesetzlich erforderlich oder nach unserem Ermessen"
+        },
+        {
+          "label": "Preisanderungen",
+          "text": "Wir konnen Preise mit 30 Tagen Vorankundigung anpassen"
+        },
+        {
+          "label": "Kundigung",
+          "text": "Sie konnen Ihr Abonnement jederzeit in den Kontoeinstellungen kundigen"
+        },
+        {
+          "label": "Fehlgeschlagene Zahlungen",
+          "text": "Bei fehlgeschlagener Zahlung konnen wir den Zugang zu Premium-Funktionen aussetzen oder beenden"
+        }
+      ]
+    },
+    "disclaimerOfWarranties": {
+      "title": "Gewahrleistungsausschluss",
+      "intro": "Der Dienst wird \"WIE GESEHEN\" und \"NACH VERFUGBARKEIT\" bereitgestellt. Wir ubernehmen keine ausdrucklichen oder stillschweigenden Garantien bezuglich:",
+      "items": [
+        "Der Richtigkeit, Zuverlassigkeit oder Qualitat des Dienstes",
+        "Einer unterbrechungsfreien, rechtzeitigen oder fehlerfreien Verfugbarkeit",
+        "Der Behebung von Mangel",
+        "Der Freiheit von Viren oder schadlichen Komponenten",
+        "Der Qualitat oder Genauigkeit verarbeiteter Bilder"
+      ],
+      "outro": "Die Nutzung des Dienstes erfolgt auf eigenes Risiko. Wir empfehlen, immer Sicherungskopien Ihrer Originalbilder aufzubewahren."
+    },
+    "limitationOfLiability": {
+      "title": "Haftungsbeschrankung",
+      "intro": "Soweit gesetzlich zulassig, haftet PixBatch nicht fur indirekte, zufallige, besondere, Folge- oder Strafschaden, einschliesslich:",
+      "items": [
+        "Gewinn- oder Umsatzverluste",
+        "Verlust von Daten oder Bildern",
+        "Verlust von Geschaftschancen",
+        "Dienstunterbrechungen",
+        "Sonstige wirtschaftliche Schaden oder Verluste"
+      ],
+      "outro": "Unsere Gesamthaftung ist auf den Betrag begrenzt, den Sie in den zwolf (12) Monaten vor dem haftungsbegrundenden Ereignis an uns gezahlt haben, oder auf 100 USD - je nachdem, welcher Betrag hoher ist."
+    },
+    "termination": {
+      "title": "Beendigung",
+      "intro": "Wir konnen Ihr Konto und den Zugriff auf den Dienst jederzeit sofort und ohne vorherige Mitteilung beenden oder aussetzen, unter anderem bei:",
+      "items": [
+        "Verstoss gegen diese Bedingungen",
+        "Betrugerischer, missbrauchlicher oder illegaler Aktivitat",
+        "Beendigung auf Ihren Wunsch",
+        "Langeren Inaktivitatszeiten"
+      ],
+      "outro": "Mit der Beendigung endet Ihr Nutzungsrecht sofort. Alle Bestimmungen, die ihrer Natur nach fortgelten sollen, bleiben in Kraft."
+    },
+    "governingLaw": {
+      "title": "Geltendes Recht",
+      "paragraphs": [
+        "Diese Bedingungen unterliegen den Gesetzen des US-Bundesstaats Kalifornien unter Ausschluss seiner kollisionsrechtlichen Bestimmungen.",
+        "Streitigkeiten aus diesen Bedingungen oder Ihrer Nutzung des Dienstes werden durch verbindliche Schiedsgerichtsbarkeit in San Francisco, Kalifornien, entschieden; jede Partei kann jedoch einstweiligen Rechtsschutz bei einem zustandigen Gericht beantragen."
+      ]
+    },
+    "changesToTerms": {
+      "title": "Anderungen der Bedingungen",
+      "intro": "Wir behalten uns das Recht vor, diese Bedingungen jederzeit nach eigenem Ermessen zu andern oder zu ersetzen. Bei wesentlichen Anderungen werden wir:",
+      "items": [
+        "Mindestens 30 Tage vor Inkrafttreten neuer Bedingungen informieren",
+        "Sie per E-Mail oder durch einen deutlichen Hinweis in unserem Dienst benachrichtigen",
+        "Das Datum Zuletzt aktualisiert oben auf dieser Seite anpassen"
+      ],
+      "outro": "Wenn Sie unseren Dienst nach Inkrafttreten der Anderungen weiter nutzen, stimmen Sie den uberarbeiteten Bedingungen zu."
+    },
+    "contactUs": {
+      "title": "Kontakt",
+      "intro": "Wenn Sie Fragen zu diesen Nutzungsbedingungen haben, kontaktieren Sie uns bitte:",
+      "emailLabel": "E-Mail",
+      "addressLabel": "Adresse",
+      "phoneLabel": "Telefon",
+      "email": "rohit@pixbatch.com",
+      "address": "Panchavti Road, Gorwa, Vadodara - 390016, Gujarat, India",
+      "phone": "+91 9104826422"
+    }
+  }
+}

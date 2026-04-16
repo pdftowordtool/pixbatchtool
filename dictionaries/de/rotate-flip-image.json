@@ -1,0 +1,140 @@
+{
+  "breadcrumb": {
+    "home": "Startseite",
+    "rotateFlip": "Drehen & Spiegeln"
+  },
+  "hero": {
+    "title": "Kostenlos Online",
+    "titleHighlight": "Bild Rotator",
+    "description": "Drehe und spiegle deine Bilder prazise. 90° und 180° Rotation sowie horizontal/vertikal spiegeln — alles lokal in deinem Browser."
+  },
+  "ui": {
+    "dropzone": {
+      "dropYourImageHere": "Bild hier ablegen",
+      "orClickBrowse": "oder klicken, um eine Datei auszuwahlen",
+      "supportsHint": "Unterstutzt JPEG, PNG, WebP, GIF"
+    },
+    "replace": {
+      "title": "Bild ersetzen",
+      "orDropNew": "oder neue Datei ablegen"
+    },
+    "preview": {
+      "delete": "Loschen",
+      "processing": "Verarbeite...",
+      "downloadImage": "Bild herunterladen",
+      "resetToOriginal": "Auf Original zurucksetzen",
+      "applyTransformationHint": "Wende eine Transformation an, um den Download zu aktivieren",
+      "previewAlt": "Vorschau",
+      "transformationApplied": "Transformation angewendet",
+      "originalSize": "Originalgrose",
+      "newSize": "Neue Grose",
+      "transformation": {
+        "rotated": "Gedreht",
+        "flippedH": "Gespiegelt H",
+        "flippedV": "Gespiegelt V"
+      }
+    },
+    "settings": {
+      "angle": "Winkel",
+      "flipHorizontal": "Horizontal spiegeln",
+      "flipVertical": "Vertikal spiegeln",
+      "outputFormat": "Ausgabeformat",
+      "stripMetadata": "Metadaten entfernen (EXIF/ICC)",
+      "background": "Hintergrund",
+      "backgroundPlaceholder": "#ffffff oder rgba(0,0,0,0)",
+      "quality": "Qualitat",
+      "smallerFile": "Kleinere Datei",
+      "betterQuality": "Bessere Qualitat"
+    },
+    "formats": {
+      "original": "original",
+      "jpeg": "jpeg",
+      "png": "png",
+      "webp": "webp",
+      "avif": "avif"
+    },
+    "featureCards": {
+      "items": [
+        {
+          "title": "Prazise Rotation",
+          "description": "Drehe Bilder um 90° oder 180° mit pixelgenauer Genauigkeit."
+        },
+        {
+          "title": "Spiegeln & Flip",
+          "description": "Spiegle Bilder horizontal oder vertikal fur einen Mirror-Effekt."
+        },
+        {
+          "title": "Sofort Vorschau",
+          "description": "Sieh die Anderungen sofort. Kein Server-Processing."
+        }
+      ]
+    },
+    "howTo": {
+      "title": "So drehst und spiegelst du Bilder online",
+      "step1Title": "Bild laden",
+      "step1Desc": "Ziehe eine JPEG-, PNG- oder WebP-Datei in den Editor. Sie offnet sich direkt im Browser ohne Upload-Wartezeit.",
+      "step2Title": "Drehen oder spiegeln",
+      "step2Desc": "Wahle einen Winkel, aktiviere horizontales oder vertikales Spiegeln oder kombiniere beides. Die Vorschau aktualisiert sich in Echtzeit.",
+      "step3Title": "Ergebnis herunterladen",
+      "step3Desc": "Wahle ein Ausgabeformat, wenn du gleichzeitig konvertieren willst, und klicke dann auf Download. Die Datei ist sofort bereit.",
+      "tipLabel": "TIPP:",
+      "tipText": "Rotation um 90° oder 180° erhalt alle Pixel. Qualitatsverlust entsteht nur beim erneuten Komprimieren — stelle den Regler auf 90%+ fur nahezu verlustfrei."
+    },
+    "featuresSection": {
+      "title": "Features",
+      "items": [
+        {
+          "title": "Preset-Winkel",
+          "description": "0°, 90°, 180°, 270° mit einem Klick"
+        },
+        {
+          "title": "Mirror Flip",
+          "description": "Horizontal und vertikal spiegeln"
+        },
+        {
+          "title": "100% Privat",
+          "description": "Nur im Browser verarbeiten"
+        },
+        {
+          "title": "Multi-Format",
+          "description": "JPEG, PNG, WebP, AVIF Ausgabe"
+        }
+      ]
+    },
+    "why": {
+      "title": "Warum Bilder drehen & spiegeln?",
+      "p1": "Kameras speichern die Ausrichtung nicht immer korrekt. Ein Handy kann ein Landschaftsfoto als Portrait speichern oder der EXIF-Orientierungs-Tag geht beim Export verloren. Eine schnelle 90°-Rotation korrigiert das Bild, ohne die Pixel zu verandern — ohne Qualitatsstrafe bis auf den finalen Save.",
+      "p2": "Spiegeln ist genauso nutzlich. Produktfotos werden gespiegelt, damit Objekte im Katalog in die gleiche Richtung zeigen. Designer spiegeln Selfie-Mode Screenshots, damit Text wieder lesbar ist. Und du sparst Zeit, indem du die Ausrichtung direkt im Browser korrigierst statt einen schweren Desktop-Editor zu offnen.",
+      "bullets": [
+        "Korrigiere seitliche oder kopfstehende Fotos durch falsche EXIF-Orientierung.",
+        "Spiegle Selfies und Produktshots, damit Text lesbar ist und alles konsistent wirkt.",
+        "Korrigiere direkt im Browser — kein Photoshop installieren und kein GIMP starten fur eine einfache Rotation."
+      ]
+    },
+    "faqTitle": "Haufige Fragen"
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Wie drehe ich ein Bild?",
+        "answer": "Lade dein Bild hoch und nutze die Buttons: links drehen (90° gegen den Uhrzeigersinn), rechts drehen (90° im Uhrzeigersinn) oder 180°. Die Vorschau aktualisiert sich sofort."
+      },
+      {
+        "question": "Was ist der Unterschied zwischen Spiegeln und Drehen?",
+        "answer": "Drehen rotiert das Bild um einen Winkel um den Mittelpunkt. Spiegeln erzeugt ein Mirror-Bild: horizontal links-rechts, vertikal oben-unten."
+      },
+      {
+        "question": "Beeinflusst das Drehen die Bildqualitat?",
+        "answer": "Rotation in 90°-Schritten ist fur die Pixel verlustfrei. Beim Speichern als JPEG/WebP steuert der Qualitatsregler die Kompression. PNG ist immer verlustfrei."
+      },
+      {
+        "question": "Kann ich Drehen und Spiegeln kombinieren?",
+        "answer": "Ja. Du kannst beliebige Kombinationen anwenden. Mit Zurucksetzen kommst du jederzeit zur Originalausrichtung zuruck."
+      },
+      {
+        "question": "Wird mein Bild auf einen Server hochgeladen?",
+        "answer": "Nein. Alles passiert komplett in deinem Browser mit HTML5 Canvas. Deine Bilder verlassen dein Gerat nie — volle Privatsphare."
+      }
+    ]
+  }
+}

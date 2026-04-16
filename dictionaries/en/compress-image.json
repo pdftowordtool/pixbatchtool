@@ -1,0 +1,111 @@
+{
+  "breadcrumb": {
+    "home": "Home",
+    "compressImage": "Compress Image"
+  },
+  "hero": {
+    "title": "Free Online",
+    "titleHighlight": "Image Compressor",
+    "description": "Reduce image file size while maintaining quality. Perfect for web optimization and faster loading times."
+  },
+  "dropzone": {
+    "addMore": "Add more images",
+    "orDrop": "or drop files",
+    "dropHere": "DROP YOUR IMAGES HERE",
+    "orClick": "or click to browse files",
+    "browseFiles": "Browse Files",
+    "maxSize": "Max 5MB per file • Up to 10 images per upload"
+  },
+  "settings": {
+    "qualitySettings": "Quality Settings",
+    "defaultQuality": "(default is 85%)",
+    "web": "Web",
+    "standard": "Standard",
+    "high": "High",
+    "max": "Max",
+    "smallerSize": "Smaller Size",
+    "betterQuality": "Better Quality",
+    "qualityExplainer": "Most users can leave this at 85% for excellent visual quality with strong compression. Adjust only if you need very small files (lower) or near-lossless output (95-100%)."
+  },
+  "privacy": {
+    "title": "Data & Privacy",
+    "notice": "All processing local + server-side transient, no files stored.",
+    "details": "Details",
+    "p1": "Your images are processed on-the-fly. Originals stay in your browser; compressed results are streamed back immediately.",
+    "p2": "No permanent storage: the server keeps temporary buffers just long enough to encode & deliver the result, then memory is released.",
+    "p3": "No analytics on image content; only anonymous aggregate performance counters may be collected (sizes, timings) for optimization.",
+    "p4": "Close the tab any time after processing completes. While processing, avoid closing to prevent interruption."
+  },
+  "results": {
+    "compressing": "Compressing...",
+    "errorCompressing": "Error compressing image",
+    "settingsChanged": "Settings have changed! Click \"Apply New Settings\" to re-compress your images with the new quality configuration.",
+    "allDone": "All done!",
+    "imageCompressed": "image compressed",
+    "imagesCompressed": "images compressed",
+    "applyNewSettings": "Apply New Settings",
+    "downloadZip": "Download ZIP",
+    "clearAll": "Clear All",
+    "download": "Download",
+    "compressionSummary": "Compression Summary",
+    "spaceSaved": "Space Saved",
+    "filesProcessed": "Files Processed",
+    "sizeReduced": "Size Reduced",
+    "original": "Original:",
+    "saved": "saved",
+    "compressed": "Compressed:"
+  },
+  "howTo": {
+    "title": "How To Compress",
+    "step1Title": "Upload Your Images",
+    "step1Desc": "Drag and drop JPEG, PNG, or WebP files. No sign-up required and everything processes instantly.",
+    "step2Title": "Fine-Tune Quality",
+    "step2Desc": "Use the slider to balance visual clarity against maximum file size reduction for faster websites.",
+    "step3Title": "Download Instantly",
+    "step3Desc": "Get your ultra-light images one by one or neatly packed in a ZIP file to save bandwidth."
+  },
+  "features": {
+    "title": "Key Features",
+    "blazingFast": "Blazing Fast Pages",
+    "blazingFastDesc": "Smaller image files guarantee faster page loads and improved Core Web Vitals.",
+    "privacy": "Browser-Based Privacy",
+    "privacyDesc": "Everything shrinks locally. We never upload or store your private images.",
+    "bulk": "Bulk Compression",
+    "bulkDesc": "Process multiple large photos simultaneously and download them in one ZIP file.",
+    "lossyLossless": "Lossy & Lossless",
+    "lossyLosslessDesc": "Automatically tune algorithms for the best savings without sacrificing pixels.",
+    "seo": "Boost SEO Rankings",
+    "seoDesc": "Search engines penalize sluggish sites. Compressed images keep you ranking high.",
+    "bandwidth": "Save Bandwidth",
+    "bandwidthDesc": "Dramatically reduce data consumption for mobile visitors globally."
+  },
+  "qualityGuide": {
+    "title": "Quality vs Size Guide",
+    "interactiveDemo": "Interactive demo: See how quality affects file size in real-time",
+    "demoQuality": "Demo Quality",
+    "samplePhoto": "Sample: 2MB Photo",
+    "noSavings": "No savings",
+    "qualityRecommendations": "Quality Recommendations",
+    "printQuality": "Print Quality",
+    "printQualityDesc": "Professional printing • Archival • Large files",
+    "highQuality": "High Quality",
+    "highQualityDesc": "Portfolio • Social media • Good balance",
+    "webOptimized": "Web Optimized",
+    "webOptimizedDesc": "Websites • Fast loading • Recommended",
+    "maxCompression": "Maximum Compression",
+    "maxCompressionDesc": "Thumbnails • Previews • Visible quality loss"
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "q1": "How does image compression improve SEO?",
+    "a1": "Massive images cause slow page loads, which hurts your Core Web Vitals. By reducing your file sizes (often by up to 80%), your pages load instantly, resulting in better search engine rankings.",
+    "q2": "Is there any quality loss when shrinking images?",
+    "a2": "Most compression is 'lossy' but practically invisible to the human eye. By keeping the quality slider between 75% and 85%, you get substantial size reduction while retaining crisp visuals.",
+    "q3": "What's the best format for maximum file size reduction?",
+    "a3": "Modern formats like WebP and AVIF offer vastly superior compression algorithms compared to older JPEG and PNG formats, allowing for smaller files at the exact same quality.",
+    "q4": "Are my private local photos secure?",
+    "a4": "Absolutely. Browsers execute our tool's code locally without uploading to a remote server. Your private data remains 100% on your device.",
+    "q5": "Can I compress images in bulk?",
+    "a5": "Yes, you can drop up to 10 images at once. The tool processes them all simultaneously and lets you download a compressed ZIP archive."
+  }
+}

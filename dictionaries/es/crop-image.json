@@ -1,0 +1,110 @@
+{
+  "breadcrumb": {
+    "home": "Inicio",
+    "imageCropper": "Recortador de Imagenes"
+  },
+  "hero": {
+    "title": "Gratis Online",
+    "titleHighlight": "Recortador de Imagenes",
+    "description": "Recorta imagenes con precision usando proporciones predefinidas. Rapido, gratis y privado, todo ocurre en tu navegador."
+  },
+  "ui": {
+    "alerts": {
+      "selectImageFile": "Selecciona un archivo de imagen",
+      "fileSizeLimit": "El archivo debe ser menor de 10MB",
+      "selectLargerArea": "Selecciona un area mas grande para recortar",
+      "cropFailed": "No se pudo recortar la imagen. Intentalo de nuevo."
+    },
+    "dropzone": {
+      "dropYourImageHere": "Suelta Tu Imagen Aqui",
+      "orClickBrowse": "o haz clic para buscar un archivo",
+      "maxSizeSingle": "Maximo 10MB por archivo • Solo una imagen"
+    },
+    "replace": {
+      "title": "Reemplazar imagen",
+      "orDropNew": "o suelta un archivo nuevo"
+    },
+    "settings": {
+      "aspectRatio": "Relacion de aspecto",
+      "lockAspect": "Bloquear relacion al seleccionar",
+      "outputFormat": "Formato de salida",
+      "advancedSettings": "Configuracion avanzada",
+      "optimized": "Optimizado",
+      "quality": "Calidad",
+      "smallerFile": "Archivo mas pequeno",
+      "betterQuality": "Mejor calidad",
+      "pngLossless": "PNG es un formato sin perdida, la calidad no aplica."
+    },
+    "actions": {
+      "delete": "Eliminar",
+      "cropping": "Recortando...",
+      "startCrop": "Iniciar recorte",
+      "downloadResult": "Descargar resultado",
+      "resetSelection": "Restablecer seleccion",
+      "croppedResult": "Resultado recortado",
+      "size": "Tamano"
+    },
+    "howTo": {
+      "title": "Como Recortar Imagenes Online",
+      "step1Title": "SUBE IMAGEN",
+      "step1Desc": "Suelta tu imagen o haz clic para buscar. Soporta JPEG, PNG, WebP y AVIF.",
+      "step2Title": "SELECCIONA AREA",
+      "step2Desc": "Elige una relacion de aspecto y arrastra para seleccionar el area que quieres conservar.",
+      "step3Title": "DESCARGAR",
+      "step3Desc": "Haz clic en recortar y descarga tu imagen en el formato elegido.",
+      "tip": "TIP:",
+      "tipText": "Usa 1:1 para fotos de perfil, 16:9 para miniaturas de video y 9:16 para historias en redes sociales."
+    },
+    "why": {
+      "title": "Por Que Recortar Imagenes?",
+      "p1": "La mayoria de imagenes tienen mas fondo del necesario. Recortar elimina lo que sobra para que la atencion se enfoque en lo importante.",
+      "p2": "Menos pixeles significa archivos mas pequenos y cargas mas rapidas. Eso ayuda al SEO, sobre todo en movil. Elige la proporcion correcta para cada uso.",
+      "b1": "Coloca el sujeto principal cerca de las lineas de tercios para una composicion mas natural.",
+      "b2": "Recorta espacio vacio en fotos de producto para mejorar conversiones en ecommerce.",
+      "b3": "Envia solo los pixeles necesarios y mejora tu puntuacion de rendimiento."
+    },
+    "features": {
+      "title": "Funciones Clave",
+      "presetRatiosTitle": "Proporciones Predefinidas",
+      "presetRatiosDesc": "9 proporciones • Recorte libre • Opcion de bloqueo",
+      "formatOptionsTitle": "Opciones de Formato",
+      "formatOptionsDesc": "Exporta como JPEG, PNG, WebP o AVIF",
+      "privateTitle": "100% Privado",
+      "privateDesc": "Todo el procesamiento ocurre en tu navegador",
+      "instantTitle": "Resultados Instantaneos",
+      "instantDesc": "Recorte rapido con vista previa"
+    },
+    "proTips": {
+      "title": "Consejos Pro para Recortar",
+      "t1": "Empieza con una proporcion que coincida con el destino: 1:1 para Instagram, 4:5 para feeds verticales y 16:9 para miniaturas.",
+      "t2": "Coloca el sujeto principal fuera del centro, cerca de las intersecciones de la regla de tercios.",
+      "t3": "Si necesitas transparencia, exporta como PNG o WebP. JPEG elimina la transparencia.",
+      "t4": "Deja el formato en Original salvo que necesites otro. Recodificar JPEG puede perder calidad."
+    },
+    "faqTitle": "Preguntas Frecuentes"
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Que hace exactamente un recortador de imagenes?",
+        "answer": "Te permite dibujar un rectangulo sobre la foto y conservar solo esa parte. Todo lo demas se elimina."
+      },
+      {
+        "question": "Que proporciones puedo elegir?",
+        "answer": "Hay nueve opciones predefinidas, incluyendo 1:1, 4:3, 16:9 y 9:16. Tambien puedes usar modo libre."
+      },
+      {
+        "question": "Puedo exportar en otro formato despues de recortar?",
+        "answer": "Si. Puedes mantener el formato original o exportar como JPEG, PNG, WebP o AVIF antes de descargar."
+      },
+      {
+        "question": "Mis imagenes se envian a un servidor?",
+        "answer": "No. El recorte se hace completamente en tu navegador. Nada se sube ni sale de tu dispositivo."
+      },
+      {
+        "question": "Hay limite de tamano de archivo?",
+        "answer": "Si. El limite es de 10 MB por imagen para mantener un procesamiento fluido en el navegador."
+      }
+    ]
+  }
+}

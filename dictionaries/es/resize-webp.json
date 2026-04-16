@@ -1,0 +1,191 @@
+{
+  "breadcrumb": {
+    "home": "Inicio",
+    "imageResizer": "Redimensionador de Imágenes",
+    "resizeWebp": "Redimensionar WebP"
+  },
+  "hero": {
+    "title": "Gratis Online",
+    "titleHighlight": "Redimensionador WebP",
+    "description": "Redimensiona imágenes WebP con control de calidad. Ideal para la web moderna con transparencia y archivos más pequeños."
+  },
+  "dropzone": {
+    "addMore": "Añadir más imágenes WebP",
+    "orDrop": "o suelta archivos WebP",
+    "dropHere": "SUELTA TUS IMÁGENES WEBP AQUÍ",
+    "orClick": "o haz clic para buscar solo archivos WebP",
+    "browse": "Buscar archivos WebP",
+    "maxSize": "Máx 10MB por archivo • Hasta 20 imágenes por carga"
+  },
+  "tabs": {
+    "custom": {
+      "title": "Dimensiones Personalizadas",
+      "desc": "Define ancho y alto exactos"
+    },
+    "percentage": {
+      "title": "Escala por Porcentaje",
+      "desc": "Escala por porcentaje"
+    },
+    "preset": {
+      "title": "Tamaños Preestablecidos",
+      "desc": "Dimensiones populares"
+    }
+  },
+  "custom": {
+    "maintainAspect": "Mantener proporción (opcional para tamaño exacto)",
+    "tipLabel": "Consejo:",
+    "tipText": "Activa la proporción para evitar distorsión"
+  },
+  "percentage": {
+    "scale": "Escala"
+  },
+  "presets": {
+    "items": {
+      "instagramPostSquare": "Publicación de Instagram (Cuadrada)",
+      "instagramStory": "Historia de Instagram",
+      "facebookPost": "Publicación de Facebook",
+      "facebookCover": "Portada de Facebook",
+      "twitterPost": "Publicación de X/Twitter",
+      "twitterHeader": "Encabezado de X/Twitter",
+      "youtubeThumbnail": "Miniatura de YouTube",
+      "linkedinPost": "Publicación de LinkedIn",
+      "fullHD": "Full HD"
+    }
+  },
+  "geometry": {
+    "title": "Geometría y Restricciones",
+    "contain": "Ajustar",
+    "cover": "Cubrir",
+    "fill": "Rellenar",
+    "center": "Centro",
+    "top": "Arriba",
+    "bottom": "Abajo",
+    "left": "Izquierda",
+    "right": "Derecha",
+    "preventUpscaling": "Evitar ampliación"
+  },
+  "output": {
+    "title": "Formato de salida",
+    "quality": "Calidad",
+    "lowerSize": "Menor tamaño",
+    "higherQuality": "Mayor calidad",
+    "same": "Igual"
+  },
+  "advanced": {
+    "title": "Ajustes Avanzados",
+    "badge": "Optimizado",
+    "stripMetadata": "Eliminar metadatos (EXIF, ICC) para archivos más pequeños",
+    "background": "Fondo",
+    "backgroundPlaceholder": "#ffffff o rgba(0,0,0,0)"
+  },
+  "resizeSummary": {
+    "title": "Resumen",
+    "targetSize": "Tamaño objetivo",
+    "filesResized": "Archivos redimensionados",
+    "totalSize": "Tamaño total",
+    "format": "Formato",
+    "quality": "Calidad",
+    "aspectRatio": "Proporción",
+    "yes": "Sí",
+    "no": "No"
+  },
+  "notices": {
+    "startResizeHint": "Haz clic en \"Iniciar\" para redimensionar tus imágenes.",
+    "settingsChangedHint": "Los ajustes cambiaron. Haz clic en \"Iniciar\" para aplicarlos."
+  },
+  "actions": {
+    "startResize": "Iniciar",
+    "resetSettings": "Restablecer",
+    "downloadZip": "Descargar ZIP",
+    "clearAll": "Borrar todo",
+    "download": "Descargar"
+  },
+  "status": {
+    "resizing": "Redimensionando...",
+    "errorResizing": "Error al redimensionar",
+    "allDone": "¡Listo!",
+    "imageResized": "imagen redimensionada",
+    "imagesResized": "imágenes redimensionadas"
+  },
+  "privacy": {
+    "title": "Datos y Privacidad",
+    "p1": "Todo el redimensionado ocurre localmente en tu navegador usando Canvas. Tus imágenes no salen de tu dispositivo.",
+    "p2": "Sin subidas a servidores. Sin almacenamiento. Sin seguimiento del contenido.",
+    "p3": "Tu privacidad está protegida: todo se ejecuta del lado del cliente.",
+    "p4": "Puedes cerrar la pestaña en cualquier momento. Tus originales no se modifican.",
+    "notice": "Todo el procesamiento ocurre en tu navegador, sin subidas.",
+    "details": "Detalles"
+  },
+  "errors": {
+    "webpOnly": "Selecciona solo archivos WebP",
+    "dropWebpOnly": "Suelta solo archivos WebP"
+  },
+  "sections": {
+    "howTo": {
+      "title": "Cómo redimensionar una imagen WebP online",
+      "step1Title": "Selecciona imágenes WebP",
+      "step1Desc": "Suelta tus WebP en el área de carga. Todo se procesa localmente.",
+      "step2Title": "Elige dimensiones",
+      "step2Desc": "Define píxeles exactos, escala por porcentaje o usa un preset.",
+      "step3Title": "Exporta y descarga",
+      "step3Desc": "Descarga los WebP redimensionados individualmente o en ZIP. Ajusta la calidad según necesites.",
+      "tipLabel": "CONSEJO:",
+      "tipText": "WebP ofrece gran compresión y soporte de transparencia. Usa el control de calidad para equilibrar tamaño y nitidez."
+    },
+    "why": {
+      "title": "¿Por qué redimensionar WebP?",
+      "p1": "Redimensionar WebP te ayuda a servir imágenes en el tamaño correcto. Mejora la velocidad y los Core Web Vitals manteniendo buena calidad.",
+      "tipLabel": "Consejo:",
+      "tipText": "Usa WebP en la web para reducir ancho de banda sin perder nitidez."
+    },
+    "platform": {
+      "title": "Tamaño perfecto para cada plataforma",
+      "card1Title": "Transparencia",
+      "card1Desc": "Redimensiona WebP preservando el canal alfa y bordes limpios.",
+      "card2Title": "Páginas más rápidas",
+      "card2Desc": "Imágenes bien dimensionadas mejoran el rendimiento y el SEO.",
+      "card3Title": "Procesamiento por lotes",
+      "card3Desc": "Redimensiona muchos WebP a la vez en tu navegador, sin subidas."
+    },
+    "qualityGuide": {
+      "title": "Guía de calidad vs tamaño",
+      "introPrefix": "Distintos formatos generan tamaños diferentes.",
+      "introMiddle1": "ofrece los archivos más pequeños, seguido de",
+      "introMiddle2": "y",
+      "introSuffix": "Ajusta la calidad para ver el impacto en el tamaño.",
+      "demoQuality": "Calidad de demostración",
+      "sample": "Ejemplo: Imagen Full HD (1920x1080)",
+      "noSavings": "Sin ahorro",
+      "qualityRecommendations": "Recomendaciones de calidad",
+      "maximumQuality": "Máxima calidad",
+      "maximumQualityDesc": "Impresión profesional • Portafolio • Mínima compresión",
+      "recommended": "Recomendado",
+      "recommendedDesc": "Web • Redes sociales • Mejor equilibrio",
+      "moderate": "Moderado",
+      "moderateDesc": "Miniaturas • Previews • Menor tamaño",
+      "lowQuality": "Baja calidad",
+      "lowQualityDesc": "Previews pequeñas • No recomendado"
+    },
+    "faqTitle": "Preguntas frecuentes"
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "¿Al redimensionar WebP se mantiene la transparencia?",
+        "answer": "Sí. WebP soporta transparencia y el redimensionado en el navegador la conserva si mantienes la salida en WebP o PNG."
+      },
+      {
+        "question": "¿Por qué redimensionar si WebP ya es pequeño?",
+        "answer": "Aunque sea eficiente, una imagen demasiado grande desperdicia ancho de banda. Ajustar dimensiones mejora velocidad y decodificación."
+      },
+      {
+        "question": "¿Qué calidad debería usar en WebP?",
+        "answer": "Para la mayoría de usos web, 80–95% es un buen equilibrio entre tamaño y claridad."
+      },
+      {
+        "question": "¿Este redimensionador WebP es privado?",
+        "answer": "Sí. Todo ocurre localmente en tu navegador y tus imágenes nunca se suben a un servidor."
+      }
+    ]
+  }
+}

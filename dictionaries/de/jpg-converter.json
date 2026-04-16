@@ -1,0 +1,220 @@
+{
+  "breadcrumb": {
+    "home": "Startseite",
+    "imageConverter": "Bildkonverter",
+    "jpgConverter": "JPG-Konverter"
+  },
+  "hero": {
+    "title": "Kostenloser Online",
+    "titleHighlight": "JPG-Konverter",
+    "description": "Konvertiere PNG-, WebP-, AVIF- und andere Bilder in das JPG-Format. Anpassbare Qualität mit starker Kompression – alles passiert in deinem Browser."
+  },
+  "dropzone": {
+    "addMore": "Weitere Bilder hinzufügen",
+    "orDrop": "oder Dateien ablegen",
+    "dropHere": "BILDER HIER ABLEGEN",
+    "orClick": "oder klicken, um Dateien auszuwählen",
+    "browse": "Dateien auswählen",
+    "supports": "Unterstützt PNG, WebP, AVIF, GIF, BMP • Bis zu 10 Bilder"
+  },
+  "infoBanner": {
+    "title": "Konvertierung zu JPG (verlustbehaftetes Format)",
+    "description": "JPG nutzt verlustbehaftete Kompression für kleinere Dateien. Passe die Qualität an, um Dateigröße und Bildqualität auszubalancieren. Perfekt für Fotos und Web."
+  },
+  "formatSettings": {
+    "title": "Zielformat-Einstellungen",
+    "badgeAll": "ALLE",
+    "formatSingular": "Format",
+    "formatPlural": "Formate",
+    "formatsSelectedSingular": "Format ausgewählt",
+    "formatsSelectedPlural": "Formate ausgewählt",
+    "chooseOutputFormats": "Ausgabeformate wählen",
+    "resetToJpegOnly": "Nur JPEG zurücksetzen",
+    "selectAllFormats": "Alle Formate auswählen",
+    "selectionInfoEachImage": "Jedes Bild wird konvertiert zu:",
+    "description": "Wähle ein oder mehrere Zielformate. Wenn mehrere Formate ausgewählt sind, wird jedes Bild in alle gewählten Formate konvertiert und als ZIP-Datei heruntergeladen. JPEG bietet universelle Kompatibilität, WebP starke Kompression, AVIF die beste Kompression und PNG erhält Transparenz verlustfrei.",
+    "cards": {
+      "webp": {
+        "label": "WebP",
+        "subtitle": "Modernes Webformat"
+      },
+      "avif": {
+        "label": "AVIF",
+        "subtitle": "Next-Gen-Kompression"
+      },
+      "png": {
+        "label": "PNG",
+        "subtitle": "Verlustfrei mit Transparenz"
+      },
+      "jpeg": {
+        "label": "JPEG",
+        "subtitle": "Universelle Kompatibilität"
+      }
+    }
+  },
+  "qualitySettings": {
+    "title": "Qualitätseinstellungen",
+    "compressionQuality": "Kompressionsqualität",
+    "smallerFile": "Kleinere Datei",
+    "betterQuality": "Bessere Qualität",
+    "note": "Gilt für WebP, AVIF und JPEG. Höhere Qualität = größere Dateien. 80% empfohlen. PNG ist immer verlustfrei."
+  },
+  "advancedSettings": {
+    "title": "Erweiterte Einstellungen",
+    "badgeOptimized": "Optimiert",
+    "badgeBasic": "Basis",
+    "stripMetadataLabel": "Metadaten (EXIF, ICC) entfernen für kleinere Dateien",
+    "stripMetadataDesc": "Das Entfernen von Metadaten kann die Dateigröße reduzieren, entfernt jedoch Kamerainformationen, Farbprofile und Standortdaten."
+  },
+  "privacy": {
+    "title": "Daten & Datenschutz",
+    "p1": "Deine Bilder werden vollständig in deinem Browser verarbeitet. Es werden keine Dateien auf einen Server hochgeladen.",
+    "p2": "Die komplette JPG-Konvertierung läuft lokal mit JavaScript-Bibliotheken. Deine Bilder verlassen niemals dein Gerät.",
+    "p3": "Keine Analyse von Bildinhalten; höchstens anonyme, aggregierte Performance-Zähler können zur Optimierung erfasst werden.",
+    "p4": "Du kannst den Tab jederzeit schließen, sobald die Verarbeitung abgeschlossen ist. Deine Privatsphäre ist geschützt.",
+    "notice": "Alles lokal + serverseitig nur transient, keine Dateien gespeichert.",
+    "details": "Details"
+  },
+  "errors": {
+    "selectImages": "Bitte wähle Bilddateien aus (PNG, JPEG, WebP, AVIF usw.)",
+    "dropImages": "Bitte lege Bilddateien ab (PNG, JPEG, WebP, AVIF usw.)",
+    "dropNonJpeg": "Bitte lege Nicht-JPEG-Bilddateien ab (PNG, WebP, AVIF usw.)"
+  },
+  "notices": {
+    "readyToConvertLabel": "Bereit zum Konvertieren:",
+    "willBeConvertedTo": "wird konvertiert zu",
+    "atQuality": "bei",
+    "qualitySuffix": "Qualität.",
+    "readyToConvertTo": "Bereit zum Konvertieren zu"
+  },
+  "actions": {
+    "convert": "Konvertieren",
+    "convertTo": "Konvertieren zu",
+    "formats": "Formaten",
+    "more": "mehr",
+    "clearAll": "Alles löschen",
+    "downloadZip": "ZIP herunterladen",
+    "download": "Herunterladen",
+    "downloadAll": "Alles herunterladen",
+    "convertMore": "Konvertieren",
+    "addMore": "Weitere Bilder hinzufügen"
+  },
+  "status": {
+    "conversionInProgress": "Konvertierung läuft",
+    "allDone": "Fertig!",
+    "pending": "ausstehend",
+    "waitingToConvert": "Warten auf Konvertierung…",
+    "convertingTo": "Konvertiere zu",
+    "convertedTo": "Konvertiert zu",
+    "errorConverting": "Fehler beim Konvertieren",
+    "image": "Bild",
+    "images": "Bilder"
+  },
+  "summary": {
+    "conversionSummary": "Konvertierungsübersicht",
+    "filesConverted": "Konvertierte Dateien",
+    "outputFormat": "Ausgabeformat",
+    "outputFormats": "Ausgabeformate",
+    "quality": "Qualität",
+    "original": "Original",
+    "converted": "Konvertiert"
+  },
+  "sections": {
+    "howTo": {
+      "title": "So konvertierst du Bilder zu JPG",
+      "step1Title": "BILDER HOCHLADEN",
+      "step1Desc": "Ziehe PNG-, WebP-, AVIF- oder andere Bilder per Drag & Drop in die Upload-Zone. JPEG-Dateien sind ausgeschlossen.",
+      "step2Title": "ZU JPG KONVERTIEREN",
+      "step2Desc": "Passe die Qualität an und klicke dann auf Konvertieren, um die Bilder in JPG umzuwandeln.",
+      "step3Title": "HERUNTERLADEN",
+      "step3Desc": "Lade JPGs einzeln herunter oder als ZIP. Kleine Dateien bei guter Qualität.",
+      "tipLabel": "TIPP:",
+      "tipText": "JPG ist ideal für Fotos und Webbilder, wenn die Dateigröße zählt. 75-85% liefert meist die beste Balance. Für Grafiken mit Transparenz nutze PNG."
+    },
+    "keyFeatures": {
+      "title": "Hauptfunktionen",
+      "items": [
+        {
+          "title": "Anpassbare Qualität",
+          "desc": "Kompression steuern • Größe & Qualität ausbalancieren • Ideal für Fotos"
+        },
+        {
+          "title": "Kleine Dateigrößen",
+          "desc": "Effiziente Kompression • Schnelles Laden • Web-optimiert"
+        },
+        {
+          "title": "Datenschutz zuerst",
+          "desc": "Browser-basierte Verarbeitung • Keine Uploads • 100% privat"
+        },
+        {
+          "title": "Sofortige Konvertierung",
+          "desc": "Schnelle lokale Verarbeitung • Keine Wartezeit • Ergebnisse in Echtzeit"
+        },
+        {
+          "title": "Batch-Download",
+          "desc": "Mehrere Dateien auf einmal • ZIP-Archiv • Ein-Klick-Download"
+        },
+        {
+          "title": "Universelle Unterstützung",
+          "desc": "Funktioniert überall • Optimal für Fotos • Industriestandard"
+        }
+      ]
+    },
+    "qualityGuide": {
+      "title": "Qualität vs. Größe – Leitfaden",
+      "interactiveIntro": "Interaktive Demo: Sieh in Echtzeit, wie Qualität die Dateigröße beeinflusst",
+      "demoQuality": "Demo-Qualität",
+      "sampleLabel": "Beispiel: 2MB-Foto",
+      "pngLossless": "PNG (verlustfrei)",
+      "qualityLabel": "Qualität",
+      "qualityRecommendations": "Qualitätsempfehlungen",
+      "tiers": [
+        {
+          "range": "90-100%",
+          "title": "Druckqualität",
+          "desc": "Professioneller Druck • Archiv • Große Dateien"
+        },
+        {
+          "range": "75-89%",
+          "title": "Hohe Qualität",
+          "desc": "Portfolio • Social Media • Gute Balance"
+        },
+        {
+          "range": "60-74%",
+          "title": "Web-optimiert",
+          "desc": "Websites • Schnelles Laden • Empfohlen"
+        },
+        {
+          "range": "10-59%",
+          "title": "Maximale Kompression",
+          "desc": "Thumbnails • Vorschauen • Sichtbarer Qualitätsverlust"
+        }
+      ]
+    },
+    "faqTitle": "Häufig gestellte Fragen"
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Warum Bilder ins JPG-Format konvertieren?",
+        "answer": "JPG (JPEG) ist das am weitesten verbreitete Format für Fotos und Webbilder. Es nutzt verlustbehaftete Kompression, um deutlich kleinere Dateien bei guter visueller Qualität zu erzeugen – ideal zum Teilen, für schnellere Ladezeiten und zum Sparen von Speicher."
+      },
+      {
+        "question": "Welche Qualitätseinstellung sollte ich verwenden?",
+        "answer": "Für die meisten Fotos bietet 75-85% ein sehr gutes Verhältnis aus Dateigröße und Qualität. Für Druck oder Archivierung nutze 90-100%. Für Thumbnails reichen oft 60-75%. Unter 60% werden Kompressionsartefakte meist sichtbar."
+      },
+      {
+        "question": "Sind meine Daten bei der Nutzung sicher?",
+        "answer": "Ja. Die gesamte JPG-Konvertierung findet direkt in deinem Browser statt. Deine Bilder werden nicht hochgeladen und verlassen dein Gerät nicht – das sorgt für maximale Privatsphäre."
+      },
+      {
+        "question": "Welche Formate kann ich zu JPG konvertieren?",
+        "answer": "Du kannst PNG, WebP, AVIF, GIF, BMP und viele weitere gängige Formate zu JPG konvertieren. Der Konverter übernimmt die Umwandlung und passt die Kompression an deine Qualitätseinstellung an."
+      },
+      {
+        "question": "Wann sollte ich JPG statt PNG verwenden?",
+        "answer": "Nutze JPG für Fotos und komplexe Bilder mit vielen Farben, wenn die Dateigröße wichtig ist. Nutze PNG für Grafiken, Logos, Screenshots, Text oder wenn Transparenz benötigt wird. JPG ist kleiner, unterstützt aber keine Transparenz."
+      }
+    ]
+  }
+}

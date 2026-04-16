@@ -1,0 +1,61 @@
+{
+  "hero": {
+    "titlePrefix": "Uber",
+    "titleHighlight": "PixBatch",
+    "description": "Leistungsstarke browserbasierte Bildtools, die komplett auf deinem Geraet laufen. Keine Uploads, keine Server, volle Privatsphaere."
+  },
+  "story": {
+    "title": "Unsere Geschichte",
+    "p1": "PixBatch entstand aus einer einfachen Frustration: Warum brauchen professionelle Bildtools teure Software oder riskante Cloud-Uploads? Wir waren sicher, dass es einen besseren Weg gibt.",
+    "p2": "Gegrundet 2024, haben wir eine Plattform gebaut, auf der die gesamte Verarbeitung direkt im Browser mit modernen Webtechnologien passiert. Deine Bilder verlassen nie dein Geraet, dadurch hast du volle Kontrolle und Privatsphaere. Heute vertrauen Tausende Creator, Entwickler und Unternehmen auf PixBatch."
+  },
+  "values": {
+    "title": "Unsere Kernwerte",
+    "subtitle": "Die Prinzipien, die alles leiten, was wir tun",
+    "items": [
+      {
+        "title": "Privatsphaere zuerst",
+        "description": "Deine Bilder bleiben auf deinem Geraet. Vollstaendige lokale Verarbeitung."
+      },
+      {
+        "title": "Qualitat im Code",
+        "description": "Moderne Webtechnologien fur Geschwindigkeit und Zuverlassigkeit."
+      },
+      {
+        "title": "Nutzerfokus",
+        "description": "Gebaut fur echte Anforderungen und echtes Feedback."
+      },
+      {
+        "title": "Kontinuierliches Wachstum",
+        "description": "Wir verbessern uns laufend mit Feedback aus der Community."
+      }
+    ]
+  },
+  "why": {
+    "title": "Warum PixBatch?",
+    "subtitle": "Was uns von anderen Bildtools unterscheidet",
+    "items": [
+      {
+        "title": "Fur Stapelverarbeitung gebaut",
+        "description": "Verarbeite Hunderte Bilder auf einmal mit denselben Einstellungen. Spare Stunden manueller Arbeit."
+      },
+      {
+        "title": "100% Clientseitige Verarbeitung",
+        "description": "Alles lauft im Browser. Deine Dateien verlassen dein Geraet nicht und landen auf keinem Server."
+      },
+      {
+        "title": "Professionelle Ergebnisse",
+        "description": "Fein abgestimmte Algorithmen liefern beste Qualitat fur Web und Druck."
+      },
+      {
+        "title": "Community-getrieben",
+        "description": "Mit Nutzerfeedback gebaut. Hilf mit, die Zukunft von PixBatch zu gestalten."
+      }
+    ]
+  },
+  "cta": {
+    "title": "Bereit loszulegen?",
+    "description": "Schliesse dich Tausenden Creatorn an, die PixBatch fur Bildverarbeitung nutzen.",
+    "button": "Mit Bildverarbeitung starten"
+  }
+}

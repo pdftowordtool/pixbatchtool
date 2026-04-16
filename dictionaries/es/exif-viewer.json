@@ -1,0 +1,202 @@
+{
+  "breadcrumb": {
+    "home": "Inicio",
+    "exifViewer": "Visor EXIF"
+  },
+  "hero": {
+    "title": "Gratis Online",
+    "titleHighlight": "Visor EXIF",
+    "description": "Extrae y ve metadatos detallados de tus fotos. Consulta ajustes de camara, ubicacion GPS, fecha de captura y mas, todo procesado localmente en tu navegador."
+  },
+  "ui": {
+    "alerts": {
+      "selectImageFile": "Selecciona un archivo de imagen",
+      "fileSizeLimit": "El archivo debe ser menor de 50MB"
+    },
+    "dropzone": {
+      "dropYourImageHere": "Suelta tu imagen aqui",
+      "orClickBrowse": "o haz clic para buscar un archivo",
+      "maxSizeHint": "Max 50MB • Soporta JPEG, PNG, TIFF, HEIC"
+    },
+    "loading": {
+      "extracting": "Extrayendo datos EXIF..."
+    },
+    "replace": {
+      "title": "Reemplazar imagen",
+      "orDropNew": "o suelta un archivo nuevo"
+    },
+    "actions": {
+      "delete": "Eliminar",
+      "exportJson": "Exportar JSON",
+      "newImage": "Nueva imagen",
+      "openInGoogleMaps": "Abrir en Google Maps"
+    },
+    "fileInfo": {
+      "title": "Informacion del archivo",
+      "name": "Nombre",
+      "size": "Tamano",
+      "type": "Tipo",
+      "dimensions": "Dimensiones"
+    },
+    "emptyExif": {
+      "title": "No se encontraron datos EXIF",
+      "description": "Esta imagen no contiene metadatos EXIF. Puede pasar con capturas de pantalla, imagenes editadas o fotos de redes sociales."
+    },
+    "tabs": {
+      "camera": "Camara",
+      "image": "Imagen",
+      "gps": "GPS",
+      "all": "Todo"
+    },
+    "panels": {
+      "cameraLens": "Camara y lente",
+      "exposureSettings": "Ajustes de exposicion",
+      "cameraSettings": "Ajustes de camara",
+      "dateTime": "Fecha y hora",
+      "imageProperties": "Propiedades de imagen",
+      "copyrightCredits": "Derechos y creditos",
+      "locationData": "Datos de ubicacion",
+      "allExifData": "Todos los datos EXIF",
+      "fields": "campos"
+    },
+    "labels": {
+      "make": "Marca",
+      "model": "Modelo",
+      "lens": "Lente",
+      "software": "Software",
+      "shutter": "Obturacion",
+      "aperture": "Apertura",
+      "iso": "ISO",
+      "focal": "Focal",
+      "exposureMode": "Modo de exposicion",
+      "metering": "Medicion",
+      "flash": "Flash",
+      "whiteBalance": "Balance de blancos",
+      "taken": "Tomada",
+      "modified": "Modificada",
+      "width": "Ancho",
+      "height": "Alto",
+      "orientation": "Orientacion",
+      "colorSpace": "Espacio de color",
+      "resolution": "Resolucion",
+      "artist": "Autor",
+      "copyright": "Copyright",
+      "latitude": "Latitud",
+      "longitude": "Longitud",
+      "altitude": "Altitud"
+    },
+    "messages": {
+      "previewAlt": "Vista previa",
+      "noCameraInfo": "No hay informacion de camara",
+      "noGpsData": "No hay datos GPS",
+      "gpsHint": "El GPS suele estar solo en fotos de moviles/camaras con GPS"
+    },
+    "values": {
+      "unknown": "Desconocido",
+      "notDefined": "No definido",
+      "auto": "Auto",
+      "manual": "Manual",
+      "exposurePrograms": {
+        "0": "No definido",
+        "1": "Manual",
+        "2": "Programa AE",
+        "3": "Prioridad apertura",
+        "4": "Prioridad obturacion",
+        "5": "Creativo",
+        "6": "Accion",
+        "7": "Retrato",
+        "8": "Paisaje"
+      },
+      "meteringModes": {
+        "0": "Desconocido",
+        "1": "Promedio",
+        "2": "Ponderada al centro",
+        "3": "Punto",
+        "4": "Multipunto",
+        "5": "Multisegmento",
+        "6": "Parcial"
+      },
+      "flash": {
+        "noFlash": "Sin flash",
+        "flashFired": "Flash disparado",
+        "noFlashCompulsory": "Sin flash (obligatorio)",
+        "noFlashAuto": "Sin flash (auto)",
+        "flashFiredAuto": "Flash disparado (auto)",
+        "flashUsed": "Flash usado"
+      },
+      "orientation": {
+        "1": "Normal",
+        "2": "Volteada horizontal",
+        "3": "Rotada 180°",
+        "4": "Volteada vertical",
+        "5": "Rotada 90° CCW, volteada",
+        "6": "Rotada 90° CW",
+        "7": "Rotada 90° CW, volteada",
+        "8": "Rotada 90° CCW"
+      },
+      "colorSpace": {
+        "sRGB": "sRGB",
+        "uncalibrated": "Sin calibrar"
+      }
+    },
+    "features": {
+      "privateTitle": "100% Privado",
+      "privateDesc": "Todo se procesa en tu navegador. Las imagenes no salen de tu dispositivo.",
+      "instantTitle": "Resultados al instante",
+      "instantDesc": "Obtiene datos EXIF al momento. Sin subir a servidores.",
+      "completeTitle": "Datos completos",
+      "completeDesc": "Ve ajustes de camara, GPS, fechas y todos los metadatos."
+    },
+    "howTo": {
+      "title": "Como ver metadatos EXIF",
+      "step1Title": "Sube una foto",
+      "step1Desc": "Arrastra una imagen JPEG, TIFF o HEIC al visor. Se carga al instante en tu navegador; no se sube nada al servidor.",
+      "step2Title": "Explora las pestañas",
+      "step2Desc": "Cambia entre Camara, Imagen, GPS y Todo para ver obturacion, apertura, ISO, ubicacion y cada campo de metadatos.",
+      "step3Title": "Exporta o comparte",
+      "step3Desc": "Descarga todos los metadatos como archivo JSON. Util para archivado o analisis.",
+      "tipLabel": "TIP:",
+      "tipText": "Si ves \"No se encontraron datos EXIF\", la imagen probablemente es un PNG, una captura o fue limpiada por una red social. Prueba el archivo original."
+    },
+    "exifInfo": {
+      "title": "Que informacion hay en EXIF?",
+      "p1": "Cada vez que una camara o un movil toma una foto, escribe un bloque oculto de datos junto a los pixeles. Estos metadatos, llamados EXIF, registran como se tomo la foto, cuando ocurrio y a veces donde estabas.",
+      "p2": "Fotografos usan EXIF para aprender: que apertura dio mas nitidez, si disparo el flash y que lente se uso. Desarrolladores lo usan para auto-rotar, geolocalizar o verificar timestamps.",
+      "cards": {
+        "cameraLensTitle": "Camara y lente",
+        "cameraLensDesc": "Marca, modelo, nombre del lente y version de firmware del dispositivo.",
+        "exposureSettingsTitle": "Ajustes de exposicion",
+        "exposureSettingsDesc": "Velocidad, apertura (f), ISO, focal y modo de medicion.",
+        "gpsTitle": "Coordenadas GPS",
+        "gpsDesc": "Latitud, longitud y altitud si la ubicacion estaba activada.",
+        "dateTimeTitle": "Fecha y hora",
+        "dateTimeDesc": "Cuando se tomo la foto, cuando se modifico y el desfase horario."
+      }
+    },
+    "faqTitle": "Preguntas frecuentes"
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Que es EXIF?",
+        "answer": "EXIF (Exchangeable Image File Format) es metadata incrustada en imagenes por camaras y smartphones. Incluye ajustes de camara, fecha/hora, coordenadas GPS y mas."
+      },
+      {
+        "question": "Que formatos de imagen tienen EXIF?",
+        "answer": "EXIF se encuentra principalmente en JPEG y TIFF. Algunos formatos RAW y HEIF/HEIC tambien lo incluyen. PNG y GIF normalmente no soportan EXIF."
+      },
+      {
+        "question": "Por que mi imagen no tiene EXIF?",
+        "answer": "Puede no tener EXIF si un editor elimino la metadata, el dispositivo no la grabo o una red social la quito por privacidad."
+      },
+      {
+        "question": "Se sube mi imagen a un servidor?",
+        "answer": "No. Todo el procesamiento ocurre en tu navegador. Tus imagenes no salen de tu dispositivo, manteniendo privacidad y seguridad."
+      },
+      {
+        "question": "Que informacion de camara puedo ver?",
+        "answer": "EXIF suele incluir marca/modelo, informacion de lente, ajustes de exposicion (obturacion, apertura, ISO), focal, flash, fecha/hora y a veces GPS."
+      }
+    ]
+  }
+}

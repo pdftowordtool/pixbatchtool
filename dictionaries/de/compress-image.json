@@ -1,0 +1,111 @@
+{
+  "breadcrumb": {
+    "home": "Startseite",
+    "compressImage": "Bild Komprimieren"
+  },
+  "hero": {
+    "title": "Kostenloser Online",
+    "titleHighlight": "Bildkomprimierer",
+    "description": "Reduzieren Sie die Dateigröße von Bildern bei gleichbleibender Qualität. Perfekt für Web-Optimierung und schnellere Ladezeiten."
+  },
+  "dropzone": {
+    "addMore": "Weitere Bilder hinzufügen",
+    "orDrop": "oder Dateien ablegen",
+    "dropHere": "BILDER HIER ABLEGEN",
+    "orClick": "oder klicken Sie um Dateien zu durchsuchen",
+    "browseFiles": "Dateien Durchsuchen",
+    "maxSize": "Max 5MB pro Datei • Bis zu 10 Bilder pro Upload"
+  },
+  "settings": {
+    "qualitySettings": "Qualitätseinstellungen",
+    "defaultQuality": "(Standard ist 85%)",
+    "web": "Web",
+    "standard": "Standard",
+    "high": "Hoch",
+    "max": "Max",
+    "smallerSize": "Kleinere Größe",
+    "betterQuality": "Bessere Qualität",
+    "qualityExplainer": "Die meisten Benutzer können dies bei 85% belassen für hervorragende visuelle Qualität mit starker Komprimierung. Anpassen nur wenn Sie sehr kleine Dateien (niedriger) oder nahezu verlustfreie Ausgabe (95-100%) benötigen."
+  },
+  "privacy": {
+    "title": "Daten & Datenschutz",
+    "notice": "Alle Verarbeitung lokal + serverseitig vorübergehend, keine Dateien gespeichert.",
+    "details": "Details",
+    "p1": "Ihre Bilder werden sofort verarbeitet. Originale bleiben in Ihrem Browser; komprimierte Ergebnisse werden sofort zurückgestreamt.",
+    "p2": "Kein dauerhafter Speicher: Der Server hält temporäre Puffer nur so lange wie nötig zum Kodieren und Liefern des Ergebnisses, dann wird der Speicher freigegeben.",
+    "p3": "Keine Analyse des Bildinhalts; nur anonyme aggregierte Leistungszähler (Größen, Zeiten) können zur Optimierung erfasst werden.",
+    "p4": "Schließen Sie den Tab jederzeit nach Abschluss der Verarbeitung. Vermeiden Sie während der Verarbeitung das Schließen, um Unterbrechungen zu vermeiden."
+  },
+  "results": {
+    "compressing": "Komprimieren...",
+    "errorCompressing": "Fehler beim Komprimieren",
+    "settingsChanged": "Einstellungen haben sich geändert! Klicken Sie auf \"Neue Einstellungen Anwenden\" um Ihre Bilder mit der neuen Qualitätskonfiguration neu zu komprimieren.",
+    "allDone": "Alles fertig!",
+    "imageCompressed": "Bild komprimiert",
+    "imagesCompressed": "Bilder komprimiert",
+    "applyNewSettings": "Neue Einstellungen Anwenden",
+    "downloadZip": "ZIP Herunterladen",
+    "clearAll": "Alle Löschen",
+    "download": "Herunterladen",
+    "compressionSummary": "Komprimierungszusammenfassung",
+    "spaceSaved": "Platz Gespart",
+    "filesProcessed": "Dateien Verarbeitet",
+    "sizeReduced": "Größe Reduziert",
+    "original": "Original:",
+    "saved": "gespart",
+    "compressed": "Komprimiert:"
+  },
+  "howTo": {
+    "title": "Anleitung zum Komprimieren",
+    "step1Title": "Bilder Hochladen",
+    "step1Desc": "Ziehen und ablegen von JPEG, PNG oder WebP Dateien. Keine Anmeldung erforderlich und alles wird sofort verarbeitet.",
+    "step2Title": "Qualität Einstellen",
+    "step2Desc": "Verwenden Sie den Regler, um visuelle Klarheit gegen maximale Dateigrößenreduzierung für schnellere Websites auszubalancieren.",
+    "step3Title": "Sofort Herunterladen",
+    "step3Desc": "Erhalten Sie Ihre ultraleichten Bilder einzeln oder ordentlich verpackt in einer ZIP-Datei um Bandbreite zu sparen."
+  },
+  "features": {
+    "title": "Hauptfunktionen",
+    "blazingFast": "Blitzschnelle Seiten",
+    "blazingFastDesc": "Kleinere Bilddateien garantieren schnellere Seitenladungen und verbesserte Core Web Vitals.",
+    "privacy": "Browser-Basierter Datenschutz",
+    "privacyDesc": "Alles wird lokal verkleinert. Wir laden Ihre privaten Bilder nie hoch und speichern sie nicht.",
+    "bulk": "Massenkomprimierung",
+    "bulkDesc": "Verarbeiten Sie mehrere große Fotos gleichzeitig und laden Sie sie in einer ZIP-Datei herunter.",
+    "lossyLossless": "Verlustbehaftet & Verlustfrei",
+    "lossyLosslessDesc": "Automatische Algorithmen-Anpassung für beste Einsparungen ohne Pixel zu opfern.",
+    "seo": "SEO-Rankings Verbessern",
+    "seoDesc": "Suchmaschinen bestrafen langsame Seiten. Komprimierte Bilder halten Sie oben im Ranking.",
+    "bandwidth": "Bandbreite Sparen",
+    "bandwidthDesc": "Dramatische Reduzierung des Datenverbrauchs für mobile Besucher weltweit."
+  },
+  "qualityGuide": {
+    "title": "Qualität vs Größe Leitfaden",
+    "interactiveDemo": "Interaktive Demo: Sehen Sie wie Qualität die Dateigröße in Echtzeit beeinflusst",
+    "demoQuality": "Demo Qualität",
+    "samplePhoto": "Beispiel: 2MB Foto",
+    "noSavings": "Keine Einsparungen",
+    "qualityRecommendations": "Qualitätsempfehlungen",
+    "printQuality": "Druckqualität",
+    "printQualityDesc": "Professioneller Druck • Archivierung • Große Dateien",
+    "highQuality": "Hohe Qualität",
+    "highQualityDesc": "Portfolio • Soziale Medien • Gute Balance",
+    "webOptimized": "Web Optimiert",
+    "webOptimizedDesc": "Websites • Schnelles Laden • Empfohlen",
+    "maxCompression": "Maximale Komprimierung",
+    "maxCompressionDesc": "Miniaturbilder • Vorschauen • Sichtbarer Qualitätsverlust"
+  },
+  "faq": {
+    "title": "Häufig Gestellte Fragen",
+    "q1": "Wie verbessert Bildkomprimierung SEO?",
+    "a1": "Große Bilder verursachen langsame Seitenladungen, was Ihre Core Web Vitals beeinträchtigt. Durch Reduzierung Ihrer Dateigrößen (oft um bis zu 80%) laden Ihre Seiten sofort, was zu besseren Suchmaschinen-Rankings führt.",
+    "q2": "Gibt es Qualitätsverlust beim Verkleinern von Bildern?",
+    "a2": "Die meiste Komprimierung ist 'verlustbehaftet', aber praktisch unsichtbar für das menschliche Auge. Bei einem Qualitätsregler zwischen 75% und 85% erhalten Sie eine erhebliche Größenreduzierung bei gleichzeitig scharfen Bildern.",
+    "q3": "Welches ist das beste Format für maximale Dateigrößenreduzierung?",
+    "a3": "Moderne Formate wie WebP und AVIF bieten weitaus überlegene Komprimierungsalgorithmen im Vergleich zu älteren JPEG- und PNG-Formaten und ermöglichen kleinere Dateien bei exakt gleicher Qualität.",
+    "q4": "Sind meine privaten lokalen Fotos sicher?",
+    "a4": "Absolut. Browser führen den Code unseres Tools lokal aus, ohne auf einen Remote-Server hochzuladen. Ihre privaten Daten bleiben zu 100% auf Ihrem Gerät.",
+    "q5": "Kann ich Bilder in Masse komprimieren?",
+    "a5": "Ja, Sie können bis zu 10 Bilder gleichzeitig ablegen. Das Tool verarbeitet sie alle gleichzeitig und lässt Sie ein komprimiertes ZIP-Archiv herunterladen."
+  }
+}

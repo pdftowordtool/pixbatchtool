@@ -1,0 +1,139 @@
+{
+  "hero": {
+    "titlePrefix": "Politica de",
+    "titleHighlight": "Privacidad",
+    "description": "Tu privacidad es nuestra prioridad. Conoce como protegemos tus datos y respetamos tus derechos.",
+    "lastUpdatedLabel": "Ultima actualizacion",
+    "lastUpdatedDate": "15 de enero de 2025"
+  },
+  "sections": {
+    "informationWeCollect": {
+      "title": "Informacion que Recopilamos",
+      "intro": "En PixBatch seguimos un enfoque de privacidad primero. Recopilamos solo la informacion minima necesaria para ofrecer nuestros servicios:",
+      "items": [
+        {
+          "label": "Informacion de Cuenta",
+          "text": "Correo electronico, nombre de usuario y contrasena (cifrada) cuando creas una cuenta."
+        },
+        {
+          "label": "Datos de Uso",
+          "text": "Informacion sobre como usas el servicio, incluidas funciones utilizadas y estadisticas de procesamiento."
+        },
+        {
+          "label": "Informacion del Dispositivo",
+          "text": "Tipo de navegador, sistema operativo y direccion IP para seguridad y optimizacion."
+        },
+        {
+          "label": "Cookies",
+          "text": "Cookies esenciales para autenticacion y preferencias. No usamos cookies de seguimiento de terceros."
+        }
+      ]
+    },
+    "imagesPrivate": {
+      "title": "Tus Imagenes Son Privadas",
+      "promise": "Esta es nuestra promesa principal: todo el procesamiento de imagenes ocurre directamente en tu navegador con tecnologia del lado del cliente.",
+      "items": [
+        "Tus imagenes nunca salen de tu dispositivo",
+        "Nunca subimos tus imagenes a nuestros servidores",
+        "Nunca almacenamos tus imagenes en la nube",
+        "Nunca analizamos el contenido de tus imagenes",
+        "No podemos acceder a tus imagenes aunque quisieramos"
+      ],
+      "outro": "Todo se procesa localmente en tu navegador usando APIs web modernas. Esto garantiza privacidad y seguridad completa para tus imagenes sensibles."
+    },
+    "howWeUseInformation": {
+      "title": "Como Usamos tu Informacion",
+      "intro": "Usamos la informacion limitada que recopilamos solo para los siguientes fines:",
+      "items": [
+        "Proveer y mantener nuestros servicios",
+        "Autenticar tu cuenta y mantenerla segura",
+        "Mejorar la plataforma segun patrones de uso",
+        "Comunicar actualizaciones importantes del servicio",
+        "Responder a tus solicitudes de soporte",
+        "Cumplir obligaciones legales"
+      ],
+      "outro": "Nunca vendemos tu informacion personal a terceros. Nunca compartimos tus datos con anunciantes ni corredores de datos."
+    },
+    "dataSecurity": {
+      "title": "Seguridad de Datos",
+      "intro": "Aplicamos medidas de seguridad estandar de la industria para proteger tu informacion:",
+      "items": [
+        "Toda transmision de datos se cifra con HTTPS/TLS",
+        "Las contrasenas se almacenan con bcrypt y sal fuerte",
+        "Nuestra infraestructura sigue buenas practicas de seguridad",
+        "Auditorias y actualizaciones de seguridad regulares",
+        "Controles de acceso y sistemas de monitoreo"
+      ]
+    },
+    "yourRights": {
+      "title": "Tus Derechos",
+      "intro": "Tienes control total sobre tu informacion personal:",
+      "items": [
+        {
+          "label": "Acceso",
+          "text": "Solicitar una copia de tus datos personales"
+        },
+        {
+          "label": "Rectificacion",
+          "text": "Corregir informacion inexacta"
+        },
+        {
+          "label": "Eliminacion",
+          "text": "Solicitar eliminacion de tu cuenta y datos"
+        },
+        {
+          "label": "Portabilidad",
+          "text": "Exportar tus datos en un formato estandar"
+        },
+        {
+          "label": "Objecion",
+          "text": "Oponerte a ciertas actividades de procesamiento"
+        }
+      ],
+      "outroPrefix": "Para ejercer cualquiera de estos derechos, contactanos en"
+    },
+    "thirdPartyServices": {
+      "title": "Servicios de Terceros",
+      "intro": "Usamos servicios de terceros minimos para operar la plataforma:",
+      "items": [
+        {
+          "label": "Hosting",
+          "text": "Nuestra infraestructura se aloja en proveedores cloud seguros"
+        },
+        {
+          "label": "Analitica",
+          "text": "Analitica enfocada en privacidad para entender uso (sin identificacion personal)"
+        },
+        {
+          "label": "Pagos",
+          "text": "Procesadores de pago seguros para funciones premium (cumplimiento PCI-DSS)"
+        }
+      ],
+      "outro": "Estos servicios son seleccionados por sus practicas de privacidad y solo reciben los datos minimos necesarios."
+    },
+    "childrenPrivacy": {
+      "title": "Privacidad de Menores",
+      "body": "Nuestro servicio no esta dirigido a menores de 13 anos. No recopilamos intencionalmente informacion personal de menores de 13 anos. Si eres padre, madre o tutor y crees que tu hijo nos proporciono informacion personal, contactanos de inmediato y la eliminaremos."
+    },
+    "changesToPolicy": {
+      "title": "Cambios en esta Politica",
+      "intro": "Podemos actualizar esta Politica de Privacidad para reflejar cambios en practicas o requisitos legales. Te notificaremos cambios importantes mediante:",
+      "items": [
+        "Publicar la politica actualizada en esta pagina",
+        "Actualizar la fecha de Ultima actualizacion",
+        "Enviar una notificacion por correo para cambios significativos"
+      ],
+      "outro": "Te recomendamos revisar esta Politica periodicamente para mantenerte informado sobre como protegemos tu informacion."
+    },
+    "contactUs": {
+      "title": "Contactanos",
+      "intro": "Si tienes preguntas, inquietudes o solicitudes sobre esta Politica de Privacidad o nuestras practicas de datos, contactanos:",
+      "emailLabel": "Correo",
+      "addressLabel": "Direccion",
+      "phoneLabel": "Telefono",
+      "email": "rohit@pixbatch.com",
+      "address": "Panchavti Road, Gorwa, Vadodara - 390016, Gujarat, India",
+      "phone": "+91 9104826422"
+    }
+  }
+}

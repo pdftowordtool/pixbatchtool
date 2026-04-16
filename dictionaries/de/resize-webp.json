@@ -1,0 +1,191 @@
+{
+  "breadcrumb": {
+    "home": "Startseite",
+    "imageResizer": "Bildgrößenänderung",
+    "resizeWebp": "WebP skalieren"
+  },
+  "hero": {
+    "title": "Kostenlos Online",
+    "titleHighlight": "WebP-Resizer",
+    "description": "WebP-Bilder mit Qualitätskontrolle skalieren. Ideal für moderne Webgrafiken mit Transparenz und kleineren Dateigrößen."
+  },
+  "dropzone": {
+    "addMore": "Weitere WebP-Bilder hinzufügen",
+    "orDrop": "oder WebP-Dateien hier ablegen",
+    "dropHere": "WEBP-BILDER HIER ABLEGEN",
+    "orClick": "oder klicken, um nur WebP-Dateien auszuwählen",
+    "browse": "WebP-Dateien auswählen",
+    "maxSize": "Max. 10MB pro Datei • Bis zu 20 Bilder pro Upload"
+  },
+  "tabs": {
+    "custom": {
+      "title": "Eigene Abmessungen",
+      "desc": "Exakte Breite & Höhe"
+    },
+    "percentage": {
+      "title": "Prozent-Skalierung",
+      "desc": "Nach Prozent skalieren"
+    },
+    "preset": {
+      "title": "Voreinstellungen",
+      "desc": "Beliebte Größen"
+    }
+  },
+  "custom": {
+    "maintainAspect": "Seitenverhältnis beibehalten (optional)",
+    "tipLabel": "Tipp:",
+    "tipText": "Seitenverhältnis aktivieren, um Verzerrungen zu vermeiden"
+  },
+  "percentage": {
+    "scale": "Skalierung"
+  },
+  "presets": {
+    "items": {
+      "instagramPostSquare": "Instagram-Post (Quadrat)",
+      "instagramStory": "Instagram-Story",
+      "facebookPost": "Facebook-Post",
+      "facebookCover": "Facebook-Titelbild",
+      "twitterPost": "X/Twitter-Post",
+      "twitterHeader": "X/Twitter-Header",
+      "youtubeThumbnail": "YouTube-Thumbnail",
+      "linkedinPost": "LinkedIn-Post",
+      "fullHD": "Full HD"
+    }
+  },
+  "geometry": {
+    "title": "Geometrie & Einschränkungen",
+    "contain": "Einpassen",
+    "cover": "Abdecken",
+    "fill": "Füllen",
+    "center": "Mitte",
+    "top": "Oben",
+    "bottom": "Unten",
+    "left": "Links",
+    "right": "Rechts",
+    "preventUpscaling": "Hochskalieren verhindern"
+  },
+  "output": {
+    "title": "Ausgabeformat",
+    "quality": "Qualität",
+    "lowerSize": "Kleiner",
+    "higherQuality": "Besser",
+    "same": "Gleich"
+  },
+  "advanced": {
+    "title": "Erweiterte Einstellungen",
+    "badge": "Optimiert",
+    "stripMetadata": "Metadaten (EXIF, ICC) entfernen für kleinere Dateien",
+    "background": "Hintergrund",
+    "backgroundPlaceholder": "#ffffff oder rgba(0,0,0,0)"
+  },
+  "resizeSummary": {
+    "title": "Zusammenfassung",
+    "targetSize": "Zielgröße",
+    "filesResized": "Skalierte Dateien",
+    "totalSize": "Gesamtgröße",
+    "format": "Format",
+    "quality": "Qualität",
+    "aspectRatio": "Seitenverhältnis",
+    "yes": "Ja",
+    "no": "Nein"
+  },
+  "notices": {
+    "startResizeHint": "Klicke auf \"Start\", um deine Bilder zu skalieren.",
+    "settingsChangedHint": "Einstellungen geändert. Klicke auf \"Start\", um sie anzuwenden."
+  },
+  "actions": {
+    "startResize": "Start",
+    "resetSettings": "Zurücksetzen",
+    "downloadZip": "ZIP herunterladen",
+    "clearAll": "Alles löschen",
+    "download": "Download"
+  },
+  "status": {
+    "resizing": "Skaliere...",
+    "errorResizing": "Fehler beim Skalieren",
+    "allDone": "Fertig!",
+    "imageResized": "Bild skaliert",
+    "imagesResized": "Bilder skaliert"
+  },
+  "privacy": {
+    "title": "Daten & Datenschutz",
+    "p1": "Die Bildskalierung passiert lokal in deinem Browser. Deine Bilder verlassen dein Gerät nicht.",
+    "p2": "Keine Uploads. Keine Speicherung. Kein Tracking deiner Bildinhalte.",
+    "p3": "100% privat: alles läuft clientseitig.",
+    "p4": "Tab jederzeit schließen. Originale bleiben unverändert.",
+    "notice": "Alles passiert im Browser, keine Uploads.",
+    "details": "Details"
+  },
+  "errors": {
+    "webpOnly": "Bitte nur WebP-Dateien auswählen",
+    "dropWebpOnly": "Bitte nur WebP-Dateien ablegen"
+  },
+  "sections": {
+    "howTo": {
+      "title": "WebP online skalieren",
+      "step1Title": "WebP-Bilder auswählen",
+      "step1Desc": "Lege deine WebP-Dateien in den Upload-Bereich. Alles wird lokal verarbeitet.",
+      "step2Title": "Abmessungen wählen",
+      "step2Desc": "Pixel exakt setzen, prozentual skalieren oder Preset wählen.",
+      "step3Title": "Export & Download",
+      "step3Desc": "Skalierte WebP-Dateien einzeln oder als ZIP herunterladen. Qualität nach Bedarf anpassen.",
+      "tipLabel": "TIPP:",
+      "tipText": "WebP bietet starke Kompression und Transparenz. Nutze den Qualitätsregler für die beste Balance."
+    },
+    "why": {
+      "title": "Warum WebP skalieren?",
+      "p1": "WebP in der richtigen Größe zu liefern spart Bandbreite und verbessert Ladezeit sowie Core Web Vitals bei guter Qualität.",
+      "tipLabel": "Tipp:",
+      "tipText": "WebP eignet sich ideal für Web-Auslieferung mit weniger Datenvolumen."
+    },
+    "platform": {
+      "title": "Perfekte Größe für jede Plattform",
+      "card1Title": "Transparenz",
+      "card1Desc": "WebP skalieren und Alpha-Transparenz mit sauberen Kanten beibehalten.",
+      "card2Title": "Schnellere Seiten",
+      "card2Desc": "Richtig dimensionierte Bilder verbessern Performance und SEO.",
+      "card3Title": "Stapelverarbeitung",
+      "card3Desc": "Viele WebPs im Browser skalieren – ohne Uploads."
+    },
+    "qualityGuide": {
+      "title": "Qualität vs. Dateigröße",
+      "introPrefix": "Verschiedene Formate erzeugen unterschiedliche Dateigrößen.",
+      "introMiddle1": "liefert die kleinsten Dateien, gefolgt von",
+      "introMiddle2": "und",
+      "introSuffix": "Passe die Qualität an, um den Effekt zu sehen.",
+      "demoQuality": "Demo-Qualität",
+      "sample": "Beispiel: Full-HD-Bild (1920x1080)",
+      "noSavings": "Keine Ersparnis",
+      "qualityRecommendations": "Qualitätsempfehlungen",
+      "maximumQuality": "Maximale Qualität",
+      "maximumQualityDesc": "Profi-Druck • Portfolio • Minimale Kompression",
+      "recommended": "Empfohlen",
+      "recommendedDesc": "Web • Social • Beste Balance",
+      "moderate": "Mittel",
+      "moderateDesc": "Thumbnails • Vorschau • Kleinere Dateien",
+      "lowQuality": "Niedrig",
+      "lowQualityDesc": "Mini-Vorschau • Platzhalter • Nicht empfohlen"
+    },
+    "faqTitle": "Häufige Fragen"
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Bleibt Transparenz beim Skalieren erhalten?",
+        "answer": "Ja. WebP unterstützt Transparenz, und beim Skalieren im Browser bleibt sie erhalten, solange du als WebP oder PNG exportierst."
+      },
+      {
+        "question": "Warum skalieren, wenn WebP schon klein ist?",
+        "answer": "Zu große Abmessungen verschwenden trotzdem Bandbreite und Rechenzeit. Richtig skalieren verbessert Ladezeit und Decoding."
+      },
+      {
+        "question": "Welche WebP-Qualität ist sinnvoll?",
+        "answer": "Für die meisten Web-Anwendungen sind 80–95% ein guter Kompromiss aus Größe und Qualität."
+      },
+      {
+        "question": "Ist das privat?",
+        "answer": "Ja. Alles läuft lokal im Browser, und deine Bilder werden nie hochgeladen."
+      }
+    ]
+  }
+}

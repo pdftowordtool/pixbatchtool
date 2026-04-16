@@ -1,0 +1,210 @@
+{
+  "optimizeImage": {
+    "title": "Bilder Online Kostenlos Optimieren - Komprimieren & Verkleinern",
+    "description": "Kostenloser Online-Bildoptimierer. Komprimieren Sie JPG, PNG, WebP und AVIF Bilder ohne Qualitätsverlust. Reduzieren Sie die Dateigröße um bis zu 80% für schnellere Website-Ladezeiten.",
+    "ogTitle": "Bilder Online Kostenlos Optimieren - Komprimieren & Verkleinern",
+    "ogDescription": "Kostenloser Online-Bildoptimierer. Komprimieren Sie JPG, PNG, WebP und AVIF Bilder ohne Qualitätsverlust. Reduzieren Sie die Dateigröße um bis zu 80%.",
+    "twitterTitle": "Bilder Online Kostenlos Optimieren",
+    "twitterDescription": "Kostenloser Online-Bildoptimierer. Bilder ohne Qualitätsverlust komprimieren."
+  },
+  "compressImage": {
+    "title": "Bilder Online Kostenlos Komprimieren - JPG, PNG, WebP Verkleinern",
+    "description": "Kostenloser Online-Bildkomprimierer. Reduzieren Sie die Dateigröße von JPG, PNG, WebP, GIF Bildern um bis zu 80% ohne Qualitätsverlust. Mehrere Bilder gleichzeitig komprimieren.",
+    "ogTitle": "Bilder Online Kostenlos Komprimieren - Dateigröße Reduzieren",
+    "ogDescription": "Kostenloser Online-Bildkomprimierer. Dateigröße um bis zu 80% reduzieren ohne Qualitätsverlust.",
+    "twitterTitle": "Bilder Online Kostenlos Komprimieren",
+    "twitterDescription": "Bildgröße um bis zu 80% reduzieren ohne Qualitätsverlust."
+  },
+  "imageResizer": {
+    "title": "Bilder Online Kostenlos Skalieren - Bildgrößenänderungs-Tool",
+    "description": "Kostenloser Online-Bildgrößenänderer. Ändern Sie die Größe mehrerer Bilder nach Pixeln, Prozent oder benutzerdefinierten Abmessungen. Seitenverhältnis und Qualität beibehalten.",
+    "ogTitle": "Bilder Online Kostenlos Skalieren",
+    "ogDescription": "Ändern Sie die Größe mehrerer Bilder nach Pixeln oder Prozent. Seitenverhältnis und Qualität beibehalten.",
+    "twitterTitle": "Bilder Online Kostenlos Skalieren",
+    "twitterDescription": "Bilder stapelweise skalieren und dabei die Qualität beibehalten."
+  },
+  "imageConverter": {
+    "title": "Bilder Online Kostenlos Konvertieren - JPG PNG WebP AVIF Konverter",
+    "description": "Kostenloser Online-Bildkonverter. Konvertieren Sie zwischen JPG, PNG, WebP und AVIF. Mehrere Bilder sofort und privat konvertieren.",
+    "ogTitle": "Bilder Online Kostenlos Konvertieren - Format Konverter",
+    "ogDescription": "Konvertieren Sie Bilder zwischen JPG, PNG, WebP und AVIF in Stapeln.",
+    "twitterTitle": "Bilder Online Kostenlos Konvertieren",
+    "twitterDescription": "Bilder zwischen JPG, PNG, WebP und AVIF im Stapel konvertieren."
+  },
+  "cropImage": {
+    "title": "Bilder Online Kostenlos Zuschneiden - Bild Cropper Tool",
+    "description": "Kostenloser Online-Bildzuschnitt. Schneiden Sie Bilder mit benutzerdefinierten Seitenverhaeltnissen zu und exportieren Sie als JPG, PNG, WebP oder AVIF.",
+    "ogTitle": "Bilder Online Kostenlos Zuschneiden - Bild Cropper",
+    "ogDescription": "Bilder mit benutzerdefinierten Seitenverhaeltnissen zuschneiden und in modernen Formaten exportieren.",
+    "twitterTitle": "Bilder Online Kostenlos Zuschneiden",
+    "twitterDescription": "Bilder mit benutzerdefinierten Seitenverhaeltnissen direkt im Browser zuschneiden."
+  },
+  "cropPng": {
+    "title": "PNG online zuschneiden kostenlos - PNG Cropper Tool",
+    "description": "Kostenloser PNG-Zuschneider online. PNG-Bilder zuschneiden und Transparenz behalten. Schnell, privat und im Browser.",
+    "ogTitle": "PNG online zuschneiden kostenlos",
+    "ogDescription": "PNG-Bilder prazise zuschneiden und Transparenz behalten.",
+    "twitterTitle": "PNG online zuschneiden kostenlos",
+    "twitterDescription": "PNG-Bilder zuschneiden und Transparenz im Browser behalten."
+  },
+  "cropWebp": {
+    "title": "WebP online zuschneiden kostenlos - WebP Cropper Tool",
+    "description": "Kostenloser WebP-Zuschneider online. Bilder zuschneiden und als WebP exportieren fur kleinere Dateien und schnellere Ladezeiten. Privat und im Browser.",
+    "ogTitle": "WebP online zuschneiden kostenlos",
+    "ogDescription": "Bilder zuschneiden und als WebP herunterladen fur kleinere Dateigroessen und bessere Web-Performance.",
+    "twitterTitle": "WebP online zuschneiden kostenlos",
+    "twitterDescription": "Bilder zuschneiden und als WebP direkt im Browser exportieren."
+  },
+  "exifViewer": {
+    "title": "EXIF Viewer Online Kostenlos - Bildmetadaten ansehen",
+    "description": "Kostenloser EXIF-Viewer online. Sieh Bildmetadaten wie Kameraeinstellungen, GPS-Position, Aufnahmedatum und mehr. Unterstutzt JPG, PNG, WebP und TIFF.",
+    "ogTitle": "EXIF Viewer Online Kostenlos",
+    "ogDescription": "Bildmetadaten ansehen: Kameraeinstellungen, GPS, Aufnahmedatum und mehr.",
+    "twitterTitle": "EXIF Viewer Online Kostenlos",
+    "twitterDescription": "Foto-Metadaten ansehen: Kamera, GPS, Datum und mehr."
+  },
+  "removeExif": {
+    "title": "EXIF-Daten online kostenlos entfernen - Bildmetadaten löschen",
+    "description": "Kostenloser EXIF-Entferner online. Entferne Metadaten aus Bildern inkl. GPS-Standort, Kamerainfos und persönliche Daten. Schütze deine Privatsphäre vor dem Teilen.",
+    "ogTitle": "EXIF online kostenlos entfernen",
+    "ogDescription": "Metadaten aus Bildern inkl. GPS und persönlichen Daten entfernen. Privatsphäre schützen.",
+    "twitterTitle": "EXIF online kostenlos entfernen",
+    "twitterDescription": "Bildmetadaten entfernen, um deine Privatsphäre zu schützen."
+  },
+  "compressPng": {
+    "title": "PNG Online Kostenlos Komprimieren - PNG Dateigroesse Reduzieren",
+    "description": "Kostenloser Online-PNG-Komprimierer. Reduzieren Sie PNG-Dateigroessen bei erhaltener Transparenz.",
+    "ogTitle": "PNG Online Kostenlos Komprimieren",
+    "ogDescription": "PNG-Dateigroesse mit erhaltener Transparenz und Stapelkomprimierung reduzieren.",
+    "twitterTitle": "PNG Online Kostenlos Komprimieren",
+    "twitterDescription": "PNG-Dateigroesse reduzieren und Transparenz beibehalten."
+  },
+  "compressJpg": {
+    "title": "JPG Online Kostenlos Komprimieren - JPEG Dateigroesse Reduzieren",
+    "description": "Kostenloser Online-JPG-Komprimierer. Reduzieren Sie JPEG-Dateigroessen bei guter Bildqualitaet.",
+    "ogTitle": "JPG Online Kostenlos Komprimieren",
+    "ogDescription": "JPEG-Dateigroesse mit schneller Stapelkomprimierung reduzieren.",
+    "twitterTitle": "JPG Online Kostenlos Komprimieren",
+    "twitterDescription": "JPEG-Dateigroesse reduzieren bei guter Qualitaet."
+  },
+  "resizePng": {
+    "title": "PNG online skalieren kostenlos - PNG-Resizer",
+    "description": "Kostenloser PNG-Resizer online. PNG-Bilder skalieren und Transparenz beibehalten. Mehrere PNGs per Pixel oder Prozent stapelweise ändern.",
+    "ogTitle": "PNG online skalieren kostenlos",
+    "ogDescription": "PNG-Bilder skalieren und Transparenz beibehalten. Mehrere PNGs gleichzeitig verarbeiten.",
+    "twitterTitle": "PNG online skalieren kostenlos",
+    "twitterDescription": "Mehrere PNGs skalieren und Transparenz beibehalten."
+  },
+  "resizeJpg": {
+    "title": "JPG online skalieren kostenlos - JPEG-Resizer",
+    "description": "Kostenloser JPG-Resizer online. JPEG-Bilder per Pixel, Prozent oder benutzerdefinierten Maßen skalieren. Mehrere JPGs im Stapel ändern und Qualität beibehalten.",
+    "ogTitle": "JPG online skalieren kostenlos",
+    "ogDescription": "JPEG-Bilder per Pixel oder Prozent skalieren. Mehrere JPGs gleichzeitig verarbeiten.",
+    "twitterTitle": "JPG online skalieren kostenlos",
+    "twitterDescription": "Mehrere JPGs skalieren und Qualität beibehalten."
+  },
+  "resizeWebp": {
+    "title": "WebP online skalieren kostenlos - WebP-Resizer",
+    "description": "Kostenloser WebP-Resizer online. WebP-Bilder per Pixel, Prozent oder benutzerdefinierten Maßen skalieren. Mehrere WebP-Dateien im Stapel ändern und Qualität beibehalten.",
+    "ogTitle": "WebP online skalieren kostenlos",
+    "ogDescription": "WebP-Bilder per Pixel oder Prozent skalieren. Mehrere WebP-Dateien gleichzeitig verarbeiten.",
+    "twitterTitle": "WebP online skalieren kostenlos",
+    "twitterDescription": "Mehrere WebP-Bilder skalieren und Qualität beibehalten."
+  },
+  "pngConverter": {
+    "title": "In PNG umwandeln kostenlos online - Bild-zu-PNG Konverter",
+    "description": "Kostenloser PNG-Konverter online. Konvertiere JPG, WebP, AVIF, GIF und BMP ins PNG-Format mit Transparenz-Unterstützung. Mehrere Bilder sofort im Batch konvertieren.",
+    "ogTitle": "In PNG umwandeln kostenlos online",
+    "ogDescription": "Konvertiere JPG, WebP, AVIF, GIF und BMP ins PNG-Format mit Transparenz-Unterstützung. Batch-Konvertierung im Browser.",
+    "twitterTitle": "In PNG umwandeln kostenlos online",
+    "twitterDescription": "Bilder stapelweise in PNG konvertieren – mit Transparenz-Unterstützung."
+  },
+  "jpgConverter": {
+    "title": "In JPG umwandeln kostenlos online - Bild-zu-JPEG Konverter",
+    "description": "Kostenloser JPG-Konverter online. Konvertiere PNG, WebP, AVIF und GIF ins JPG-Format. Mehrere Bilder sofort zu JPEG konvertieren – mit Qualitätskontrolle.",
+    "ogTitle": "In JPG umwandeln kostenlos online",
+    "ogDescription": "Konvertiere PNG, WebP und AVIF ins JPG-Format. Batch-Konvertierung zu JPEG im Browser.",
+    "twitterTitle": "In JPG umwandeln kostenlos online",
+    "twitterDescription": "Bilder stapelweise zu JPEG konvertieren – mit Qualitätskontrolle."
+  },
+  "webpConverter": {
+    "title": "In WebP umwandeln kostenlos online - Bild-zu-WebP Konverter",
+    "description": "Kostenloser WebP-Konverter online. Konvertiere JPG, PNG und AVIF zu WebP für kleinere Dateigrößen. Batch-Konvertierung im Browser für schnellere Webseiten.",
+    "ogTitle": "In WebP umwandeln kostenlos online",
+    "ogDescription": "Konvertiere JPG und PNG zu WebP für kleinere Dateigrößen. Mehrere Bilder im Browser konvertieren.",
+    "twitterTitle": "In WebP umwandeln kostenlos online",
+    "twitterDescription": "Bilder stapelweise zu WebP konvertieren – für schnellere Ladezeiten."
+  },
+  "rotateFlipImage": {
+    "title": "Bilder Online Kostenlos Drehen & Spiegeln - Bild Rotator",
+    "description": "Kostenloser Bild-Rotator online. Drehe Bilder um 90°, 180°, 270° und spiegele horizontal oder vertikal. Schnell, privat, im Browser.",
+    "ogTitle": "Bilder Online Kostenlos Drehen & Spiegeln",
+    "ogDescription": "Drehe Bilder um 90°, 180°, 270° und spiegele horizontal oder vertikal. Schnell, privat, im Browser.",
+    "twitterTitle": "Bilder Online Kostenlos Drehen & Spiegeln",
+    "twitterDescription": "Bilder sofort im Browser drehen und spiegeln."
+  },
+  "about": {
+    "title": "Uber PixBatch - Kostenloser Online Bildeditor fur Stapel",
+    "description": "Erfahre mehr uber PixBatch, einen kostenlosen Online Bildeditor mit Fokus auf Geschwindigkeit, Privatsphaere und starke Browser-Tools.",
+    "ogTitle": "Uber PixBatch",
+    "ogDescription": "Lerne die Geschichte und Mission von PixBatch kennen und warum viele Creator unseren privaten Bildworkflow nutzen.",
+    "twitterTitle": "Uber PixBatch",
+    "twitterDescription": "Entdecke PixBatch und unseren Privacy-First Ansatz fur Bildverarbeitung."
+  },
+  "contact": {
+    "title": "Kontakt - PixBatch Support",
+    "description": "Kontaktiere PixBatch fur Support, Feedback und Fragen zu unseren privaten browserbasierten Bildtools.",
+    "ogTitle": "PixBatch kontaktieren",
+    "ogDescription": "Erreiche das PixBatch-Team fur Support und Feedback.",
+    "twitterTitle": "PixBatch kontaktieren",
+    "twitterDescription": "Brauchst du Hilfe mit PixBatch? Kontaktiere unser Team."
+  },
+  "privacyPolicy": {
+    "title": "Datenschutzrichtlinie - PixBatch",
+    "description": "Datenschutzrichtlinie von PixBatch. Erfahre, wie wir deine Daten schutzen, wahrend Bilder im Browser verarbeitet werden.",
+    "ogTitle": "Datenschutzrichtlinie - PixBatch",
+    "ogDescription": "Erfahre, wie PixBatch Privatsphare mit browserbasierter Verarbeitung schutzt.",
+    "twitterTitle": "Datenschutzrichtlinie - PixBatch",
+    "twitterDescription": "Lies, wie PixBatch mit Datenschutz und Datensicherheit umgeht."
+  },
+  "terms": {
+    "title": "Nutzungsbedingungen - PixBatch",
+    "description": "Lies die Nutzungsbedingungen von PixBatch fur unsere Online-Bildtools.",
+    "ogTitle": "Nutzungsbedingungen - PixBatch",
+    "ogDescription": "Lies die Bedingungen fur die Nutzung von PixBatch.",
+    "twitterTitle": "Nutzungsbedingungen - PixBatch",
+    "twitterDescription": "Erfahre die Bedingungen fur die Nutzung von PixBatch-Tools."
+  },
+  "disclaimer": {
+    "title": "Haftungsausschluss - PixBatch",
+    "description": "Wichtige rechtliche Hinweise zur Nutzung der PixBatch-Bildtools.",
+    "ogTitle": "Haftungsausschluss - PixBatch",
+    "ogDescription": "Lies rechtliche Hinweise und Haftungsgrenzen fur PixBatch.",
+    "twitterTitle": "Haftungsausschluss - PixBatch",
+    "twitterDescription": "Wichtige rechtliche Hinweise fur PixBatch-Nutzer."
+  },
+  "home": {
+    "title": "PixBatch - Kostenloser Online-Bildeditor fur Stapelverarbeitung",
+    "description": "Kostenloser Bildeditor fur Stapelverarbeitung. Bilder im Browser komprimieren, skalieren, zuschneiden, konvertieren und optimieren.",
+    "ogTitle": "PixBatch - Kostenloser Online-Bildeditor",
+    "ogDescription": "Bilder im Stapel komprimieren, skalieren, zuschneiden und konvertieren. Kostenlos und privat.",
+    "twitterTitle": "PixBatch - Kostenloser Bildeditor",
+    "twitterDescription": "Kostenlose Tools zum Komprimieren, Skalieren und Konvertieren von Bildern im Stapel."
+  },
+  "compressWebp": {
+    "title": "WebP online kostenlos komprimieren - WebP Dateigrosse reduzieren",
+    "description": "Kostenloser WebP-Komprimierer online. WebP-Dateigroesse reduzieren bei guter Qualitat. Stapelverarbeitung unterstutzt.",
+    "ogTitle": "WebP online kostenlos komprimieren",
+    "ogDescription": "WebP-Dateigrosse deutlich reduzieren und Qualitat erhalten.",
+    "twitterTitle": "WebP online kostenlos komprimieren",
+    "twitterDescription": "WebP-Dateien verkleinern mit schneller Stapelkomprimierung."
+  },
+  "cropJpg": {
+    "title": "JPG online kostenlos zuschneiden - JPEG Cropper Tool",
+    "description": "Kostenloser JPG-Cropper online. JPEG-Bilder mit benutzerdefinierten Seitenverhaltnissen im Browser zuschneiden.",
+    "ogTitle": "JPG online kostenlos zuschneiden",
+    "ogDescription": "JPEG-Bilder prazise und privat mit individuellen Seitenverhaltnissen zuschneiden.",
+    "twitterTitle": "JPG online kostenlos zuschneiden",
+    "twitterDescription": "JPG-Bilder direkt im Browser mit benutzerdefinierten Seitenverhaltnissen zuschneiden."
+  }
+}

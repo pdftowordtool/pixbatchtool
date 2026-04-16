@@ -1,0 +1,190 @@
+{
+  "breadcrumb": {
+    "home": "Home",
+    "imageResizer": "Image Resizer",
+    "resizePng": "Resize PNG"
+  },
+  "hero": {
+    "title": "Free Online",
+    "titleHighlight": "PNG Resizer",
+    "description": "Resize PNG images while preserving transparency and lossless quality. Perfect for logos, graphics, and images requiring transparency."
+  },
+  "dropzone": {
+    "addMore": "Add more PNG images",
+    "orDrop": "or drop PNG files",
+    "dropHere": "DROP YOUR PNG IMAGES HERE",
+    "orClick": "or click to browse PNG files only",
+    "browse": "Browse PNG Files",
+    "maxSize": "Max 10MB per file • Up to 20 images per upload"
+  },
+  "tabs": {
+    "custom": {
+      "title": "Custom Dimensions",
+      "desc": "Set exact width & height"
+    },
+    "percentage": {
+      "title": "Percentage Scale",
+      "desc": "Scale by percentage"
+    },
+    "preset": {
+      "title": "Preset Sizes",
+      "desc": "Popular dimensions"
+    }
+  },
+  "custom": {
+    "maintainAspect": "Maintain aspect ratio (optional for exact sizing)",
+    "tipLabel": "Tip:",
+    "tipText": "Enable aspect ratio to prevent image distortion"
+  },
+  "percentage": {
+    "scale": "Scale"
+  },
+  "presets": {
+    "items": {
+      "instagramPostSquare": "Instagram Post (Square)",
+      "instagramStory": "Instagram Story",
+      "facebookPost": "Facebook Post",
+      "facebookCover": "Facebook Cover",
+      "twitterPost": "Twitter Post",
+      "twitterHeader": "Twitter Header",
+      "youtubeThumbnail": "YouTube Thumbnail",
+      "linkedinPost": "LinkedIn Post",
+      "fullHD": "Full HD"
+    }
+  },
+  "geometry": {
+    "title": "Geometry & Constraints",
+    "contain": "Contain",
+    "cover": "Cover",
+    "fill": "Fill",
+    "center": "Center",
+    "top": "Top",
+    "bottom": "Bottom",
+    "left": "Left",
+    "right": "Right",
+    "preventUpscaling": "Prevent upscaling"
+  },
+  "output": {
+    "title": "Output format",
+    "quality": "Quality",
+    "lowerSize": "Lower size",
+    "higherQuality": "Higher quality",
+    "same": "Same"
+  },
+  "advanced": {
+    "title": "Advanced Settings",
+    "badge": "Optimized",
+    "stripMetadata": "Strip metadata (EXIF, ICC) for smaller files",
+    "background": "Background",
+    "backgroundPlaceholder": "#ffffff or rgba(0,0,0,0)"
+  },
+  "resizeSummary": {
+    "title": "Resize Summary",
+    "targetSize": "Target size",
+    "filesResized": "Files resized",
+    "totalSize": "Total size",
+    "format": "Format",
+    "quality": "Quality",
+    "aspectRatio": "Aspect ratio",
+    "yes": "Yes",
+    "no": "No"
+  },
+  "notices": {
+    "startResizeHint": "Click \"Start Resize\" to resize your images.",
+    "settingsChangedHint": "Settings have changed. Click \"Start Resize\" to apply new settings to your images."
+  },
+  "actions": {
+    "startResize": "Start Resize",
+    "resetSettings": "Reset Settings",
+    "downloadZip": "Download ZIP",
+    "clearAll": "Clear All",
+    "download": "Download"
+  },
+  "status": {
+    "resizing": "Resizing...",
+    "errorResizing": "Error resizing image",
+    "allDone": "All done!",
+    "imageResized": "image resized",
+    "imagesResized": "images resized"
+  },
+  "privacy": {
+    "title": "Data & Privacy",
+    "p1": "All image resizing happens locally in your browser using HTML5 Canvas. Your images never leave your device.",
+    "p2": "No uploads to any server. No storage. No tracking of your image content.",
+    "p3": "Your privacy is 100% protected - everything runs client-side on your machine.",
+    "p4": "Close the tab anytime. Your original images remain untouched.",
+    "notice": "All processing happens in your browser, no uploads.",
+    "details": "Details"
+  },
+  "errors": {
+    "pngOnly": "Please select PNG files only"
+  },
+  "sections": {
+    "howTo": {
+      "title": "How To Resize PNG Image Online",
+      "step1Title": "Select PNG Graphics",
+      "step1Desc": "Drop high-definition transparent PNGs or logos onto the target block. We process these safely via local memory.",
+      "step2Title": "Define Constraints",
+      "step2Desc": "Input target pixel heights or switch to percentage scales. Alpha channel masks will shrink beautifully.",
+      "step3Title": "Export Transparent Assets",
+      "step3Desc": "Retrieve fully scaled visuals. If needed, toggle background layers directly into your outputs before downloading.",
+      "tipLabel": "TIP:",
+      "tipText": "PNG format is perfect for logos and graphics with transparency. Use fill mode for exact dimensions, or enable aspect ratio to maintain proportions. Export to PNG keeps transparency, or convert to JPEG/WebP for smaller file sizes."
+    },
+    "why": {
+      "title": "Why Resize PNG?",
+      "p1": "Resizing PNGs helps deliver crisp UI graphics and logos at the right dimensions without bloating pages. Smaller, exact-size assets improve Core Web Vitals and SEO while preserving transparency.",
+      "tipLabel": "Tip:",
+      "tipText": "Publish responsive images with exact sizes to reduce CLS and improve perceived performance."
+    },
+    "platform": {
+      "title": "Perfect Size for Every Platform",
+      "card1Title": "Alpha Channel Support",
+      "card1Desc": "Whether replacing the background with custom RGB injections or retaining your masking, the alpha gradient never distorts.",
+      "card2Title": "Perfect Borders",
+      "card2Desc": "Hard icons and CSS web graphics scale beautifully without smudging your exact dimensional outlines.",
+      "card3Title": "Memory Efficient",
+      "card3Desc": "PNGs frequently swell. Lock the image down to exact layout bounds to massively trim Web-Vitals loading speeds."
+    },
+    "qualityGuide": {
+      "title": "Quality vs Size Guide",
+      "introPrefix": "Different output formats produce different file sizes.",
+      "introMiddle1": "offers the smallest files, followed by",
+      "introMiddle2": "and",
+      "introSuffix": "Adjust the quality slider to see how it affects file size.",
+      "demoQuality": "Demo Quality",
+      "sample": "Sample: Full HD Image (1920x1080)",
+      "noSavings": "No savings",
+      "qualityRecommendations": "Quality Recommendations",
+      "maximumQuality": "Maximum Quality",
+      "maximumQualityDesc": "Professional prints • Portfolio • Minimal compression",
+      "recommended": "Recommended",
+      "recommendedDesc": "Web images • Social media • Best balance",
+      "moderate": "Moderate",
+      "moderateDesc": "Thumbnails • Previews • Smaller file size",
+      "lowQuality": "Low Quality",
+      "lowQualityDesc": "Tiny previews • Placeholders • Not recommended"
+    },
+    "faqTitle": "Frequently Asked Questions"
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Do I lose PNG transparency when resizing?",
+        "answer": "No. If you keep the output format as PNG, transparent backgrounds remain transparent."
+      },
+      {
+        "question": "What happens if I change the output format to JPEG?",
+        "answer": "JPEG does not support transparency, so transparent areas will be replaced with a background color (default #ffffff)."
+      },
+      {
+        "question": "Can I upscale a small PNG to a larger size?",
+        "answer": "Yes, but upscaling may reduce sharpness. You can disable the Prevent upscaling option if needed."
+      },
+      {
+        "question": "Is this PNG resizer fully private?",
+        "answer": "Yes. Resizing runs in your browser and your images are not uploaded to a server."
+      }
+    ]
+  }
+}

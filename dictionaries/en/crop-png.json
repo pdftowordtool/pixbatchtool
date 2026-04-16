@@ -1,0 +1,111 @@
+{
+  "breadcrumb": {
+    "home": "Home",
+    "imageCropper": "Image Cropper",
+    "cropPng": "Crop PNG"
+  },
+  "hero": {
+    "title": "Free Online",
+    "titleHighlight": "PNG Cropper",
+    "description": "Crop PNG images with precision while preserving transparency. Fast, free, and privacy-focused—everything happens in your browser."
+  },
+  "ui": {
+    "alerts": {
+      "selectImageFile": "Please select an image file",
+      "fileSizeLimit": "File size must be less than 10MB",
+      "selectLargerArea": "Please select a larger area to crop",
+      "cropFailed": "Failed to crop image. Please try again."
+    },
+    "dropzone": {
+      "dropYourPngHere": "Drop Your PNG Here",
+      "orClickBrowse": "or click to browse a file",
+      "maxSizeHint": "Max 10MB per file • PNG output with transparency"
+    },
+    "replace": {
+      "title": "Replace image",
+      "orDropNew": "or drop a new file"
+    },
+    "settings": {
+      "aspectRatio": "Aspect ratio",
+      "lockAspect": "Lock aspect when selecting",
+      "outputFormat": "Output format",
+      "pngLosslessTitle": "PNG (Lossless)",
+      "pngLosslessDesc": "Preserves transparency & quality"
+    },
+    "actions": {
+      "delete": "Delete",
+      "cropping": "Cropping...",
+      "startCrop": "Start Crop",
+      "downloadPng": "Download PNG",
+      "resetSelection": "Reset Selection",
+      "croppedResult": "Cropped Result",
+      "size": "Size"
+    },
+    "images": {
+      "uploadAlt": "Upload",
+      "croppedAlt": "Cropped"
+    },
+    "howTo": {
+      "title": "How To Crop PNG Images Online",
+      "step1Title": "Upload Your PNG",
+      "step1Desc": "Drag your PNG file into the editor or click to browse. The image loads instantly in your browser.",
+      "step2Title": "Draw Your Crop Frame",
+      "step2Desc": "Pick a preset ratio or go freeform. Drag the selection handles until the frame covers exactly what you want to keep.",
+      "step3Title": "Save Your Cropped PNG",
+      "step3Desc": "Hit crop, check the preview, and download. Transparency stays intact, zero quality loss.",
+      "tip": "TIP:",
+      "tipText": "PNG format preserves transparency—perfect for logos, icons, and graphics with transparent backgrounds."
+    },
+    "why": {
+      "title": "Why Crop PNG Images?",
+      "p1": "PNG is the only widely supported format that keeps transparent backgrounds intact. When you crop a logo, icon, or UI element as PNG, the see-through areas survive the trim. That means you can drop the cropped file straight into a design comp or web page without worrying about white boxes showing up behind it.",
+      "p2": "Cropping also trims wasted canvas pixels that inflate file weight for no visual payoff. A tighter frame on a PNG icon can cut its file size noticeably, which adds up fast when you are serving dozens of assets on a single page.",
+      "b1": "Keep the alpha channel alive so logos and icons look clean on any background colour.",
+      "b2": "Trim dead canvas space from Figma or Photoshop exports to tighten up your asset library.",
+      "b3": "Deliver pixel-perfect icons and UI elements at exactly the dimensions your layout expects."
+    },
+    "features": {
+      "title": "Key Features",
+      "presetRatiosTitle": "Preset Ratios",
+      "presetRatiosDesc": "9 preset aspect ratios • Free crop • Lock option",
+      "transparencyTitle": "Transparency",
+      "transparencyDesc": "Full alpha channel support preserved",
+      "privateTitle": "100% Private",
+      "privateDesc": "All processing happens in your browser",
+      "losslessTitle": "Lossless Output",
+      "losslessDesc": "No quality loss—PNG is lossless"
+    },
+    "proTips": {
+      "title": "Pro Tips for PNG Cropping",
+      "t1": "Use 1:1 for app icons and favicons. Most app stores and browsers expect a perfect square, so locking the ratio saves you a trip back to the editor later.",
+      "t2": "Trim your logo as tightly as possible. Extra padding around a PNG logo wastes space and makes alignment harder when you paste it into a layout.",
+      "t3": "If file size matters more than transparency, crop here and then run the result through the WebP converter. You will get the same transparency at a much smaller weight.",
+      "t4": "For photographs that have no transparency, switch to the JPG cropper instead. JPEG files are dramatically smaller than PNG for full-colour photos."
+    },
+    "faqTitle": "Frequently Asked Questions"
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Does cropping a PNG keep the transparent background?",
+        "answer": "Yes, fully. The cropper reads every pixel including the alpha channel, so transparent regions stay transparent in the output. You can drop the cropped file straight into a design tool or web page and the background will remain see-through."
+      },
+      {
+        "question": "Will cropping reduce the quality of my PNG?",
+        "answer": "Not at all. PNG is a lossless format, which means no pixel data gets thrown away during encoding. The cropped image is an exact copy of the selected region, down to the last colour value."
+      },
+      {
+        "question": "Can I crop a JPEG here and get a PNG out?",
+        "answer": "Yes. Upload any common image format and the tool will crop the area you select, then encode the result as a lossless PNG. Keep in mind that converting a JPEG to PNG will not recover quality that was already lost during JPEG compression."
+      },
+      {
+        "question": "Why are my cropped PNG files so large?",
+        "answer": "PNG uses lossless compression, so it keeps every pixel intact. Photographs with millions of unique colours produce big PNGs. If you need a smaller file and can accept lossy compression, run the output through a WebP or JPEG converter afterward."
+      },
+      {
+        "question": "Is anything uploaded to a server during cropping?",
+        "answer": "Nothing at all. The entire crop and encode pipeline runs locally inside your browser using a canvas element and a WebAssembly PNG encoder. Your image never leaves your machine."
+      }
+    ]
+  }
+}

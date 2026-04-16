@@ -1,0 +1,202 @@
+{
+  "breadcrumb": {
+    "home": "Startseite",
+    "exifViewer": "EXIF Viewer"
+  },
+  "hero": {
+    "title": "Kostenlos Online",
+    "titleHighlight": "EXIF Viewer",
+    "description": "Lies detaillierte Metadaten aus deinen Fotos aus. Sieh Kameraeinstellungen, GPS-Position, Aufnahmedatum und mehr – alles lokal im Browser."
+  },
+  "ui": {
+    "alerts": {
+      "selectImageFile": "Bitte eine Bilddatei auswahlen",
+      "fileSizeLimit": "Dateigrosse muss unter 50MB liegen"
+    },
+    "dropzone": {
+      "dropYourImageHere": "Bild hier ablegen",
+      "orClickBrowse": "oder klicken, um eine Datei auszuwahlen",
+      "maxSizeHint": "Max 50MB • Unterstutzt JPEG, PNG, TIFF, HEIC"
+    },
+    "loading": {
+      "extracting": "EXIF-Daten werden ausgelesen..."
+    },
+    "replace": {
+      "title": "Bild ersetzen",
+      "orDropNew": "oder neue Datei ablegen"
+    },
+    "actions": {
+      "delete": "Loschen",
+      "exportJson": "JSON exportieren",
+      "newImage": "Neues Bild",
+      "openInGoogleMaps": "In Google Maps offnen"
+    },
+    "fileInfo": {
+      "title": "Dateiinformationen",
+      "name": "Name",
+      "size": "Grosse",
+      "type": "Typ",
+      "dimensions": "Abmessungen"
+    },
+    "emptyExif": {
+      "title": "Keine EXIF-Daten gefunden",
+      "description": "Dieses Bild enthalt keine EXIF-Metadaten. Das passiert oft bei Screenshots, bearbeiteten Bildern oder Bildern aus sozialen Netzwerken."
+    },
+    "tabs": {
+      "camera": "Kamera",
+      "image": "Bild",
+      "gps": "GPS",
+      "all": "Alle"
+    },
+    "panels": {
+      "cameraLens": "Kamera & Objektiv",
+      "exposureSettings": "Belichtung",
+      "cameraSettings": "Kameraeinstellungen",
+      "dateTime": "Datum & Uhrzeit",
+      "imageProperties": "Bildeigenschaften",
+      "copyrightCredits": "Copyright & Credits",
+      "locationData": "Standortdaten",
+      "allExifData": "Alle EXIF-Daten",
+      "fields": "Felder"
+    },
+    "labels": {
+      "make": "Hersteller",
+      "model": "Modell",
+      "lens": "Objektiv",
+      "software": "Software",
+      "shutter": "Verschluss",
+      "aperture": "Blende",
+      "iso": "ISO",
+      "focal": "Brennweite",
+      "exposureMode": "Belichtungsmodus",
+      "metering": "Messung",
+      "flash": "Blitz",
+      "whiteBalance": "Weissabgleich",
+      "taken": "Aufgenommen",
+      "modified": "Geandert",
+      "width": "Breite",
+      "height": "Hohe",
+      "orientation": "Ausrichtung",
+      "colorSpace": "Farbraum",
+      "resolution": "Auflosung",
+      "artist": "Autor",
+      "copyright": "Copyright",
+      "latitude": "Breitengrad",
+      "longitude": "Langengrad",
+      "altitude": "Hohe"
+    },
+    "messages": {
+      "previewAlt": "Vorschau",
+      "noCameraInfo": "Keine Kamerainformationen verfugbar",
+      "noGpsData": "Keine GPS-Daten verfugbar",
+      "gpsHint": "GPS ist meist nur bei Smartphone-/GPS-Kamera-Fotos vorhanden"
+    },
+    "values": {
+      "unknown": "Unbekannt",
+      "notDefined": "Nicht definiert",
+      "auto": "Auto",
+      "manual": "Manuell",
+      "exposurePrograms": {
+        "0": "Nicht definiert",
+        "1": "Manuell",
+        "2": "Programm AE",
+        "3": "Blendenvorwahl",
+        "4": "Zeitvorwahl",
+        "5": "Kreativ",
+        "6": "Action",
+        "7": "Portrat",
+        "8": "Landschaft"
+      },
+      "meteringModes": {
+        "0": "Unbekannt",
+        "1": "Durchschnitt",
+        "2": "Mittenbetont",
+        "3": "Spot",
+        "4": "Mehrfeld-Spot",
+        "5": "Mehrfeld",
+        "6": "Teilbereich"
+      },
+      "flash": {
+        "noFlash": "Kein Blitz",
+        "flashFired": "Blitz ausgelost",
+        "noFlashCompulsory": "Kein Blitz (Zwang)",
+        "noFlashAuto": "Kein Blitz (Auto)",
+        "flashFiredAuto": "Blitz ausgelost (Auto)",
+        "flashUsed": "Blitz verwendet"
+      },
+      "orientation": {
+        "1": "Normal",
+        "2": "Horizontal gespiegelt",
+        "3": "180° gedreht",
+        "4": "Vertikal gespiegelt",
+        "5": "90° CCW gedreht, gespiegelt",
+        "6": "90° CW gedreht",
+        "7": "90° CW gedreht, gespiegelt",
+        "8": "90° CCW gedreht"
+      },
+      "colorSpace": {
+        "sRGB": "sRGB",
+        "uncalibrated": "Unkalibriert"
+      }
+    },
+    "features": {
+      "privateTitle": "100% Privat",
+      "privateDesc": "Alles wird im Browser verarbeitet. Bilder verlassen dein Gerat nicht.",
+      "instantTitle": "Sofortige Ergebnisse",
+      "instantDesc": "EXIF-Daten sofort anzeigen. Keine Uploads auf Server.",
+      "completeTitle": "Vollstandige Daten",
+      "completeDesc": "Sieh Kameraeinstellungen, GPS, Zeitstempel und alle Metadaten."
+    },
+    "howTo": {
+      "title": "So siehst du EXIF-Metadaten",
+      "step1Title": "Foto hochladen",
+      "step1Desc": "Ziehe ein JPEG-, TIFF- oder HEIC-Bild in den Viewer. Es wird sofort im Browser geladen – nichts wird hochgeladen.",
+      "step2Title": "Tabs durchsuchen",
+      "step2Desc": "Wechsle zwischen Kamera, Bild, GPS und Alle Daten, um Verschlusszeit, Blende, ISO, Standort und alle Felder zu sehen.",
+      "step3Title": "Exportieren oder teilen",
+      "step3Desc": "Lade die gesamten Metadaten als JSON-Datei herunter. Praktisch fur Archivierung oder Analyse.",
+      "tipLabel": "TIPP:",
+      "tipText": "Wenn du \"Keine EXIF-Daten gefunden\" siehst, ist das Bild oft ein PNG, ein Screenshot oder wurde von einer Plattform bereinigt. Probiere die Originaldatei."
+    },
+    "exifInfo": {
+      "title": "Welche Informationen stehen in EXIF?",
+      "p1": "Jedes Mal, wenn eine Kamera oder ein Smartphone ein Foto aufnimmt, wird neben den Pixeln ein versteckter Datenblock gespeichert. Diese Metadaten – EXIF genannt – halten fest, wie das Bild aufgenommen wurde, wann es passiert ist und manchmal auch wo.",
+      "p2": "Fotografen nutzen EXIF, um zu lernen: welche Blende am scharfsten war, ob der Blitz ausgelost hat und welches Objektiv verwendet wurde. Entwickler nutzen es zum Auto-Rotieren, Geotagging oder zum Prufen von Zeitstempeln.",
+      "cards": {
+        "cameraLensTitle": "Kamera & Objektiv",
+        "cameraLensDesc": "Hersteller, Modell, Objektivname und Firmware-Version des Gerats.",
+        "exposureSettingsTitle": "Belichtung",
+        "exposureSettingsDesc": "Verschlusszeit, Blende (f), ISO, Brennweite und Messmethode.",
+        "gpsTitle": "GPS-Koordinaten",
+        "gpsDesc": "Breite, Lange und Hohe – falls Standortdienste aktiv waren.",
+        "dateTimeTitle": "Datum & Uhrzeit",
+        "dateTimeDesc": "Wann das Foto aufgenommen wurde, wann es geandert wurde und die Zeitzone."
+      }
+    },
+    "faqTitle": "Haufige Fragen"
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Was sind EXIF-Daten?",
+        "answer": "EXIF (Exchangeable Image File Format) sind Metadaten, die von Kameras und Smartphones in Bilder geschrieben werden. Sie enthalten Kameraeinstellungen, Datum/Uhrzeit, GPS-Koordinaten und mehr."
+      },
+      {
+        "question": "Welche Bildformate enthalten EXIF?",
+        "answer": "EXIF ist vor allem in JPEG- und TIFF-Bildern enthalten. Einige RAW-Formate und HEIF/HEIC konnen ebenfalls EXIF enthalten. PNG und GIF unterstutzen EXIF normalerweise nicht."
+      },
+      {
+        "question": "Warum hat mein Bild keine EXIF-Daten?",
+        "answer": "Manche Bilder haben keine EXIF-Daten, weil sie beim Bearbeiten entfernt wurden, das Gerat keine EXIF schreibt oder soziale Netzwerke sie aus Datenschutzgrunden entfernen."
+      },
+      {
+        "question": "Wird mein Bild auf einen Server hochgeladen?",
+        "answer": "Nein. Die Verarbeitung passiert komplett in deinem Browser. Deine Bilder verlassen dein Gerat nicht – fur maximale Privatsphare."
+      },
+      {
+        "question": "Welche Kamerainformationen kann ich sehen?",
+        "answer": "EXIF enthalt oft Hersteller/Modell, Objektivinfos, Belichtungswerte (Verschlusszeit, Blende, ISO), Brennweite, Blitz, Datum/Uhrzeit und manchmal GPS."
+      }
+    ]
+  }
+}

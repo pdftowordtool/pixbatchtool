@@ -1,0 +1,117 @@
+{
+  "breadcrumb": {
+    "home": "Startseite",
+    "imageCropper": "Bild Zuschneider",
+    "cropWebp": "JPG Zuschneiden"
+  },
+  "hero": {
+    "title": "Kostenlos Online",
+    "titleHighlight": "JPG Cropper",
+    "description": "Schneiden Sie JPG/JPEG Bilder mit einstellbarer Qualitat zu. Schnell, kostenlos und privat."
+  },
+  "ui": {
+    "alerts": {
+      "selectImageFile": "Bitte wahlen Sie eine Bilddatei aus",
+      "fileSizeLimit": "Die Dateigrosse muss unter 10MB liegen",
+      "selectLargerArea": "Bitte wahlen Sie einen grosseren Bereich zum Zuschneiden",
+      "cropFailed": "Bild konnte nicht zugeschnitten werden. Bitte erneut versuchen."
+    },
+    "dropzone": {
+      "dropYourImageHere": "Bild hier ablegen",
+      "orClickBrowse": "oder klicken, um eine Datei auszuwahlen",
+      "maxSizeHint": "Max 10MB - JPG-Ausgabe mit Qualitatskontrolle"
+    },
+    "replace": {
+      "title": "Bild ersetzen",
+      "orDropNew": "oder neue Datei ablegen"
+    },
+    "settings": {
+      "aspectRatio": "Seitenverhaltnis",
+      "lockAspect": "Seitenverhaltnis beim Auswahlen sperren",
+      "outputFormat": "Ausgabeformat",
+      "webpModernTitle": "JPG (Verlustbehaftet)",
+      "webpModernDesc": "Kleinere Dateien mit einstellbarer Qualitat"
+    },
+    "quality": {
+      "panelTitle": "Qualitatseinstellungen",
+      "qualityLabel": "Qualitat",
+      "smallerFile": "Kleinere Datei",
+      "betterQuality": "Bessere Qualitat"
+    },
+    "actions": {
+      "delete": "Loschen",
+      "cropping": "Zuschneiden...",
+      "startCrop": "Zuschneiden starten",
+      "downloadWebp": "JPG herunterladen",
+      "resetSelection": "Auswahl zurucksetzen",
+      "croppedResult": "Zugeschnittenes Ergebnis",
+      "size": "Grosse"
+    },
+    "images": {
+      "uploadAlt": "Upload",
+      "croppedAlt": "Zugeschnitten"
+    },
+    "howTo": {
+      "title": "So schneiden Sie JPG Bilder online zu",
+      "step1Title": "Foto laden",
+      "step1Desc": "Ziehen Sie ein Bild in den Editor oder wahlen Sie eine Datei vom Gerat. Funktioniert mit JPEG, PNG, WebP und mehr.",
+      "step2Title": "Rahmen festlegen",
+      "step2Desc": "Wahlen Sie ein Preset oder freien Zuschnitt und steuern Sie die Dateigrosse uber den Qualitatsregler.",
+      "step3Title": "JPG herunterladen",
+      "step3Desc": "Klicken Sie auf Zuschneiden, prufen Sie die Vorschau und speichern Sie Ihr optimiertes JPEG.",
+      "tip": "TIPP:",
+      "tipText": "80-90% Qualitat ist fur Fotos meist ein sehr guter Kompromiss."
+    },
+    "why": {
+      "title": "Warum JPG zuschneiden?",
+      "p1": "JPEG ist das Standardformat fur Webfotos. Durch Zuschneiden entfernen Sie unnotige Bildbereiche und verringern die Dateigrosse.",
+      "p2": "Wenn keine Transparenz benotigt wird, ist JPG fur Performance oft die bessere Wahl als PNG.",
+      "b1": "Ideal fur Produktfotos, Blogbilder und Social-Media Inhalte.",
+      "b2": "Der Qualitatsregler steuert Scharfe und Dateigewicht direkt.",
+      "b3": "Leichtere Bilder verbessern Ladezeit, Core Web Vitals und Nutzererlebnis."
+    },
+    "features": {
+      "title": "Hauptfunktionen",
+      "presetRatiosTitle": "Voreinstellungen",
+      "presetRatiosDesc": "9 Presets + frei + Sperre",
+      "transparencyTitle": "Qualitatskontrolle",
+      "transparencyDesc": "Qualitatsregler von 1-100%",
+      "privateTitle": "100% Privat",
+      "privateDesc": "Nur im Browser",
+      "compressionTitle": "Kleine Dateien",
+      "compressionDesc": "Optimierte JPG-Kompression"
+    },
+    "proTips": {
+      "title": "Pro Tipps fur JPG",
+      "t1": "Passen Sie das Seitenverhaltnis an den Zielkanal an, z. B. 16:9 fur Banner oder 1:1 fur quadratische Feeds.",
+      "t2": "Fur die meisten Webfotos bieten 80-85% Qualitat ein starkes Verhaltnis aus Scharfe und Dateigrosse.",
+      "t3": "JPG unterstutzt keine Transparenz. Fur transparenten Hintergrund nutzen Sie PNG oder WebP.",
+      "t4": "Fur Druck 95-100% verwenden. Fur E-Mail und Chat reichen meist 70-80%."
+    },
+    "faqTitle": "Haufige Fragen"
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Verringert Zuschneiden die JPG Qualitat?",
+        "answer": "JPEG ist verlustbehaftet, daher wird neu kodiert. Bei 85-90% sind Unterschiede in der Regel kaum sichtbar."
+      },
+      {
+        "question": "Welche Qualitat fur Webbilder ist sinnvoll?",
+        "answer": "Starten Sie mit 75-85% fur einen guten Kompromiss. Nur bei feinen Details hoher gehen."
+      },
+      {
+        "question": "Kann ich PNG oder WebP zuschneiden und als JPG speichern?",
+        "answer": "Ja. Sie konnen gangige Formate laden und als JPG exportieren. Transparente Bereiche werden mit festem Hintergrund ausgegeben."
+      },
+      {
+        "question": "Warum ist die zugeschnittene Datei grosser als erwartet?",
+        "answer": "Sehr hohe Qualitat kann JPG Dateien vergroessern, besonders bei kleinen Ausschnitten. 80-85% hilft meist."
+      },
+      {
+        "question": "Werden Daten an einen Server gesendet?",
+        "answer": "Nein. Zuschneiden und JPG Kodierung laufen lokal im Browser."
+      }
+    ]
+  }
+}

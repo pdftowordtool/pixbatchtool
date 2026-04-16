@@ -1,0 +1,210 @@
+{
+  "optimizeImage": {
+    "title": "Optimizar Imágenes Online Gratis - Comprimir y Reducir Tamaño",
+    "description": "Optimizador de imágenes online gratuito. Comprime imágenes JPG, PNG, WebP y AVIF sin perder calidad. Reduce el tamaño del archivo hasta un 80% para una carga web más rápida.",
+    "ogTitle": "Optimizar Imágenes Online Gratis - Comprimir y Reducir Tamaño",
+    "ogDescription": "Optimizador de imágenes online gratuito. Comprime imágenes JPG, PNG, WebP y AVIF sin perder calidad. Reduce el tamaño hasta un 80%.",
+    "twitterTitle": "Optimizar Imágenes Online Gratis",
+    "twitterDescription": "Optimizador de imágenes online gratuito. Comprime imágenes sin perder calidad."
+  },
+  "compressImage": {
+    "title": "Comprimir Imágenes Online Gratis - Reducir Tamaño JPG, PNG, WebP",
+    "description": "Compresor de imágenes online gratuito. Reduce el tamaño de archivos JPG, PNG, WebP, GIF hasta un 80% sin perder calidad. Comprime múltiples imágenes a la vez.",
+    "ogTitle": "Comprimir Imágenes Online Gratis - Reducir Tamaño",
+    "ogDescription": "Compresor de imágenes online gratuito. Reduce el tamaño de archivo hasta un 80% sin perder calidad.",
+    "twitterTitle": "Comprimir Imágenes Online Gratis",
+    "twitterDescription": "Reduce el tamaño de imágenes hasta un 80% sin perder calidad."
+  },
+  "imageResizer": {
+    "title": "Redimensionar Imágenes Online Gratis - Herramienta de Redimensionamiento",
+    "description": "Redimensionador de imágenes online gratuito. Cambia el tamaño de múltiples imágenes por píxeles, porcentaje o dimensiones personalizadas. Mantén la proporción y calidad.",
+    "ogTitle": "Redimensionar Imágenes Online Gratis",
+    "ogDescription": "Redimensiona múltiples imágenes por píxeles o porcentaje. Mantén la proporción y calidad.",
+    "twitterTitle": "Redimensionar Imágenes Online Gratis",
+    "twitterDescription": "Redimensiona imágenes en lote manteniendo la calidad."
+  },
+  "imageConverter": {
+    "title": "Convertir Imagenes Online Gratis - Convertidor JPG PNG WebP AVIF",
+    "description": "Convertidor de imagenes online gratuito. Convierte entre formatos JPG, PNG, WebP y AVIF. Conversion por lotes instantanea y privada.",
+    "ogTitle": "Convertir Imagenes Online Gratis - Convertidor de Formatos",
+    "ogDescription": "Convierte entre formatos JPG, PNG, WebP y AVIF con conversion por lotes.",
+    "twitterTitle": "Convertir Imagenes Online Gratis",
+    "twitterDescription": "Convierte imagenes entre JPG, PNG, WebP y AVIF por lotes."
+  },
+  "cropImage": {
+    "title": "Recortar Imagenes Online Gratis - Herramienta para Recortar",
+    "description": "Recortador de imagenes online gratuito. Recorta imagenes con proporciones personalizadas y exporta en JPG, PNG, WebP o AVIF.",
+    "ogTitle": "Recortar Imagenes Online Gratis - Recortador de Imagenes",
+    "ogDescription": "Recorta imagenes con proporciones personalizadas y exporta en formatos modernos.",
+    "twitterTitle": "Recortar Imagenes Online Gratis",
+    "twitterDescription": "Recorta imagenes con proporciones personalizadas desde tu navegador."
+  },
+  "cropPng": {
+    "title": "Recortar PNG Online Gratis - Herramienta para Recortar PNG",
+    "description": "Recortador PNG online gratuito. Recorta imagenes PNG manteniendo la transparencia. Rapido, privado y en el navegador.",
+    "ogTitle": "Recortar PNG Online Gratis",
+    "ogDescription": "Recorta PNG manteniendo la transparencia con seleccion precisa.",
+    "twitterTitle": "Recortar PNG Online Gratis",
+    "twitterDescription": "Recorta imagenes PNG manteniendo la transparencia en tu navegador."
+  },
+  "cropWebp": {
+    "title": "Recortar WebP Online Gratis - Herramienta para Recortar WebP",
+    "description": "Recortador WebP online gratuito. Recorta imagenes y exporta en WebP para archivos mas pequenos y carga web mas rapida. Privado y en el navegador.",
+    "ogTitle": "Recortar WebP Online Gratis",
+    "ogDescription": "Recorta imagenes y descarga WebP para menor tamano y mejor rendimiento web.",
+    "twitterTitle": "Recortar WebP Online Gratis",
+    "twitterDescription": "Recorta imagenes y exporta en WebP directamente desde tu navegador."
+  },
+  "exifViewer": {
+    "title": "Visor EXIF Online Gratis - Ver metadatos de imagen",
+    "description": "Visor EXIF online gratuito. Ve metadatos de imagen como ajustes de camara, ubicacion GPS, fecha de captura y mas. Soporta JPG, PNG, WebP y TIFF.",
+    "ogTitle": "Visor EXIF Online Gratis",
+    "ogDescription": "Ve metadatos de imagen: camara, GPS, fecha de captura y mas.",
+    "twitterTitle": "Visor EXIF Online Gratis",
+    "twitterDescription": "Ve metadatos de fotos: camara, GPS, fecha y mas."
+  },
+  "removeExif": {
+    "title": "Eliminar datos EXIF Online Gratis - Quitar metadatos de imagen",
+    "description": "Eliminador de EXIF gratis. Elimina metadatos de imágenes, incluyendo ubicación GPS, información de la cámara y datos personales. Protege tu privacidad antes de compartir fotos.",
+    "ogTitle": "Eliminar EXIF Online Gratis",
+    "ogDescription": "Elimina metadatos de imágenes, incluyendo GPS y datos personales. Protege tu privacidad.",
+    "twitterTitle": "Eliminar EXIF Online Gratis",
+    "twitterDescription": "Quita metadatos de fotos para proteger tu privacidad."
+  },
+  "compressPng": {
+    "title": "Comprimir PNG Online Gratis - Reducir Tamano PNG",
+    "description": "Compresor PNG online gratuito. Reduce el tamano de archivos PNG manteniendo transparencia.",
+    "ogTitle": "Comprimir PNG Online Gratis",
+    "ogDescription": "Reduce tamano PNG manteniendo transparencia con compresion por lotes.",
+    "twitterTitle": "Comprimir PNG Online Gratis",
+    "twitterDescription": "Reduce tamano PNG manteniendo transparencia."
+  },
+  "compressJpg": {
+    "title": "Comprimir JPG Online Gratis - Reducir Tamano JPEG",
+    "description": "Compresor JPG online gratuito. Reduce el tamano de archivos JPEG manteniendo buena calidad.",
+    "ogTitle": "Comprimir JPG Online Gratis",
+    "ogDescription": "Reduce tamano JPEG con compresion por lotes y buena calidad visual.",
+    "twitterTitle": "Comprimir JPG Online Gratis",
+    "twitterDescription": "Reduce tamano JPEG manteniendo calidad."
+  },
+  "resizePng": {
+    "title": "Redimensionar PNG Online Gratis - Redimensionador PNG",
+    "description": "Redimensionador PNG online gratuito. Cambia el tamaño de imágenes PNG manteniendo la transparencia. Redimensiona varios PNG por píxeles o porcentaje.",
+    "ogTitle": "Redimensionar PNG Online Gratis",
+    "ogDescription": "Redimensiona PNG manteniendo la transparencia. Procesa varios archivos PNG a la vez.",
+    "twitterTitle": "Redimensionar PNG Online Gratis",
+    "twitterDescription": "Redimensiona PNG en lote manteniendo la transparencia."
+  },
+  "resizeJpg": {
+    "title": "Redimensionar JPG Online Gratis - Redimensionador JPEG",
+    "description": "Redimensionador JPG online gratuito. Cambia el tamaño de imágenes JPEG por píxeles, porcentaje o dimensiones personalizadas. Redimensiona varios JPG manteniendo la calidad.",
+    "ogTitle": "Redimensionar JPG Online Gratis",
+    "ogDescription": "Redimensiona imágenes JPEG por píxeles o porcentaje. Procesa varios JPG a la vez.",
+    "twitterTitle": "Redimensionar JPG Online Gratis",
+    "twitterDescription": "Redimensiona JPG en lote manteniendo la calidad."
+  },
+  "resizeWebp": {
+    "title": "Redimensionar WebP Online Gratis - Redimensionador WebP",
+    "description": "Redimensionador WebP online gratuito. Cambia el tamaño de imágenes WebP por píxeles, porcentaje o dimensiones personalizadas. Redimensiona varios WebP manteniendo la calidad.",
+    "ogTitle": "Redimensionar WebP Online Gratis",
+    "ogDescription": "Redimensiona imágenes WebP por píxeles o porcentaje. Procesa varios WebP a la vez.",
+    "twitterTitle": "Redimensionar WebP Online Gratis",
+    "twitterDescription": "Redimensiona WebP en lote manteniendo la calidad."
+  },
+  "pngConverter": {
+    "title": "Convertir a PNG Online Gratis - Convertidor de imagen a PNG",
+    "description": "Convertidor PNG online gratuito. Convierte JPG, WebP, AVIF, GIF y BMP a formato PNG con soporte de transparencia. Convierte varias imágenes al instante.",
+    "ogTitle": "Convertir a PNG Online Gratis",
+    "ogDescription": "Convierte JPG, WebP, AVIF, GIF y BMP a PNG con transparencia. Conversión por lotes en el navegador.",
+    "twitterTitle": "Convertir a PNG Online Gratis",
+    "twitterDescription": "Convierte imágenes a PNG con soporte de transparencia en lote."
+  },
+  "jpgConverter": {
+    "title": "Convertir a JPG Online Gratis - Convertidor de imagen a JPEG",
+    "description": "Convertidor JPG online gratuito. Convierte PNG, WebP, AVIF y GIF a formato JPG. Convierte varias imágenes a JPEG al instante con control de calidad.",
+    "ogTitle": "Convertir a JPG Online Gratis",
+    "ogDescription": "Convierte PNG, WebP y AVIF a formato JPG. Conversión por lotes a JPEG en el navegador.",
+    "twitterTitle": "Convertir a JPG Online Gratis",
+    "twitterDescription": "Convierte imágenes a JPEG en lote con control de calidad."
+  },
+  "webpConverter": {
+    "title": "Convertir a WebP Online Gratis - Convertidor de imagen a WebP",
+    "description": "Convertidor WebP online gratuito. Convierte JPG, PNG y AVIF a WebP para archivos más pequeños. Conversión por lotes al instante para carga web más rápida.",
+    "ogTitle": "Convertir a WebP Online Gratis",
+    "ogDescription": "Convierte JPG y PNG a WebP para archivos más pequeños. Conversión por lotes en el navegador.",
+    "twitterTitle": "Convertir a WebP Online Gratis",
+    "twitterDescription": "Convierte imágenes a WebP en lote para una carga web más rápida."
+  },
+  "rotateFlipImage": {
+    "title": "Rotar y Voltear Imagenes Online Gratis - Rotador de Imagenes",
+    "description": "Rotador de imagenes online gratuito. Rota imagenes 90°, 180°, 270° y voltea horizontal o verticalmente. Rapido, privado y en tu navegador.",
+    "ogTitle": "Rotar y Voltear Imagenes Online Gratis",
+    "ogDescription": "Rota 90°, 180°, 270° y voltea horizontal o verticalmente. Rapido, privado y en tu navegador.",
+    "twitterTitle": "Rotar y Voltear Imagenes Online Gratis",
+    "twitterDescription": "Rota y voltea imagenes al instante en tu navegador."
+  },
+  "about": {
+    "title": "Acerca de PixBatch - Editor de imagenes por lotes gratis",
+    "description": "Conoce PixBatch, un editor de imagenes por lotes gratis centrado en velocidad, privacidad y herramientas de calidad en el navegador.",
+    "ogTitle": "Acerca de PixBatch",
+    "ogDescription": "Conoce la historia y mision de PixBatch y por que tantos creadores confian en nuestras herramientas privadas.",
+    "twitterTitle": "Acerca de PixBatch",
+    "twitterDescription": "Descubre PixBatch y nuestro enfoque de privacidad primero para procesar imagenes."
+  },
+  "contact": {
+    "title": "Contacto - Soporte de PixBatch",
+    "description": "Ponte en contacto con PixBatch para soporte, comentarios y preguntas sobre nuestras herramientas privadas en el navegador.",
+    "ogTitle": "Contactar con PixBatch",
+    "ogDescription": "Habla con el equipo de PixBatch para soporte y comentarios.",
+    "twitterTitle": "Contactar con PixBatch",
+    "twitterDescription": "Necesitas ayuda con PixBatch? Contacta a nuestro equipo."
+  },
+  "privacyPolicy": {
+    "title": "Politica de Privacidad - PixBatch",
+    "description": "Politica de privacidad de PixBatch. Conoce como protegemos tus datos mientras procesas imagenes en el navegador.",
+    "ogTitle": "Politica de Privacidad - PixBatch",
+    "ogDescription": "Conoce como PixBatch protege tu privacidad con procesamiento local en el navegador.",
+    "twitterTitle": "Politica de Privacidad - PixBatch",
+    "twitterDescription": "Lee como PixBatch gestiona la privacidad y la proteccion de datos."
+  },
+  "terms": {
+    "title": "Terminos y Condiciones - PixBatch",
+    "description": "Lee los terminos y condiciones de PixBatch para usar nuestras herramientas de imagen online.",
+    "ogTitle": "Terminos y Condiciones - PixBatch",
+    "ogDescription": "Consulta los terminos de servicio de PixBatch.",
+    "twitterTitle": "Terminos y Condiciones - PixBatch",
+    "twitterDescription": "Conoce los terminos para usar las herramientas de PixBatch."
+  },
+  "disclaimer": {
+    "title": "Aviso Legal - PixBatch",
+    "description": "Informacion legal importante sobre el uso de las herramientas de imagen de PixBatch.",
+    "ogTitle": "Aviso Legal - PixBatch",
+    "ogDescription": "Lee los descargos legales y limitaciones relacionados con PixBatch.",
+    "twitterTitle": "Aviso Legal - PixBatch",
+    "twitterDescription": "Detalles importantes del aviso legal para usuarios de PixBatch."
+  },
+  "home": {
+    "title": "PixBatch - Editor de imagenes por lotes gratis online",
+    "description": "Editor de imagenes por lotes gratis. Comprime, redimensiona, recorta, convierte y optimiza imagenes en tu navegador.",
+    "ogTitle": "PixBatch - Editor de imagenes por lotes gratis",
+    "ogDescription": "Comprime, redimensiona, recorta, convierte y optimiza imagenes en lote. Gratis y privado.",
+    "twitterTitle": "PixBatch - Editor de imagenes por lotes",
+    "twitterDescription": "Herramientas gratis para comprimir, redimensionar y convertir imagenes en lote."
+  },
+  "compressWebp": {
+    "title": "Comprimir WebP Online Gratis - Reducir tamano de WebP",
+    "description": "Compresor WebP online gratis. Reduce el tamano de archivos WebP manteniendo calidad. Compresion por lotes.",
+    "ogTitle": "Comprimir WebP Online Gratis",
+    "ogDescription": "Reduce el tamano de WebP manteniendo calidad con compresion por lotes.",
+    "twitterTitle": "Comprimir WebP Online Gratis",
+    "twitterDescription": "Reduce el tamano de archivos WebP sin perder demasiada calidad."
+  },
+  "cropJpg": {
+    "title": "Recortar JPG Online Gratis - Herramienta para JPEG",
+    "description": "Recortador JPG online gratis. Recorta imagenes JPEG con relaciones de aspecto personalizadas en tu navegador.",
+    "ogTitle": "Recortar JPG Online Gratis",
+    "ogDescription": "Recorta imagenes JPEG de forma precisa y privada con proporciones personalizadas.",
+    "twitterTitle": "Recortar JPG Online Gratis",
+    "twitterDescription": "Recorta imagenes JPG en tu navegador con proporciones personalizadas."
+  }
+}

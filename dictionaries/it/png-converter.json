@@ -1,0 +1,215 @@
+{
+  "breadcrumb": {
+    "home": "Home",
+    "imageConverter": "Convertitore immagini",
+    "pngConverter": "Convertitore PNG"
+  },
+  "hero": {
+    "title": "Convertitore PNG",
+    "titleHighlight": "gratis online",
+    "description": "Converti JPEG, WebP, AVIF e altre immagini in formato PNG. Qualità senza perdita con supporto alla trasparenza: tutto avviene nel tuo browser."
+  },
+  "dropzone": {
+    "addMore": "Aggiungi altre immagini",
+    "orDrop": "oppure trascina i file",
+    "dropHere": "TRASCINA QUI LE TUE IMMAGINI",
+    "orClick": "oppure fai clic per scegliere i file",
+    "browse": "Scegli file",
+    "supports": "Supporta JPEG, WebP, AVIF, GIF, BMP • Fino a 10 immagini"
+  },
+  "formatSettings": {
+    "title": "Impostazioni formato di destinazione",
+    "badgeAll": "TUTTI",
+    "formatSingular": "formato",
+    "formatPlural": "formati",
+    "formatsSelectedSingular": "formato selezionato",
+    "formatsSelectedPlural": "formati selezionati",
+    "chooseOutputFormats": "Scegli i formati di output",
+    "resetToPngOnly": "Ripristina solo PNG",
+    "selectAllFormats": "Seleziona tutti i formati",
+    "selectionInfoEachImage": "Ogni immagine verrà convertita in:",
+    "description": "Seleziona uno o più formati di destinazione. Se selezioni più formati, ogni immagine verrà convertita in tutti i formati scelti e scaricata come file ZIP. PNG preserva la trasparenza senza perdita, WebP offre un'ottima compressione, AVIF fornisce la migliore compressione e JPEG ha supporto universale.",
+    "cards": {
+      "webp": {
+        "label": "WebP",
+        "subtitle": "Formato web moderno"
+      },
+      "avif": {
+        "label": "AVIF",
+        "subtitle": "Compressione di nuova generazione"
+      },
+      "png": {
+        "label": "PNG",
+        "subtitle": "Senza perdita con trasparenza"
+      },
+      "jpeg": {
+        "label": "JPEG",
+        "subtitle": "Compatibilità universale"
+      }
+    }
+  },
+  "qualitySettings": {
+    "title": "Impostazioni qualità",
+    "compressionQuality": "Qualità di compressione",
+    "smallerFile": "File più piccolo",
+    "betterQuality": "Qualità migliore",
+    "note": "Si applica a WebP, AVIF e JPEG. Qualità più alta = file più grandi. Consigliato: 80%. PNG è sempre senza perdita."
+  },
+  "advancedSettings": {
+    "title": "Impostazioni avanzate",
+    "badgeOptimized": "Ottimizzato",
+    "badgeBasic": "Base",
+    "stripMetadataLabel": "Rimuovi metadati (EXIF, ICC) per file più piccoli",
+    "stripMetadataDesc": "Rimuovere i metadati può ridurre la dimensione del file ma elimina informazioni della fotocamera, profili colore e dati di posizione."
+  },
+  "privacy": {
+    "title": "Dati e privacy",
+    "p1": "Le tue immagini vengono elaborate interamente nel tuo browser. Nessun file viene caricato su un server.",
+    "p2": "Tutta la conversione in PNG avviene in locale tramite librerie JavaScript. Le immagini non lasciano mai il tuo dispositivo.",
+    "p3": "Nessuna analisi del contenuto delle immagini; possono essere raccolti solo contatori anonimi aggregati di prestazioni per ottimizzazioni.",
+    "p4": "Puoi chiudere la scheda in qualsiasi momento dopo il completamento. La tua privacy è garantita.",
+    "notice": "Elaborazione locale + transitoria lato server, nessun file salvato.",
+    "details": "Dettagli"
+  },
+  "errors": {
+    "selectImages": "Seleziona file immagine (PNG, JPEG, WebP, AVIF, ecc.)",
+    "dropImages": "Trascina file immagine (PNG, JPEG, WebP, AVIF, ecc.)"
+  },
+  "notices": {
+    "readyToConvertLabel": "Pronto per la conversione:",
+    "willBeConvertedTo": "verrà convertito in",
+    "atQuality": "a",
+    "qualitySuffix": "di qualità.",
+    "readyToConvertTo": "Pronto per convertire in"
+  },
+  "actions": {
+    "convert": "Converti",
+    "convertTo": "Converti in",
+    "formats": "formati",
+    "more": "ancora",
+    "clearAll": "Cancella tutto",
+    "downloadZip": "Scarica ZIP",
+    "download": "Scarica",
+    "downloadAll": "Scarica tutto",
+    "convertMore": "Converti",
+    "addMore": "Aggiungi altre immagini"
+  },
+  "status": {
+    "conversionInProgress": "Conversione in corso",
+    "allDone": "Fatto!",
+    "pending": "in attesa",
+    "waitingToConvert": "In attesa di conversione…",
+    "convertingTo": "Conversione in",
+    "convertedTo": "Convertito in",
+    "errorConverting": "Errore durante la conversione",
+    "image": "immagine",
+    "images": "immagini"
+  },
+  "summary": {
+    "conversionSummary": "Riepilogo conversione",
+    "filesConverted": "File convertiti",
+    "outputFormat": "Formato di output",
+    "outputFormats": "Formati di output",
+    "quality": "Qualità",
+    "original": "Originale",
+    "converted": "Convertito"
+  },
+  "sections": {
+    "howTo": {
+      "title": "Come convertire immagini in PNG",
+      "step1Title": "Carica i file sorgente",
+      "step1Desc": "Trascina qualsiasi grafica JPEG, WebP o AVIF nella zona di caricamento. Tutto viene elaborato localmente nel browser.",
+      "step2Title": "Avvia la codifica senza perdita",
+      "step2Desc": "Premi Converti e l'encoder PNG nel browser mappa ogni pixel senza scartare dati visivi. La trasparenza alfa viene mantenuta automaticamente quando supportata dall'origine.",
+      "step3Title": "Esporta file perfetti",
+      "step3Desc": "Scarica i nuovi PNG uno alla volta o raggruppa l'intero lotto in un unico archivio ZIP. Nessuna perdita di qualità.",
+      "tipLabel": "SUGGERIMENTO:",
+      "tipText": "PNG è ideale per grafiche, loghi, screenshot e trasparenza. Per le foto, valuta JPEG o WebP per file più piccoli."
+    },
+    "keyFeatures": {
+      "title": "Funzionalità principali",
+      "items": [
+        {
+          "title": "Codifica senza perdita",
+          "desc": "Ogni pixel rimane intatto. Nessun artefatto, nessuna banding, nessun dato scartato."
+        },
+        {
+          "title": "Canale alfa nativo",
+          "desc": "PNG supporta la trasparenza completa per pixel. Ideale per loghi, icone e composizioni."
+        },
+        {
+          "title": "Pipeline isolata",
+          "desc": "La codifica avviene interamente nel canvas del browser. Nessuna chiamata di rete, nessun server cloud."
+        },
+        {
+          "title": "Elaborazione istantanea",
+          "desc": "Il codec in WebAssembly parte in pochi millisecondi. I risultati arrivano rapidamente."
+        },
+        {
+          "title": "Archiviazione in batch",
+          "desc": "Converti molti file in una sola volta e scaricali in un unico ZIP compresso."
+        },
+        {
+          "title": "Compatibilità universale",
+          "desc": "PNG è supportato da browser, sistemi operativi e flussi di stampa praticamente ovunque."
+        }
+      ]
+    },
+    "qualityGuide": {
+      "title": "Guida qualità vs dimensione",
+      "interactiveIntro": "Demo interattiva: vedi come la qualità influisce sulla dimensione in tempo reale",
+      "demoQuality": "Qualità demo",
+      "sampleLabel": "Esempio: foto da 2MB",
+      "pngLossless": "PNG (senza perdita)",
+      "qualityLabel": "Qualità",
+      "qualityRecommendations": "Consigli di qualità",
+      "tiers": [
+        {
+          "range": "90-100%",
+          "title": "Qualità di stampa",
+          "desc": "Stampa professionale • Archivio • File grandi"
+        },
+        {
+          "range": "75-89%",
+          "title": "Alta qualità",
+          "desc": "Portfolio • Social • Buon equilibrio"
+        },
+        {
+          "range": "60-74%",
+          "title": "Ottimizzato per il web",
+          "desc": "Siti web • Caricamento rapido • Consigliato"
+        },
+        {
+          "range": "10-59%",
+          "title": "Massima compressione",
+          "desc": "Miniature • Anteprime • Perdita visibile"
+        }
+      ]
+    },
+    "faqTitle": "Domande frequenti"
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Cosa succede quando converto un JPEG in PNG?",
+        "answer": "Il browser decodifica i pixel compressi del JPEG in un canvas HTML invisibile e poi ricodifica quei pixel grezzi con l'algoritmo deflate di PNG. I valori colore decodificati vengono preservati esattamente nel PNG, senza ulteriore perdita in questo passaggio."
+      },
+      {
+        "question": "Convertire in PNG rende i file più grandi?",
+        "answer": "Spesso sì. PNG è senza perdita e conserva ogni pixel, mentre JPEG scarta dati visivi. Una foto JPEG da 500KB può diventare un PNG da 2–3MB. In cambio ottieni riproduzione perfetta e maggiore flessibilità in modifica."
+      },
+      {
+        "question": "La trasparenza viene mantenuta durante la conversione?",
+        "answer": "Se l'immagine sorgente (ad esempio WebP o AVIF) include un canale alfa, l'output PNG lo manterrà completamente. Le sorgenti senza trasparenza (come JPEG) produrranno un PNG opaco perché non ci sono dati alfa da trasferire."
+      },
+      {
+        "question": "Posso convertire molte immagini in una volta sola?",
+        "answer": "Sì. Trascina l'intero lotto nella zona di caricamento e l'encoder WebAssembly le elaborerà in sequenza. Al termine, scarica tutto in un unico ZIP."
+      },
+      {
+        "question": "Le mie immagini vengono caricate su un server durante la conversione?",
+        "answer": "Assolutamente no. L'intera pipeline di codifica PNG gira nel browser. I file non lasciano mai il tuo dispositivo e non vengono inviate richieste di rete con dati immagine."
+      }
+    ]
+  }
+}

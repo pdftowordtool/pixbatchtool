@@ -1,0 +1,129 @@
+{
+  "breadcrumb": {
+    "home": "Home",
+    "compressImage": "Compress Image",
+    "compressJpg": "Compress JPG"
+  },
+  "hero": {
+    "title": "Free Online",
+    "titleHighlight": "JPG Compressor",
+    "description": "Reduce JPG file size while maintaining quality. Perfect for photos, web images, and digital content."
+  },
+  "dropzone": {
+    "addMore": "Add more JPG images",
+    "orDrop": "or drop JPG files",
+    "dropHere": "DROP YOUR JPG IMAGES HERE",
+    "orClick": "or click to browse JPG files",
+    "browse": "Browse JPG Files",
+    "maxSize": "Max 5MB per file - Up to 10 JPG images per upload"
+  },
+  "qualitySettings": {
+    "title": "Quality Settings",
+    "default": "(default is 85%)",
+    "smallerSize": "Smaller Size",
+    "betterQuality": "Better Quality",
+    "description": "JPG uses lossy compression. Lower quality reduces file size significantly but may affect image details. Recommended: 75-90% for most use cases.",
+    "presets": {
+      "web": "Web",
+      "standard": "Standard",
+      "high": "High",
+      "max": "Max"
+    }
+  },
+  "privacy": {
+    "title": "Data & Privacy",
+    "p1": "Your images are processed on-the-fly. Originals stay in your browser; compressed results are streamed back immediately.",
+    "p2": "No permanent storage: the server keeps temporary buffers just long enough to encode and deliver the result, then memory is released.",
+    "p3": "No analytics on image content; only anonymous aggregate performance counters may be collected (sizes, timings) for optimization.",
+    "p4": "Close the tab any time after processing completes. While processing, avoid closing to prevent interruption.",
+    "notice": "All processing local + server-side transient, no files stored.",
+    "details": "Details"
+  },
+  "status": {
+    "compressing": "Compressing...",
+    "errorCompressing": "Error compressing image",
+    "allDone": "All done!",
+    "imagesCompressed": "images compressed",
+    "imageCompressed": "image compressed",
+    "settingsChanged": "Settings have changed!",
+    "settingsChangedDesc": "Click Apply New Settings to re-compress your JPG images with the new quality configuration."
+  },
+  "actions": {
+    "applyNewSettings": "Apply New Settings",
+    "downloadZip": "Download ZIP",
+    "clearAll": "Clear All",
+    "download": "Download"
+  },
+  "summary": {
+    "title": "Compression Summary",
+    "spaceSaved": "Space Saved",
+    "filesProcessed": "Files Processed",
+    "sizeReduced": "Size Reduced",
+    "original": "Original",
+    "compressed": "Compressed",
+    "saved": "saved"
+  },
+  "sections": {
+    "howTo": {
+      "title": "How To Compress JPG",
+      "step1Title": "Upload JPG Files",
+      "step1Desc": "Drag and drop your JPEG files. Multi-photo upload is fully supported.",
+      "step2Title": "Tune Lossy Output",
+      "step2Desc": "Turn down the quality slider slightly to see massive file size drops without visual artifacting.",
+      "step3Title": "Download",
+      "step3Desc": "Save your lightweight JPGs instantly, optimized for web and social media."
+    },
+    "makeSmaller": {
+      "title": "Make Your JPG Smaller Without Losing Quality",
+      "card1Title": "Lossy Perfection",
+      "card1Desc": "JPEG compression removes unneeded data to reduce size without noticeable blur.",
+      "card2Title": "Fast Page Loads",
+      "card2Desc": "Lean JPGs speed up rendering and improve user experience.",
+      "card3Title": "Save Bandwidth",
+      "card3Desc": "Lower file sizes mean lower hosting costs and faster mobile downloads."
+    },
+    "why": {
+      "title": "Why Compress JPG?",
+      "p1": "Shrinking JPGs eliminates hidden metadata and applies lossy algorithms for much lighter files. This improves loading speed and SEO metrics.",
+      "tipLabel": "Tip:",
+      "tipText": "75%-85% quality usually gives excellent size reduction while looking almost identical."
+    },
+    "qualityGuide": {
+      "title": "Quality vs Size Guide",
+      "intro": "JPG compression is lossy, trading some quality for smaller file size. Adjust the quality slider to see file size changes.",
+      "demoQuality": "Demo Quality",
+      "samplePhoto": "Sample: 2MB Photo",
+      "noSavings": "No savings",
+      "qualityRecommendations": "Quality Recommendations",
+      "maximumQuality": "Maximum Quality",
+      "maximumQualityDesc": "Professional prints - Portfolio - Minimal compression",
+      "recommended": "Recommended",
+      "recommendedDesc": "Website photos - Social media - Best balance",
+      "highCompression": "High Compression",
+      "highCompressionDesc": "Thumbnails - Email attachments - Faster loading",
+      "maxCompression": "Maximum Compression",
+      "maxCompressionDesc": "Previews only - Visible artifacts - Not recommended"
+    },
+    "faqTitle": "Frequently Asked Questions"
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "How does JPG compression reduce file size?",
+        "answer": "JPG uses lossy compression that removes less-visible image data, significantly reducing file size."
+      },
+      {
+        "question": "What is the best JPG quality percentage for websites?",
+        "answer": "Most sites use 75%-85% quality for the best balance between image quality and file size."
+      },
+      {
+        "question": "Does smaller JPG size help SEO?",
+        "answer": "Yes. Lighter JPG files improve loading speed and Core Web Vitals, which can help search rankings."
+      },
+      {
+        "question": "Why not use PNG instead of JPG?",
+        "answer": "JPG is better for complex photos and gradients. PNG is better for transparency, logos, and UI graphics."
+      }
+    ]
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "breadcrumb": {
+    "home": "Home",
+    "imageCropper": "Image Cropper"
+  },
+  "hero": {
+    "title": "Free Online",
+    "titleHighlight": "Image Cropper",
+    "description": "Crop images with precision using preset aspect ratios. Fast, free, and privacy-focused, everything happens in your browser."
+  },
+  "ui": {
+    "alerts": {
+      "selectImageFile": "Please select an image file",
+      "fileSizeLimit": "File size must be less than 10MB",
+      "selectLargerArea": "Please select a larger area to crop",
+      "cropFailed": "Failed to crop image. Please try again."
+    },
+    "dropzone": {
+      "dropYourImageHere": "Drop Your Image Here",
+      "orClickBrowse": "or click to browse a file",
+      "maxSizeSingle": "Max 10MB per file • Single image only"
+    },
+    "replace": {
+      "title": "Replace image",
+      "orDropNew": "or drop a new file"
+    },
+    "settings": {
+      "aspectRatio": "Aspect ratio",
+      "lockAspect": "Lock aspect when selecting",
+      "outputFormat": "Output format",
+      "advancedSettings": "Advanced Settings",
+      "optimized": "Optimized",
+      "quality": "Quality",
+      "smallerFile": "Smaller file",
+      "betterQuality": "Better quality",
+      "pngLossless": "PNG is a lossless format - quality settings don't apply."
+    },
+    "actions": {
+      "delete": "Delete",
+      "cropping": "Cropping...",
+      "startCrop": "Start Crop",
+      "downloadResult": "Download Result",
+      "resetSelection": "Reset Selection",
+      "croppedResult": "Cropped Result",
+      "size": "Size"
+    },
+    "howTo": {
+      "title": "How To Crop Images Online",
+      "step1Title": "UPLOAD IMAGE",
+      "step1Desc": "Drop your image or click to browse. Supports JPEG, PNG, WebP, and AVIF.",
+      "step2Title": "SELECT AREA",
+      "step2Desc": "Choose an aspect ratio and drag to select the area you want to keep.",
+      "step3Title": "DOWNLOAD",
+      "step3Desc": "Click crop, then download your cropped image in your chosen format.",
+      "tip": "TIP:",
+      "tipText": "Use the 1:1 ratio for profile pictures, 16:9 for video thumbnails, and 9:16 for social media stories."
+    },
+    "why": {
+      "title": "Why Crop Images?",
+      "p1": "Most images carry way more background than they need. Cropping trims everything outside your subject so the viewer's eye goes exactly where you want it. Cleaner frames tend to hold attention longer and perform better on social feeds.",
+      "p2": "On the technical side, fewer pixels means smaller file sizes and faster page loads. That matters for search rankings, especially on mobile. Pick the right aspect ratio for where the image will live, 1:1 for profile pictures, 16:9 for YouTube thumbnails, and the crop does double duty: it looks better and loads quicker.",
+      "b1": "Place key subjects along rule-of-thirds lines for a more balanced, natural composition.",
+      "b2": "Cut empty space around product photos to boost conversion rates on e-commerce pages.",
+      "b3": "Ship only the pixels you actually need and watch your Lighthouse performance score climb."
+    },
+    "features": {
+      "title": "Key Features",
+      "presetRatiosTitle": "Preset Ratios",
+      "presetRatiosDesc": "9 preset aspect ratios • Free crop • Lock option",
+      "formatOptionsTitle": "Format Options",
+      "formatOptionsDesc": "Export as JPEG, PNG, WebP, or AVIF",
+      "privateTitle": "100% Private",
+      "privateDesc": "All processing happens in your browser",
+      "instantTitle": "Instant Results",
+      "instantDesc": "Fast cropping with live preview"
+    },
+    "proTips": {
+      "title": "Pro Tips for Cropping",
+      "t1": "Start with a preset ratio that matches where the image will appear, 1:1 for Instagram posts, 4:5 for portrait feeds, 16:9 for YouTube thumbnails or blog headers.",
+      "t2": "Position the main subject off-centre, roughly where rule-of-thirds grid lines cross. It looks more dynamic than centring everything.",
+      "t3": "If your crop needs a see-through background, export as PNG or WebP. JPEG flattens transparency onto a solid colour.",
+      "t4": "Leave the output set to Original unless you specifically want a different format. Re-encoding an already-compressed JPEG introduces another generation of loss."
+    },
+    "faqTitle": "Frequently Asked Questions"
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "What exactly does an image cropper do?",
+        "answer": "It lets you draw a rectangle over your photo and keep only that portion. Everything outside the selection gets discarded, leaving you with a tightly framed image at the exact dimensions you need."
+      },
+      {
+        "question": "Which aspect ratios can I choose from?",
+        "answer": "There are nine presets: 1:1 for squares, 4:3 and 3:2 for traditional photos, 16:9 for widescreen and YouTube thumbnails, 9:16 for vertical stories and reels, 2:3 and 3:4 for portrait orientations, and 21:9 for ultrawide banners. You can also switch to free mode and draw any custom shape."
+      },
+      {
+        "question": "Can I export in a different format after cropping?",
+        "answer": "Yes. By default the tool keeps whatever format you uploaded, but you can switch to JPEG, PNG, WebP, or AVIF before downloading. Each format works best for different situations, WebP for the web, PNG for transparency, JPEG for universal compatibility."
+      },
+      {
+        "question": "Do my images get sent to a server?",
+        "answer": "No. The cropping runs entirely inside your browser using a local canvas element. Nothing gets uploaded, nothing leaves your device, and closing the tab clears every trace."
+      },
+      {
+        "question": "Is there a file size limit?",
+        "answer": "The cap is 10 MB per image. That covers most photographs and graphics comfortably while keeping the in-browser processing smooth and responsive."
+      }
+    ]
+  }
+}

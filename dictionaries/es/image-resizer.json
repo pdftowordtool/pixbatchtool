@@ -1,0 +1,72 @@
+{
+  "breadcrumb": { "home": "Inicio", "imageResizer": "Redimensionador de Imágenes" },
+  "hero": { "title": "Redimensionador de Imágenes", "titleHighlight": "Gratuito en Línea", "description": "Redimensiona imágenes a cualquier dimensión. Perfecto para redes sociales, miniaturas y optimización web." },
+  "dropzone": { "dropHere": "SUELTA TUS IMÁGENES AQUÍ", "orClick": "o haz clic para buscar archivos (JPG, PNG, WebP)", "browseFiles": "Buscar Archivos de Imagen", "maxSize": "Máx 10MB por archivo • Hasta 20 imágenes por carga" },
+  "settings": {
+    "customDimensions": "Dimensiones Personalizadas", "setExactSize": "Establecer ancho y alto exactos",
+    "percentageScale": "Escala Porcentual", "scaleByPercentage": "Escalar por porcentaje",
+    "presetSizes": "Tamaños Predefinidos", "popularDimensions": "Dimensiones populares",
+    "maintainAspect": "Mantener proporción (recomendado)", "tipAspect": "Activa la proporción para evitar distorsión de imagen",
+    "scale": "Escala", "geometryConstraints": "Geometría y Restricciones",
+    "contain": "Contener", "cover": "Cubrir", "fill": "Rellenar",
+    "center": "Centro", "top": "Arriba", "bottom": "Abajo", "left": "Izquierda", "right": "Derecha",
+    "preventUpscaling": "Prevenir ampliación",
+    "outputFormat": "Formato de salida", "quality": "Calidad",
+    "lowerSize": "Menor tamaño", "higherQuality": "Mayor calidad",
+    "advancedSettings": "Ajustes Avanzados", "optimized": "Optimizado",
+    "stripMetadata": "Eliminar metadatos (EXIF, ICC) para archivos más pequeños", "background": "Fondo",
+    "resizeSummary": "Resumen de Redimensionamiento", "targetSize": "Tamaño objetivo", "format": "Formato", "same": "Igual", "aspectRatio": "Proporción", "yes": "Sí", "no": "No",
+    "settingsChanged": "Los ajustes han cambiado. Haz clic en \"Iniciar Redimensionamiento\" para aplicar los nuevos ajustes a tus imágenes.",
+    "startResize": "Iniciar Redimensionamiento", "resetSettings": "Restablecer Ajustes"
+  },
+  "privacy": {
+    "title": "Datos y Privacidad", "notice": "Todo el procesamiento ocurre en tu navegador, sin cargas.", "details": "Detalles",
+    "p1": "Todo el redimensionamiento de imágenes ocurre localmente en tu navegador usando HTML5 Canvas. Tus imágenes nunca salen de tu dispositivo.",
+    "p2": "Sin cargas a ningún servidor. Sin almacenamiento. Sin seguimiento del contenido de tus imágenes.",
+    "p3": "Tu privacidad está 100% protegida - todo se ejecuta del lado del cliente en tu máquina.",
+    "p4": "Cierra la pestaña en cualquier momento. Tus imágenes originales permanecen intactas."
+  },
+  "results": {
+    "resizing": "Redimensionando...", "errorResizing": "Error al redimensionar imagen",
+    "allDone": "¡Todo listo!", "imageResized": "imagen redimensionada", "imagesResized": "imágenes redimensionadas",
+    "downloadZip": "Descargar ZIP", "clearAll": "Limpiar Todo", "download": "Descargar",
+    "resizeSummary": "Resumen de Redimensionamiento", "dimensions": "Dimensiones", "filesResized": "Archivos Redimensionados", "totalSize": "Tamaño Total"
+  },
+  "howTo": {
+    "title": "Cómo Redimensionar Imágenes",
+    "step1Title": "Sube Tus Imágenes", "step1Desc": "Arrastra fotos de alta definición o banners a la zona objetivo. El procesamiento es completamente local y seguro.",
+    "step2Title": "Bloquea la Proporción", "step2Desc": "Escribe píxeles específicos de ancho/alto o usa nuestras plantillas integradas de dimensiones para redes sociales.",
+    "step3Title": "Procesa y Exporta", "step3Desc": "Descarga activos nítidos y perfectamente redimensionados individualmente o empaquetados en ZIP.",
+    "tip": "El inicio manual te da control total. Bloquea la proporción para evitar distorsión, usa presets para tamaños comunes y exporta activos responsivos que mejoran la velocidad de página y SEO."
+  },
+  "features": {
+    "title": "Tamaño Perfecto para Cada Plataforma",
+    "socialMedia": "Diseños para Redes Sociales", "socialMediaDesc": "Plantillas para LinkedIn, Twitter, Instagram o YouTube con dimensiones de resolución nativa exactas al instante.",
+    "proportions": "Mantener Proporciones", "proportionsDesc": "La colisión inteligente de límites asegura que los elementos nunca se estiren de forma extraña sin seleccionar explícitamente restricciones de 'Rellenar'.",
+    "parallel": "Procesamiento Paralelo", "parallelDesc": "Redimensiona directorios gigantes usando WebAssembly multi-hilo en el mismo tiempo que toma redimensionar una sola imagen.",
+    "privacy": "Privacidad Completa", "privacyDesc": "Las fotos se almacenan completamente en el front-end. Nada se conecta a un servidor externo.",
+    "storage": "Ahorra Almacenamiento", "storageDesc": "Reduce automáticamente la geometría física mientras elimina metadatos pesados de cámara EXIF para reducir el peso en disco.",
+    "safeguards": "Protecciones Inteligentes", "safeguardsDesc": "Los límites de escala previenen la ampliación accidental y desordenada si la imagen fuente carece de resolución nativa suficiente."
+  },
+  "qualityGuide": {
+    "title": "Guía de Calidad vs Tamaño",
+    "description": "Diferentes formatos de salida producen diferentes tamaños de archivo. **AVIF** ofrece los archivos más pequeños, seguido de **WebP** y **JPEG**. Ajusta el control de calidad para ver cómo afecta el tamaño del archivo.",
+    "demoQuality": "Calidad Demo", "samplePhoto": "Muestra: Imagen Full HD (1920x1080)", "noSavings": "Sin ahorro",
+    "qualityRecommendations": "Recomendaciones de Calidad",
+    "maxQuality": "Calidad Máxima", "maxQualityDesc": "Impresiones profesionales • Portafolio • Compresión mínima",
+    "recommended": "Recomendado", "recommendedDesc": "Imágenes web • Redes sociales • Mejor equilibrio",
+    "moderate": "Moderado", "moderateDesc": "Miniaturas • Vistas previas • Archivo más pequeño",
+    "lowQuality": "Baja Calidad", "lowQualityDesc": "Previews pequeñas • Marcadores • No recomendado"
+  },
+  "faq": {
+    "title": "Preguntas Frecuentes",
+    "q1": "¿Qué propiedades CSS imita 'Contener' vs 'Cubrir'?",
+    "a1": "La geometría 'Contener' ajusta tu imagen dentro de las dimensiones objetivo, añadiendo relleno lógico. 'Cubrir' llena completamente el límite objetivo, recortando bordes elegantemente si la proporción de la imagen difiere. 'Rellenar' fuerza los píxeles exactos y puede distorsionar.",
+    "q2": "¿Corro el riesgo de pixelar mis fotos al redimensionar?",
+    "a2": "¡No al reducir! Mientras reduzcas una imagen, la nitidez se mantiene. Por defecto activamos 'Prevenir ampliación', así que si sueltas un ícono de 500px en un contenedor de 1920px, no inflaremos ni difuminaremos artificialmente los píxeles.",
+    "q3": "¿Por qué debo eliminar metadatos al escalar?",
+    "a3": "Las cámaras digitales modernas incrustan datos EXIF incluyendo tipo de dispositivo, velocidad de obturación y datos de rastreo de ubicación en capas de fondo masivas. Al eliminar esa hinchazón oculta durante las operaciones de redimensionamiento, ahorramos kilobytes cruciales para SEO.",
+    "q4": "¿Se envían las cargas de vuelta de forma segura?",
+    "a4": "Todo se renderiza dinámicamente en la memoria local de tu dispositivo (interpolación de canvas HTML). Nunca transmitimos, cargamos ni almacenamos datos de usuario en servidores corporativos."
+  }
+}

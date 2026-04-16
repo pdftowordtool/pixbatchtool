@@ -1,0 +1,190 @@
+{
+  "breadcrumb": {
+    "home": "Home",
+    "imageResizer": "Ridimensionatore immagini",
+    "resizeJpg": "Ridimensiona JPG"
+  },
+  "hero": {
+    "title": "Ridimensiona online",
+    "titleHighlight": "JPG",
+    "description": "Ridimensiona immagini JPG/JPEG con controllo qualità. Perfetto per foto e immagini web. Regola le dimensioni mantenendo una buona qualità."
+  },
+  "dropzone": {
+    "addMore": "Aggiungi altre immagini JPG",
+    "orDrop": "oppure trascina file JPG/JPEG",
+    "dropHere": "TRASCINA QUI LE TUE IMMAGINI JPG",
+    "orClick": "o clicca per selezionare solo file JPG/JPEG",
+    "browse": "Seleziona file JPG",
+    "maxSize": "Max 10MB per file • Fino a 20 immagini per upload"
+  },
+  "tabs": {
+    "custom": {
+      "title": "Dimensioni personalizzate",
+      "desc": "Imposta larghezza e altezza esatte"
+    },
+    "percentage": {
+      "title": "Scala percentuale",
+      "desc": "Scala in percentuale"
+    },
+    "preset": {
+      "title": "Dimensioni predefinite",
+      "desc": "Misure popolari"
+    }
+  },
+  "custom": {
+    "maintainAspect": "Mantieni proporzioni (opzionale)",
+    "tipLabel": "Tip:",
+    "tipText": "Attiva le proporzioni per evitare distorsioni"
+  },
+  "percentage": {
+    "scale": "Scala"
+  },
+  "presets": {
+    "items": {
+      "instagramPostSquare": "Post Instagram (quadrato)",
+      "instagramStory": "Storia Instagram",
+      "facebookPost": "Post Facebook",
+      "facebookCover": "Copertina Facebook",
+      "twitterPost": "Post Twitter",
+      "twitterHeader": "Header Twitter",
+      "youtubeThumbnail": "Miniatura YouTube",
+      "linkedinPost": "Post LinkedIn",
+      "fullHD": "Full HD"
+    }
+  },
+  "geometry": {
+    "title": "Geometria e vincoli",
+    "contain": "Contieni",
+    "cover": "Copri",
+    "fill": "Riempi",
+    "center": "Centro",
+    "top": "Alto",
+    "bottom": "Basso",
+    "left": "Sinistra",
+    "right": "Destra",
+    "preventUpscaling": "Evita ingrandimento"
+  },
+  "output": {
+    "title": "Formato di output",
+    "quality": "Qualità",
+    "lowerSize": "File più piccolo",
+    "higherQuality": "Qualità più alta",
+    "same": "Uguale"
+  },
+  "advanced": {
+    "title": "Impostazioni avanzate",
+    "badge": "Ottimizzato",
+    "stripMetadata": "Rimuovi metadati (EXIF, ICC) per file più piccoli",
+    "background": "Sfondo",
+    "backgroundPlaceholder": "#ffffff o rgba(0,0,0,0)"
+  },
+  "resizeSummary": {
+    "title": "Riepilogo",
+    "targetSize": "Dimensione target",
+    "filesResized": "File ridimensionati",
+    "totalSize": "Dimensione totale",
+    "format": "Formato",
+    "quality": "Qualità",
+    "aspectRatio": "Proporzioni",
+    "yes": "Sì",
+    "no": "No"
+  },
+  "notices": {
+    "startResizeHint": "Clicca \"Avvia\" per ridimensionare le immagini.",
+    "settingsChangedHint": "Impostazioni modificate. Clicca \"Avvia\" per applicarle alle immagini."
+  },
+  "actions": {
+    "startResize": "Avvia",
+    "resetSettings": "Reimposta",
+    "downloadZip": "Scarica ZIP",
+    "clearAll": "Svuota",
+    "download": "Scarica"
+  },
+  "status": {
+    "resizing": "Ridimensionamento...",
+    "errorResizing": "Errore nel ridimensionamento",
+    "allDone": "Fatto!",
+    "imageResized": "immagine ridimensionata",
+    "imagesResized": "immagini ridimensionate"
+  },
+  "privacy": {
+    "title": "Dati e privacy",
+    "p1": "Il ridimensionamento avviene localmente nel browser usando Canvas. Le immagini non lasciano il tuo dispositivo.",
+    "p2": "Nessun upload, nessuna archiviazione, nessun tracciamento del contenuto.",
+    "p3": "Privacy totale: tutto gira lato client sul tuo dispositivo.",
+    "p4": "Puoi chiudere la scheda quando vuoi. Gli originali restano intatti.",
+    "notice": "Tutto avviene nel browser, senza upload.",
+    "details": "Dettagli"
+  },
+  "errors": {
+    "jpgOnly": "Seleziona solo file JPG/JPEG"
+  },
+  "sections": {
+    "howTo": {
+      "title": "Come ridimensionare un JPG online",
+      "step1Title": "Seleziona foto JPG",
+      "step1Desc": "Trascina le foto JPG/JPEG nell'area di caricamento. Tutto viene elaborato localmente nel browser.",
+      "step2Title": "Scegli le dimensioni",
+      "step2Desc": "Imposta pixel esatti, scala in percentuale o usa un preset. Mantieni le proporzioni per un risultato naturale.",
+      "step3Title": "Esporta e scarica",
+      "step3Desc": "Scarica i JPG ridimensionati singolarmente o come ZIP. Regola la qualità per bilanciare peso e nitidezza.",
+      "tipLabel": "TIP:",
+      "tipText": "JPG è ideale per le foto. Usa il cursore qualità per bilanciare dimensione e qualità. Mantieni proporzioni per evitare distorsioni."
+    },
+    "why": {
+      "title": "Perché ridimensionare JPG?",
+      "p1": "Ridimensionare i JPG ottimizza le foto per il web mantenendo una buona qualità. File della dimensione corretta migliorano performance e Core Web Vitals.",
+      "tipLabel": "Tip:",
+      "tipText": "Per il web, 80–90% è spesso un ottimo equilibrio."
+    },
+    "platform": {
+      "title": "Dimensione perfetta per ogni piattaforma",
+      "card1Title": "Controllo qualità",
+      "card1Desc": "Ridimensiona e regola la qualità per immagini nitide senza file enormi.",
+      "card2Title": "Pagine più veloci",
+      "card2Desc": "Foto dimensionate correttamente migliorano performance e ranking.",
+      "card3Title": "Elaborazione batch",
+      "card3Desc": "Ridimensiona molti JPG insieme direttamente nel browser, senza upload."
+    },
+    "qualityGuide": {
+      "title": "Guida qualità vs dimensione",
+      "introPrefix": "Formati di output diversi producono dimensioni diverse.",
+      "introMiddle1": "offre i file più piccoli, seguito da",
+      "introMiddle2": "e",
+      "introSuffix": "Regola la qualità per vedere l'effetto sulla dimensione.",
+      "demoQuality": "Qualità demo",
+      "sample": "Esempio: immagine Full HD (1920x1080)",
+      "noSavings": "Nessun risparmio",
+      "qualityRecommendations": "Raccomandazioni",
+      "maximumQuality": "Massima qualità",
+      "maximumQualityDesc": "Stampa professionale • Portfolio • Compressione minima",
+      "recommended": "Consigliato",
+      "recommendedDesc": "Web • Social • Miglior equilibrio",
+      "moderate": "Moderata",
+      "moderateDesc": "Miniature • Anteprime • File più piccolo",
+      "lowQuality": "Bassa qualità",
+      "lowQualityDesc": "Placeholder • Molto piccoli • Non consigliato"
+    },
+    "faqTitle": "Domande frequenti"
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Il ridimensionamento riduce la qualità del JPG?",
+        "answer": "Cambiare dimensione modifica i pixel. Se esporti in JPEG, puoi controllare la compressione con il cursore qualità."
+      },
+      {
+        "question": "Quale qualità usare per il web?",
+        "answer": "In genere 80–90% è un ottimo compromesso tra peso e qualità visiva."
+      },
+      {
+        "question": "Posso ingrandire un JPG piccolo?",
+        "answer": "Sì, ma potrebbe diventare più morbido. Attiva \"Evita ingrandimento\" per evitare di superare la dimensione originale."
+      },
+      {
+        "question": "Questo ridimensionatore JPG è privato?",
+        "answer": "Sì. Tutto gira nel browser e le immagini non vengono caricate su un server."
+      }
+    ]
+  }
+}

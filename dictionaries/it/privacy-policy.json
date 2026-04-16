@@ -1,0 +1,139 @@
+{
+  "hero": {
+    "titlePrefix": "Informativa sulla",
+    "titleHighlight": "Privacy",
+    "description": "La tua privacy e la nostra priorita. Scopri come proteggiamo i tuoi dati e rispettiamo i tuoi diritti.",
+    "lastUpdatedLabel": "Ultimo aggiornamento",
+    "lastUpdatedDate": "15 gennaio 2025"
+  },
+  "sections": {
+    "informationWeCollect": {
+      "title": "Informazioni che raccogliamo",
+      "intro": "In PixBatch adottiamo un approccio privacy-first. Raccogliamo solo le informazioni minime necessarie:",
+      "items": [
+        {
+          "label": "Informazioni account",
+          "text": "Indirizzo email, nome utente e password (cifrata) quando crei un account."
+        },
+        {
+          "label": "Dati di utilizzo",
+          "text": "Informazioni su come utilizzi il servizio, incluse funzionalita usate e statistiche di elaborazione."
+        },
+        {
+          "label": "Informazioni dispositivo",
+          "text": "Tipo di browser, sistema operativo e indirizzo IP per sicurezza e ottimizzazione."
+        },
+        {
+          "label": "Cookie",
+          "text": "Cookie essenziali per autenticazione e preferenze. Nessun cookie di tracciamento di terze parti."
+        }
+      ]
+    },
+    "imagesPrivate": {
+      "title": "Le tue immagini sono private",
+      "promise": "Questa e la nostra promessa principale: tutta l elaborazione immagini avviene direttamente nel browser con tecnologia lato client.",
+      "items": [
+        "Le tue immagini non lasciano mai il dispositivo",
+        "Non carichiamo mai le immagini sui nostri server",
+        "Non archiviamo mai le immagini nel cloud",
+        "Non analizziamo mai il contenuto delle immagini",
+        "Non possiamo accedere alle tue immagini"
+      ],
+      "outro": "Tutto viene elaborato localmente nel browser usando API web moderne. Questo garantisce privacy e sicurezza complete per immagini sensibili."
+    },
+    "howWeUseInformation": {
+      "title": "Come usiamo le tue informazioni",
+      "intro": "Usiamo le informazioni limitate raccolte solo per i seguenti scopi:",
+      "items": [
+        "Fornire e mantenere i nostri servizi",
+        "Autenticare il tuo account e mantenerlo sicuro",
+        "Migliorare la piattaforma in base ai modelli di utilizzo",
+        "Comunicare aggiornamenti importanti del servizio",
+        "Rispondere alle richieste di supporto",
+        "Rispettare obblighi legali"
+      ],
+      "outro": "Non vendiamo mai informazioni personali a terzi. Non condividiamo i tuoi dati con inserzionisti o data broker."
+    },
+    "dataSecurity": {
+      "title": "Sicurezza dei dati",
+      "intro": "Applichiamo misure di sicurezza standard del settore per proteggere le tue informazioni:",
+      "items": [
+        "Tutta la trasmissione dati e cifrata con HTTPS/TLS",
+        "Le password sono hashate con bcrypt e salt robusto",
+        "La nostra infrastruttura segue le best practice di sicurezza",
+        "Audit e aggiornamenti di sicurezza regolari",
+        "Controlli di accesso e sistemi di monitoraggio"
+      ]
+    },
+    "yourRights": {
+      "title": "I tuoi diritti",
+      "intro": "Hai pieno controllo sulle tue informazioni personali:",
+      "items": [
+        {
+          "label": "Accesso",
+          "text": "Richiedere una copia dei tuoi dati personali"
+        },
+        {
+          "label": "Rettifica",
+          "text": "Correggere informazioni inesatte"
+        },
+        {
+          "label": "Cancellazione",
+          "text": "Richiedere la cancellazione di account e dati"
+        },
+        {
+          "label": "Portabilita",
+          "text": "Esportare i dati in un formato standard"
+        },
+        {
+          "label": "Opposizione",
+          "text": "Opporti ad alcune attivita di trattamento"
+        }
+      ],
+      "outroPrefix": "Per esercitare uno di questi diritti, contattaci a"
+    },
+    "thirdPartyServices": {
+      "title": "Servizi di terze parti",
+      "intro": "Usiamo servizi di terze parti minimi per gestire la piattaforma:",
+      "items": [
+        {
+          "label": "Hosting",
+          "text": "La nostra infrastruttura e ospitata su provider cloud sicuri"
+        },
+        {
+          "label": "Analitica",
+          "text": "Analitica orientata alla privacy per capire l uso (senza identificazione personale)"
+        },
+        {
+          "label": "Pagamenti",
+          "text": "Processori di pagamento sicuri per funzioni premium (conformi PCI-DSS)"
+        }
+      ],
+      "outro": "Questi servizi sono selezionati per pratiche di privacy e ricevono solo i dati minimi necessari."
+    },
+    "childrenPrivacy": {
+      "title": "Privacy dei minori",
+      "body": "Il nostro servizio non e rivolto a minori di 13 anni. Non raccogliamo consapevolmente dati personali da minori di 13 anni. Se sei un genitore o tutore e ritieni che tuo figlio ci abbia fornito dati personali, contattaci subito."
+    },
+    "changesToPolicy": {
+      "title": "Modifiche a questa informativa",
+      "intro": "Possiamo aggiornare questa Informativa Privacy per riflettere cambiamenti nelle pratiche o nei requisiti legali. Ti informeremo di modifiche rilevanti tramite:",
+      "items": [
+        "Pubblicazione dell informativa aggiornata in questa pagina",
+        "Aggiornamento della data Ultimo aggiornamento",
+        "Notifica via email per modifiche significative"
+      ],
+      "outro": "Ti invitiamo a rivedere periodicamente questa informativa per restare aggiornato su come proteggiamo le tue informazioni."
+    },
+    "contactUs": {
+      "title": "Contattaci",
+      "intro": "Se hai domande, dubbi o richieste su questa Informativa Privacy o sulle nostre pratiche dati, contattaci:",
+      "emailLabel": "Email",
+      "addressLabel": "Indirizzo",
+      "phoneLabel": "Telefono",
+      "email": "rohit@pixbatch.com",
+      "address": "Panchavti Road, Gorwa, Vadodara - 390016, Gujarat, India",
+      "phone": "+91 9104826422"
+    }
+  }
+}

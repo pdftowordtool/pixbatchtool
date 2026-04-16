@@ -1,0 +1,129 @@
+{
+  "breadcrumb": {
+    "home": "Startseite",
+    "compressImage": "Bild Komprimieren",
+    "compressJpg": "JPG Komprimieren"
+  },
+  "hero": {
+    "title": "Kostenloser Online",
+    "titleHighlight": "JPG Komprimierer",
+    "description": "Reduziere JPG-Dateigroesse bei guter Qualitaet. Perfekt fuer Fotos, Webbilder und digitale Inhalte."
+  },
+  "dropzone": {
+    "addMore": "Weitere JPG-Bilder hinzufuegen",
+    "orDrop": "oder JPG-Dateien ablegen",
+    "dropHere": "JPG-BILDER HIER ABLEGEN",
+    "orClick": "oder klicken, um JPG-Dateien auszuwaehlen",
+    "browse": "JPG-Dateien Auswaehlen",
+    "maxSize": "Max. 5MB pro Datei - Bis zu 10 JPG-Bilder pro Upload"
+  },
+  "qualitySettings": {
+    "title": "Qualitaetseinstellungen",
+    "default": "(Standard ist 85%)",
+    "smallerSize": "Kleinere Datei",
+    "betterQuality": "Bessere Qualitaet",
+    "description": "JPG nutzt verlustbehaftete Komprimierung. Niedrigere Qualitaet reduziert die Dateigroesse stark.",
+    "presets": {
+      "web": "Web",
+      "standard": "Standard",
+      "high": "Hoch",
+      "max": "Max"
+    }
+  },
+  "privacy": {
+    "title": "Daten und Datenschutz",
+    "p1": "Deine Bilder werden sofort verarbeitet. Originale bleiben im Browser und Ergebnisse werden direkt bereitgestellt.",
+    "p2": "Keine dauerhafte Speicherung: Serverpuffer werden nur kurz zur Verarbeitung genutzt.",
+    "p3": "Keine Analyse von Bildinhalten; nur anonyme Leistungswerte koennen aggregiert werden.",
+    "p4": "Du kannst den Tab nach Abschluss schliessen. Waehren der Verarbeitung bitte offen lassen.",
+    "notice": "Lokale Verarbeitung + temporaer serverseitig, keine Dateispeicherung.",
+    "details": "Details"
+  },
+  "status": {
+    "compressing": "Komprimierung...",
+    "errorCompressing": "Fehler bei der Bildkomprimierung",
+    "allDone": "Fertig!",
+    "imagesCompressed": "Bilder komprimiert",
+    "imageCompressed": "Bild komprimiert",
+    "settingsChanged": "Einstellungen wurden geaendert!",
+    "settingsChangedDesc": "Klicke auf Neue Einstellungen anwenden, um JPGs mit neuer Qualitaet erneut zu komprimieren."
+  },
+  "actions": {
+    "applyNewSettings": "Neue Einstellungen Anwenden",
+    "downloadZip": "ZIP Herunterladen",
+    "clearAll": "Alles Loeschen",
+    "download": "Herunterladen"
+  },
+  "summary": {
+    "title": "Komprimierungsuebersicht",
+    "spaceSaved": "Gesparter Speicher",
+    "filesProcessed": "Verarbeitete Dateien",
+    "sizeReduced": "Groessenreduktion",
+    "original": "Original",
+    "compressed": "Komprimiert",
+    "saved": "gespart"
+  },
+  "sections": {
+    "howTo": {
+      "title": "So Komprimierst Du JPG",
+      "step1Title": "JPG-Dateien Hochladen",
+      "step1Desc": "Ziehe JPEG-Dateien hierher. Mehrfach-Upload wird unterstuetzt.",
+      "step2Title": "Verlustbehaftete Ausgabe Abstimmen",
+      "step2Desc": "Reduziere die Qualitaet leicht fuer grosse Einsparungen ohne starke Artefakte.",
+      "step3Title": "Herunterladen",
+      "step3Desc": "Speichere optimierte JPGs sofort fuer Web und Social Media."
+    },
+    "makeSmaller": {
+      "title": "Mach Dein JPG Kleiner Ohne Grossen Qualitaetsverlust",
+      "card1Title": "Effiziente Komprimierung",
+      "card1Desc": "JPEG entfernt unnoetige Daten fuer kleinere Dateien bei guter Bildwirkung.",
+      "card2Title": "Schnelle Ladezeiten",
+      "card2Desc": "Leichte JPGs beschleunigen das Rendern und verbessern die Nutzererfahrung.",
+      "card3Title": "Bandbreite Sparen",
+      "card3Desc": "Kleinere Dateien bedeuten weniger Hosting-Kosten und schnellere mobile Downloads."
+    },
+    "why": {
+      "title": "Warum JPG Komprimieren?",
+      "p1": "Kleinere JPGs entfernen Metadaten und reduzieren Dateigroesse deutlich, was Ladezeiten und SEO verbessert.",
+      "tipLabel": "Tipp:",
+      "tipText": "75%-85% Qualitaet bietet oft starke Einsparung bei nahezu identischer Optik."
+    },
+    "qualityGuide": {
+      "title": "Qualitaet vs Groesse",
+      "intro": "JPG-Komprimierung ist verlustbehaftet. Du tauschst etwas Qualitaet gegen kleinere Dateien.",
+      "demoQuality": "Demo-Qualitaet",
+      "samplePhoto": "Beispiel: 2MB Foto",
+      "noSavings": "Keine Einsparung",
+      "qualityRecommendations": "Qualitaetsempfehlungen",
+      "maximumQuality": "Maximale Qualitaet",
+      "maximumQualityDesc": "Profi-Druck - Portfolio - Minimale Komprimierung",
+      "recommended": "Empfohlen",
+      "recommendedDesc": "Webfotos - Social Media - Beste Balance",
+      "highCompression": "Hohe Komprimierung",
+      "highCompressionDesc": "Thumbnails - E-Mail-Anhaenge - Schnellere Ladezeit",
+      "maxCompression": "Maximale Komprimierung",
+      "maxCompressionDesc": "Nur Vorschau - Sichtbare Artefakte - Nicht empfohlen"
+    },
+    "faqTitle": "Haeufig Gestellte Fragen"
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Wie reduziert JPG-Komprimierung die Dateigroesse?",
+        "answer": "JPG nutzt verlustbehaftete Komprimierung und entfernt weniger sichtbare Bilddaten."
+      },
+      {
+        "question": "Welcher JPG-Qualitaetswert ist fuer Websites am besten?",
+        "answer": "Fuer die meisten Seiten sind 75%-85% ein guter Kompromiss zwischen Qualitaet und Dateigroesse."
+      },
+      {
+        "question": "Hilft kleinere JPG-Dateigroesse beim SEO?",
+        "answer": "Ja. Kleinere Dateien verbessern Ladezeiten und Core Web Vitals, was SEO positiv beeinflussen kann."
+      },
+      {
+        "question": "Warum nicht PNG statt JPG verwenden?",
+        "answer": "JPG ist fuer komplexe Fotos effizienter. PNG eignet sich besser fuer Transparenz, Logos und UI."
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "hero": {
+    "titlePrefix": "Ponte en",
+    "titleHighlight": "Contacto",
+    "description": "Tienes preguntas o comentarios? Nos encantaria saber de ti. Envia un mensaje y responderemos lo antes posible."
+  },
+  "cards": {
+    "emailTitle": "Escribenos",
+    "emailValue": "rohit@pixbatch.com",
+    "phoneTitle": "Llamanos",
+    "phoneValue": "+91 9104826422",
+    "visitTitle": "Visitanos",
+    "visitValue": "Panchavti Road, Gorwa, Vadodara - 390016, Gujarat, India"
+  },
+  "form": {
+    "title": "Envianos un Mensaje",
+    "nameLabel": "Tu Nombre",
+    "namePlaceholder": "Juan Perez",
+    "emailLabel": "Correo Electronico",
+    "emailPlaceholder": "juan@ejemplo.com",
+    "subjectLabel": "Asunto",
+    "subjectPlaceholder": "Como podemos ayudarte?",
+    "messageLabel": "Mensaje",
+    "messagePlaceholder": "Cuentanos mas sobre tu consulta...",
+    "submit": "Enviar Mensaje",
+    "successAlert": "Gracias por tu mensaje. Te responderemos pronto."
+  }
+}

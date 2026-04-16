@@ -1,0 +1,215 @@
+{
+  "breadcrumb": {
+    "home": "Home",
+    "imageConverter": "Image Converter",
+    "pngConverter": "PNG Converter"
+  },
+  "hero": {
+    "title": "Free Online",
+    "titleHighlight": "PNG Converter",
+    "description": "Convert JPEG, WebP, AVIF, and other images to PNG format. Lossless quality with transparency support—everything happens in your browser."
+  },
+  "dropzone": {
+    "addMore": "Add more images",
+    "orDrop": "or drop files",
+    "dropHere": "DROP YOUR IMAGES HERE",
+    "orClick": "or click to browse files",
+    "browse": "Browse Files",
+    "supports": "Supports JPEG, WebP, AVIF, GIF, BMP • Up to 10 images"
+  },
+  "formatSettings": {
+    "title": "Target Format Settings",
+    "badgeAll": "ALL",
+    "formatSingular": "format",
+    "formatPlural": "formats",
+    "formatsSelectedSingular": "format selected",
+    "formatsSelectedPlural": "formats selected",
+    "chooseOutputFormats": "Choose Output Formats",
+    "resetToPngOnly": "Reset to PNG only",
+    "selectAllFormats": "Select All Formats",
+    "selectionInfoEachImage": "Each image will be converted to:",
+    "description": "Select one or more target formats. When multiple formats are selected, each image will be converted to all selected formats and downloaded as a ZIP file. PNG preserves transparency losslessly, WebP offers excellent compression, AVIF provides the best compression, and JPEG has universal support.",
+    "cards": {
+      "webp": {
+        "label": "WebP",
+        "subtitle": "Modern web format"
+      },
+      "avif": {
+        "label": "AVIF",
+        "subtitle": "Next-gen compression"
+      },
+      "png": {
+        "label": "PNG",
+        "subtitle": "Lossless with transparency"
+      },
+      "jpeg": {
+        "label": "JPEG",
+        "subtitle": "Universal compatibility"
+      }
+    }
+  },
+  "qualitySettings": {
+    "title": "Quality Settings",
+    "compressionQuality": "Compression Quality",
+    "smallerFile": "Smaller file",
+    "betterQuality": "Better quality",
+    "note": "Applies to WebP, AVIF, and JPEG. Higher quality = larger files. 80% recommended. PNG is always lossless."
+  },
+  "advancedSettings": {
+    "title": "Advanced Settings",
+    "badgeOptimized": "Optimized",
+    "badgeBasic": "Basic",
+    "stripMetadataLabel": "Strip metadata (EXIF, ICC) for smaller files",
+    "stripMetadataDesc": "Removing metadata can reduce file size but removes camera information, color profiles, and location data."
+  },
+  "privacy": {
+    "title": "Data & Privacy",
+    "p1": "Your images are processed entirely in your browser. No files are uploaded to any server.",
+    "p2": "All PNG conversion happens locally using JavaScript libraries. Your images never leave your device.",
+    "p3": "No analytics on image content; only anonymous aggregate performance counters may be collected for optimization.",
+    "p4": "Close the tab any time after processing completes. Your privacy is guaranteed.",
+    "notice": "All processing local + server-side transient, no files stored.",
+    "details": "Details"
+  },
+  "errors": {
+    "selectImages": "Please select image files (PNG, JPEG, WebP, AVIF, etc.)",
+    "dropImages": "Please drop image files (PNG, JPEG, WebP, AVIF, etc.)"
+  },
+  "notices": {
+    "readyToConvertLabel": "Ready to convert:",
+    "willBeConvertedTo": "will be converted to",
+    "atQuality": "at",
+    "qualitySuffix": "quality.",
+    "readyToConvertTo": "Ready to convert to"
+  },
+  "actions": {
+    "convert": "Convert",
+    "convertTo": "Convert to",
+    "formats": "Formats",
+    "more": "More",
+    "clearAll": "Clear All",
+    "downloadZip": "Download ZIP",
+    "download": "Download",
+    "downloadAll": "Download All",
+    "convertMore": "Convert",
+    "addMore": "Add more images"
+  },
+  "status": {
+    "conversionInProgress": "Conversion in Progress",
+    "allDone": "All done!",
+    "pending": "pending",
+    "waitingToConvert": "Waiting to convert...",
+    "convertingTo": "Converting to",
+    "convertedTo": "Converted to",
+    "errorConverting": "Error converting image",
+    "image": "image",
+    "images": "images"
+  },
+  "summary": {
+    "conversionSummary": "Conversion Summary",
+    "filesConverted": "Files Converted",
+    "outputFormat": "Output Format",
+    "outputFormats": "Output Formats",
+    "quality": "Quality",
+    "original": "Original",
+    "converted": "Converted"
+  },
+  "sections": {
+    "howTo": {
+      "title": "How To Convert Images to PNG",
+      "step1Title": "Feed Source Assets",
+      "step1Desc": "Drop any JPEG, WebP, or AVIF graphic into the upload zone. The client canvas deconstructs the pixel grid locally, preparing the lossless extraction engine.",
+      "step2Title": "Trigger Lossless Encoding",
+      "step2Desc": "Hit convert and the in-browser PNG encoder maps every single pixel without discarding any visual data. Alpha transparency channels are generated automatically from supported inputs.",
+      "step3Title": "Export Pixel-Perfect Files",
+      "step3Desc": "Download your newly minted PNGs one at a time or bundle the entire batch into a single ZIP archive. Zero quality degradation guaranteed.",
+      "tipLabel": "TIP:",
+      "tipText": "PNG is ideal for graphics, logos, screenshots, and images requiring transparency. For photos, consider JPEG or WebP for smaller file sizes."
+    },
+    "keyFeatures": {
+      "title": "Key Features",
+      "items": [
+        {
+          "title": "Zero-Loss Encoding",
+          "desc": "Every single pixel survives the conversion intact. No compression artifacts, no color banding, no data thrown away."
+        },
+        {
+          "title": "Alpha Channel Native",
+          "desc": "PNG carries full 8-bit transparency per pixel. Ideal for logos, icons, and layered composites."
+        },
+        {
+          "title": "Isolated Pipeline",
+          "desc": "Encoding runs entirely inside a sandboxed browser canvas. No network calls, no cloud servers involved."
+        },
+        {
+          "title": "Instant Rasterization",
+          "desc": "WebAssembly-powered codec fires within milliseconds. You see results before the progress bar finishes."
+        },
+        {
+          "title": "Batch Archiving",
+          "desc": "Convert dozens of assets at once and pack them into a single compressed ZIP download."
+        },
+        {
+          "title": "Universal Rendering",
+          "desc": "PNG is universally decoded by every browser, operating system, and print workflow in existence."
+        }
+      ]
+    },
+    "qualityGuide": {
+      "title": "Quality vs Size Guide",
+      "interactiveIntro": "Interactive demo: See how quality affects file size in real-time",
+      "demoQuality": "Demo Quality",
+      "sampleLabel": "Sample: 2MB Photo",
+      "pngLossless": "PNG (Lossless)",
+      "qualityLabel": "Quality",
+      "qualityRecommendations": "Quality Recommendations",
+      "tiers": [
+        {
+          "range": "90-100%",
+          "title": "Print Quality",
+          "desc": "Professional printing • Archival • Large files"
+        },
+        {
+          "range": "75-89%",
+          "title": "High Quality",
+          "desc": "Portfolio • Social media • Good balance"
+        },
+        {
+          "range": "60-74%",
+          "title": "Web Optimized",
+          "desc": "Websites • Fast loading • Recommended"
+        },
+        {
+          "range": "10-59%",
+          "title": "Maximum Compression",
+          "desc": "Thumbnails • Previews • Visible quality loss"
+        }
+      ]
+    },
+    "faqTitle": "Frequently Asked Questions"
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "What actually happens when I convert a JPEG to PNG?",
+        "answer": "The browser decodes your JPEG's compressed pixel data onto an invisible HTML canvas, then re-encodes those raw pixels using the PNG deflate algorithm. This means every color value from the decoded JPEG is preserved exactly in the new PNG—you'll never lose additional quality during this step."
+      },
+      {
+        "question": "Will converting to PNG make my files larger?",
+        "answer": "Often, yes. PNG uses lossless compression, which means it keeps every pixel intact instead of discarding visual data the way JPEG does. A 500KB JPEG photograph might become a 2-3MB PNG. That trade-off buys you perfect reproduction and editing flexibility."
+      },
+      {
+        "question": "Does this tool handle transparency when converting?",
+        "answer": "If your source image (like a WebP or AVIF) contains an alpha transparency channel, the PNG output will preserve it completely. Sources without transparency (like standard JPEGs) will produce a fully opaque PNG since there's no alpha data to carry over."
+      },
+      {
+        "question": "Can I convert dozens of images at once?",
+        "answer": "Yes. Drop your entire batch into the upload zone and the WebAssembly encoder will process them sequentially at full speed. Once finished, grab everything in a single ZIP download rather than clicking through files individually."
+      },
+      {
+        "question": "Are my images uploaded to any server during conversion?",
+        "answer": "Not at all. The entire PNG encoding pipeline runs inside your browser's sandboxed JavaScript runtime. Your source files never leave your device, and no network requests carry image data. Close the tab and every trace disappears."
+      }
+    ]
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "extends": "next/core-web-vitals",
+  "ignorePatterns": [
+    "app/compress-webp/layout.old.tsx"
+  ]
+}

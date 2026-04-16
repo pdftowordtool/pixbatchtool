@@ -1,0 +1,190 @@
+{
+  "breadcrumb": {
+    "home": "Home",
+    "imageResizer": "Image Resizer",
+    "resizeJpg": "Resize JPG"
+  },
+  "hero": {
+    "title": "Free Online",
+    "titleHighlight": "JPG Resizer",
+    "description": "Resize JPG/JPEG images with quality control. Perfect for photos and web images. Adjust dimensions while maintaining image quality."
+  },
+  "dropzone": {
+    "addMore": "Add more JPG images",
+    "orDrop": "or drop JPG/JPEG files",
+    "dropHere": "DROP YOUR JPG IMAGES HERE",
+    "orClick": "or click to browse JPG/JPEG files only",
+    "browse": "Browse JPG Files",
+    "maxSize": "Max 10MB per file • Up to 20 images per upload"
+  },
+  "tabs": {
+    "custom": {
+      "title": "Custom Dimensions",
+      "desc": "Set exact width & height"
+    },
+    "percentage": {
+      "title": "Percentage Scale",
+      "desc": "Scale by percentage"
+    },
+    "preset": {
+      "title": "Preset Sizes",
+      "desc": "Popular dimensions"
+    }
+  },
+  "custom": {
+    "maintainAspect": "Maintain aspect ratio (optional for exact sizing)",
+    "tipLabel": "Tip:",
+    "tipText": "Enable aspect ratio to prevent image distortion"
+  },
+  "percentage": {
+    "scale": "Scale"
+  },
+  "presets": {
+    "items": {
+      "instagramPostSquare": "Instagram Post (Square)",
+      "instagramStory": "Instagram Story",
+      "facebookPost": "Facebook Post",
+      "facebookCover": "Facebook Cover",
+      "twitterPost": "Twitter Post",
+      "twitterHeader": "Twitter Header",
+      "youtubeThumbnail": "YouTube Thumbnail",
+      "linkedinPost": "LinkedIn Post",
+      "fullHD": "Full HD"
+    }
+  },
+  "geometry": {
+    "title": "Geometry & Constraints",
+    "contain": "Contain",
+    "cover": "Cover",
+    "fill": "Fill",
+    "center": "Center",
+    "top": "Top",
+    "bottom": "Bottom",
+    "left": "Left",
+    "right": "Right",
+    "preventUpscaling": "Prevent upscaling"
+  },
+  "output": {
+    "title": "Output format",
+    "quality": "Quality",
+    "lowerSize": "Lower size",
+    "higherQuality": "Higher quality",
+    "same": "Same"
+  },
+  "advanced": {
+    "title": "Advanced Settings",
+    "badge": "Optimized",
+    "stripMetadata": "Strip metadata (EXIF, ICC) for smaller files",
+    "background": "Background",
+    "backgroundPlaceholder": "#ffffff or rgba(0,0,0,0)"
+  },
+  "resizeSummary": {
+    "title": "Resize Summary",
+    "targetSize": "Target size",
+    "filesResized": "Files resized",
+    "totalSize": "Total size",
+    "format": "Format",
+    "quality": "Quality",
+    "aspectRatio": "Aspect ratio",
+    "yes": "Yes",
+    "no": "No"
+  },
+  "notices": {
+    "startResizeHint": "Click \"Start Resize\" to resize your images.",
+    "settingsChangedHint": "Settings have changed. Click \"Start Resize\" to apply new settings to your images."
+  },
+  "actions": {
+    "startResize": "Start Resize",
+    "resetSettings": "Reset Settings",
+    "downloadZip": "Download ZIP",
+    "clearAll": "Clear All",
+    "download": "Download"
+  },
+  "status": {
+    "resizing": "Resizing...",
+    "errorResizing": "Error resizing image",
+    "allDone": "All done!",
+    "imageResized": "image resized",
+    "imagesResized": "images resized"
+  },
+  "privacy": {
+    "title": "Data & Privacy",
+    "p1": "All image resizing happens locally in your browser using HTML5 Canvas. Your images never leave your device.",
+    "p2": "No uploads to any server. No storage. No tracking of your image content.",
+    "p3": "Your privacy is 100% protected - everything runs client-side on your machine.",
+    "p4": "Close the tab anytime. Your original images remain untouched.",
+    "notice": "All processing happens in your browser, no uploads.",
+    "details": "Details"
+  },
+  "errors": {
+    "jpgOnly": "Please select JPG/JPEG files only"
+  },
+  "sections": {
+    "howTo": {
+      "title": "How To Resize JPG Image Online",
+      "step1Title": "Select JPG Photos",
+      "step1Desc": "Drop your JPG/JPEG photos into the upload area. Everything is processed locally in your browser.",
+      "step2Title": "Choose Dimensions",
+      "step2Desc": "Set exact pixel sizes, scale by percentage, or pick a preset. Use constraints to keep photos looking natural.",
+      "step3Title": "Export & Download",
+      "step3Desc": "Download resized JPGs individually or as a ZIP. Adjust quality when exporting to balance size and clarity.",
+      "tipLabel": "TIP:",
+      "tipText": "JPG is ideal for photos. Use the quality slider to balance file size and image quality. Fill mode is best for exact dimensions; use aspect ratio to avoid distortion."
+    },
+    "why": {
+      "title": "Why Resize JPG?",
+      "p1": "Resizing JPGs helps optimize photos for the web while maintaining quality. Properly sized images improve load time and Core Web Vitals, and look better on social platforms.",
+      "tipLabel": "Tip:",
+      "tipText": "Export at around 80–90% quality for a great balance of size and clarity."
+    },
+    "platform": {
+      "title": "Perfect Size for Every Platform",
+      "card1Title": "Quality Control",
+      "card1Desc": "Resize and fine-tune output quality so images stay sharp without becoming unnecessarily large.",
+      "card2Title": "Faster Pages",
+      "card2Desc": "Serving correctly sized photos improves performance and helps your pages rank better.",
+      "card3Title": "Batch Processing",
+      "card3Desc": "Resize many JPGs at once directly in the browser with no uploads."
+    },
+    "qualityGuide": {
+      "title": "Quality vs Size Guide",
+      "introPrefix": "Different output formats produce different file sizes.",
+      "introMiddle1": "offers the smallest files, followed by",
+      "introMiddle2": "and",
+      "introSuffix": "Adjust the quality slider to see how it affects file size.",
+      "demoQuality": "Demo Quality",
+      "sample": "Sample: Full HD Image (1920x1080)",
+      "noSavings": "No savings",
+      "qualityRecommendations": "Quality Recommendations",
+      "maximumQuality": "Maximum Quality",
+      "maximumQualityDesc": "Professional prints • Portfolio • Minimal compression",
+      "recommended": "Recommended",
+      "recommendedDesc": "Web images • Social media • Best balance",
+      "moderate": "Moderate",
+      "moderateDesc": "Thumbnails • Previews • Smaller file size",
+      "lowQuality": "Low Quality",
+      "lowQualityDesc": "Tiny previews • Placeholders • Not recommended"
+    },
+    "faqTitle": "Frequently Asked Questions"
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Will resizing reduce JPG quality?",
+        "answer": "Resizing changes the pixel dimensions. If you keep output as JPEG, you can control compression with the quality slider to keep images looking sharp."
+      },
+      {
+        "question": "What quality should I use for web images?",
+        "answer": "For most web use, 80–90% quality is a strong balance between file size and visual clarity."
+      },
+      {
+        "question": "Can I upscale a small JPG to a larger size?",
+        "answer": "Yes, but upscaling can make images look softer. Enable Prevent upscaling if you want to avoid enlarging beyond the original size."
+      },
+      {
+        "question": "Is this JPG resizer fully private?",
+        "answer": "Yes. Everything runs locally in your browser and your images are never uploaded to a server."
+      }
+    ]
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "hero": {
+    "titleLine1": "Tutti gli strumenti per modificare",
+    "titleHighlight": "immagini in blocco",
+    "description": "Potenti strumenti di elaborazione immagini nel browser. Tutto avviene localmente sul tuo dispositivo."
+  },
+  "tools": [
+    { "title": "Comprimi IMMAGINE", "description": "Riduci la dimensione di JPG, PNG, SVG e GIF senza perdita visibile...", "href": "/compress-image" },
+    { "title": "Ridimensiona IMMAGINE", "description": "Ridimensiona per larghezza/altezza o percentuale mantenendo proporzioni...", "href": "/image-resizer" },
+    { "title": "Ritaglia IMMAGINE", "description": "Ritaglia con precisione usando proporzioni personalizzate o predefinite...", "href": "/crop-image" },
+    { "title": "Ruota e Capovolgi IMMAGINE", "description": "Ruota di 90 gradi e capovolgi orizzontalmente o verticalmente...", "href": "/rotate-flip-image" },
+    { "title": "Converti IMMAGINE", "description": "Converti tra JPG, PNG, WebP, GIF e altri formati...", "href": "/image-converter" },
+    { "title": "Ottimizza IMMAGINE", "description": "Ottimizza automaticamente per il web con compressione intelligente...", "href": "/optimize-image" },
+    { "title": "Visualizzatore EXIF", "description": "Visualizza metadati EXIF, IPTC, XMP e GPS...", "href": "/exif-viewer" },
+    { "title": "Rimuovi EXIF", "description": "Rimuovi metadati EXIF per la privacy. Supporto batch incluso...", "href": "/remove-exif" }
+  ],
+  "howItWorks": {
+    "title": "Come funziona",
+    "subtitle": "Elaborazione semplice, veloce e sicura in tre passaggi",
+    "steps": [
+      { "title": "Carica le immagini", "description": "Trascina i file o fai clic per selezionarli. Supporto ai formati principali fino a 5MB per file." },
+      { "title": "Configura e processa", "description": "Scegli le impostazioni e processa subito nel browser." },
+      { "title": "Scarica i risultati", "description": "Scarica singolarmente o come ZIP. Risultati immediati." }
+    ],
+    "badge": "L'elaborazione avviene istantaneamente nel browser"
+  },
+  "privacy": {
+    "title": "Privacy completa by design",
+    "description": "Tutta l'elaborazione avviene localmente nel browser. Le immagini non vengono mai caricate sul server.",
+    "items": [
+      { "title": "Nessun upload richiesto", "description": "Le immagini non lasciano il tuo dispositivo. Tutto resta locale nel browser." },
+      { "title": "Funziona anche offline", "description": "Dopo il caricamento, la maggior parte degli strumenti funziona anche senza internet." },
+      { "title": "Tecnologia open source", "description": "Costruito con tecnologie web moderne e standard aperti." }
+    ],
+    "badge": "100% LATO CLIENT"
+  },
+  "faq": {
+    "title": "Domande frequenti",
+    "subtitle": "Tutto quello che devi sapere su PixBatch",
+    "items": [
+      { "question": "Le mie immagini vengono caricate su un server?", "answer": "No. PixBatch elabora le immagini localmente nel tuo browser. I file non lasciano mai il tuo dispositivo." },
+      { "question": "Quali sono i limiti di caricamento?", "answer": "Fino a 5 MB per file e fino a 10 immagini per batch (per caricamento)." },
+      { "question": "Quali formati di immagine sono supportati?", "answer": "La maggior parte degli strumenti supporta JPG/JPEG, PNG, WebP, AVIF e GIF. I formati supportati possono variare leggermente a seconda dello strumento." },
+      { "question": "Posso rimuovere EXIF/metadati prima di condividere?", "answer": "Sì. Usa lo strumento “Rimuovi EXIF” (o l’opzione “Rimuovi metadati” quando disponibile) per eliminare i metadati EXIF/ICC prima di scaricare." },
+      { "question": "PixBatch funziona offline e su mobile?", "answer": "Sì. Dopo il caricamento della pagina, la maggior parte degli strumenti può continuare a funzionare senza internet e tutto gira su browser moderni mobile e desktop. La velocità dipende dal dispositivo." }
+    ]
+  }
+}

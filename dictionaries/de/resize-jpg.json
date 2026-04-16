@@ -1,0 +1,190 @@
+{
+  "breadcrumb": {
+    "home": "Startseite",
+    "imageResizer": "Bildgrößenänderung",
+    "resizeJpg": "JPG skalieren"
+  },
+  "hero": {
+    "title": "Kostenlos online",
+    "titleHighlight": "JPG-Resizer",
+    "description": "Skaliere JPG/JPEG-Bilder mit Qualitätskontrolle. Ideal für Fotos und Webbilder. Passe Abmessungen an und erhalte eine gute Bildqualität."
+  },
+  "dropzone": {
+    "addMore": "Weitere JPG-Bilder hinzufügen",
+    "orDrop": "oder JPG/JPEG-Dateien ablegen",
+    "dropHere": "JPG-BILDER HIER ABLEGEN",
+    "orClick": "oder klicken, um nur JPG/JPEG-Dateien auszuwählen",
+    "browse": "JPG-Dateien auswählen",
+    "maxSize": "Max. 10MB pro Datei • Bis zu 20 Bilder pro Upload"
+  },
+  "tabs": {
+    "custom": {
+      "title": "Benutzerdefinierte Maße",
+      "desc": "Exakte Breite & Höhe setzen"
+    },
+    "percentage": {
+      "title": "Prozent-Skalierung",
+      "desc": "Nach Prozent skalieren"
+    },
+    "preset": {
+      "title": "Voreinstellungen",
+      "desc": "Beliebte Abmessungen"
+    }
+  },
+  "custom": {
+    "maintainAspect": "Seitenverhältnis beibehalten (optional)",
+    "tipLabel": "Tipp:",
+    "tipText": "Aktiviere das Seitenverhältnis, um Verzerrungen zu vermeiden"
+  },
+  "percentage": {
+    "scale": "Skalierung"
+  },
+  "presets": {
+    "items": {
+      "instagramPostSquare": "Instagram-Post (Quadrat)",
+      "instagramStory": "Instagram-Story",
+      "facebookPost": "Facebook-Post",
+      "facebookCover": "Facebook-Titelbild",
+      "twitterPost": "Twitter-Post",
+      "twitterHeader": "Twitter-Header",
+      "youtubeThumbnail": "YouTube-Thumbnail",
+      "linkedinPost": "LinkedIn-Post",
+      "fullHD": "Full HD"
+    }
+  },
+  "geometry": {
+    "title": "Geometrie & Limits",
+    "contain": "Einpassen",
+    "cover": "Abdecken",
+    "fill": "Füllen",
+    "center": "Zentriert",
+    "top": "Oben",
+    "bottom": "Unten",
+    "left": "Links",
+    "right": "Rechts",
+    "preventUpscaling": "Hochskalieren verhindern"
+  },
+  "output": {
+    "title": "Ausgabeformat",
+    "quality": "Qualität",
+    "lowerSize": "Kleinere Datei",
+    "higherQuality": "Bessere Qualität",
+    "same": "Gleich"
+  },
+  "advanced": {
+    "title": "Erweiterte Einstellungen",
+    "badge": "Optimiert",
+    "stripMetadata": "Metadaten (EXIF, ICC) entfernen für kleinere Dateien",
+    "background": "Hintergrund",
+    "backgroundPlaceholder": "#ffffff oder rgba(0,0,0,0)"
+  },
+  "resizeSummary": {
+    "title": "Zusammenfassung",
+    "targetSize": "Zielgröße",
+    "filesResized": "Dateien skaliert",
+    "totalSize": "Gesamtgröße",
+    "format": "Format",
+    "quality": "Qualität",
+    "aspectRatio": "Seitenverhältnis",
+    "yes": "Ja",
+    "no": "Nein"
+  },
+  "notices": {
+    "startResizeHint": "Klicke auf \"Start\", um deine Bilder zu skalieren.",
+    "settingsChangedHint": "Einstellungen geändert. Klicke auf \"Start\", um die neuen Werte anzuwenden."
+  },
+  "actions": {
+    "startResize": "Start",
+    "resetSettings": "Zurücksetzen",
+    "downloadZip": "ZIP herunterladen",
+    "clearAll": "Alles löschen",
+    "download": "Herunterladen"
+  },
+  "status": {
+    "resizing": "Skalieren...",
+    "errorResizing": "Fehler beim Skalieren",
+    "allDone": "Fertig!",
+    "imageResized": "Bild skaliert",
+    "imagesResized": "Bilder skaliert"
+  },
+  "privacy": {
+    "title": "Daten & Privatsphäre",
+    "p1": "Die Größenänderung erfolgt lokal im Browser über HTML5 Canvas. Deine Bilder verlassen dein Gerät nicht.",
+    "p2": "Keine Uploads, kein Speicher, kein Tracking des Bildinhalts.",
+    "p3": "100% privat: alles läuft clientseitig auf deinem Gerät.",
+    "p4": "Du kannst den Tab jederzeit schließen. Originale bleiben unverändert.",
+    "notice": "Alles passiert im Browser, keine Uploads.",
+    "details": "Details"
+  },
+  "errors": {
+    "jpgOnly": "Bitte nur JPG/JPEG-Dateien auswählen"
+  },
+  "sections": {
+    "howTo": {
+      "title": "JPG online skalieren",
+      "step1Title": "JPG-Fotos auswählen",
+      "step1Desc": "Lege deine JPG/JPEG-Fotos im Upload-Bereich ab. Alles wird lokal im Browser verarbeitet.",
+      "step2Title": "Maße festlegen",
+      "step2Desc": "Setze exakte Pixel, skaliere prozentual oder nutze Presets. Verwende Limits für natürliche Ergebnisse.",
+      "step3Title": "Exportieren & herunterladen",
+      "step3Desc": "Lade die skalierten JPGs einzeln oder als ZIP herunter. Passe die Qualität beim Export an.",
+      "tipLabel": "TIPP:",
+      "tipText": "JPG ist ideal für Fotos. Nutze den Qualitätsregler für ein gutes Verhältnis aus Größe und Qualität. Seitenverhältnis verhindert Verzerrungen."
+    },
+    "why": {
+      "title": "Warum JPG skalieren?",
+      "p1": "JPGs in passender Größe verbessern Ladezeiten und Core Web Vitals, ohne dass Fotos unnötig groß bleiben. Ideal für Shops, Blogs und Social Media.",
+      "tipLabel": "Tipp:",
+      "tipText": "Fürs Web sind 80–90% Qualität meist ein guter Kompromiss."
+    },
+    "platform": {
+      "title": "Perfekte Größe für jede Plattform",
+      "card1Title": "Qualitätskontrolle",
+      "card1Desc": "Skalieren und Qualität feinjustieren – scharf bleiben, ohne riesige Dateien.",
+      "card2Title": "Schnellere Seiten",
+      "card2Desc": "Korrekt dimensionierte Fotos verbessern Performance und Ranking.",
+      "card3Title": "Batch-Verarbeitung",
+      "card3Desc": "Viele JPGs gleichzeitig skalieren – direkt im Browser, ohne Upload."
+    },
+    "qualityGuide": {
+      "title": "Qualität vs. Größe",
+      "introPrefix": "Verschiedene Ausgabeformate erzeugen unterschiedliche Dateigrößen.",
+      "introMiddle1": "liefert die kleinsten Dateien, gefolgt von",
+      "introMiddle2": "und",
+      "introSuffix": "Passe die Qualität an, um den Effekt auf die Größe zu sehen.",
+      "demoQuality": "Demo-Qualität",
+      "sample": "Beispiel: Full-HD-Bild (1920x1080)",
+      "noSavings": "Keine Ersparnis",
+      "qualityRecommendations": "Empfehlungen",
+      "maximumQuality": "Maximale Qualität",
+      "maximumQualityDesc": "Profi-Druck • Portfolio • Minimale Kompression",
+      "recommended": "Empfohlen",
+      "recommendedDesc": "Webbilder • Social Media • Beste Balance",
+      "moderate": "Moderat",
+      "moderateDesc": "Thumbnails • Vorschau • Kleinere Datei",
+      "lowQuality": "Niedrige Qualität",
+      "lowQualityDesc": "Platzhalter • Sehr klein • Nicht empfohlen"
+    },
+    "faqTitle": "Häufige Fragen"
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Verliert ein JPG beim Skalieren an Qualität?",
+        "answer": "Die Größe (Pixel) ändert sich. Bei JPEG kannst du zusätzlich die Kompression über den Qualitätsregler steuern."
+      },
+      {
+        "question": "Welche Qualität ist für das Web sinnvoll?",
+        "answer": "Meist sind 80–90% ein sehr gutes Verhältnis aus Dateigröße und sichtbarer Qualität."
+      },
+      {
+        "question": "Kann ich ein kleines JPG hochskalieren?",
+        "answer": "Ja, aber es kann weicher wirken. Aktiviere Hochskalieren verhindern, um Vergrößerungen zu vermeiden."
+      },
+      {
+        "question": "Ist der JPG-Resizer privat?",
+        "answer": "Ja. Alles läuft lokal im Browser und deine Bilder werden nicht hochgeladen."
+      }
+    ]
+  }
+}

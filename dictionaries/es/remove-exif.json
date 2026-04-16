@@ -1,0 +1,130 @@
+{
+  "breadcrumb": {
+    "home": "Inicio",
+    "removeExif": "Eliminar EXIF"
+  },
+  "hero": {
+    "title": "Gratis en línea",
+    "titleHighlight": "Eliminador de EXIF",
+    "description": "Elimina los metadatos de tus fotos para proteger tu privacidad. Quita la ubicación GPS, la información de la cámara y todos los demás datos EXIF—100% de forma local en tu navegador."
+  },
+  "ui": {
+    "uploader": {
+      "dropYourImagesHere": "Suelta tus imágenes aquí",
+      "addMoreImages": "Añadir más imágenes",
+      "orClickBrowseFiles": "o haz clic para buscar archivos",
+      "supportsHint": "Compatible con JPEG, PNG, WebP • Procesamiento por lotes"
+    },
+    "processing": {
+      "processingImages": "Procesando imágenes..."
+    },
+    "imageBadges": {
+      "exifRemoved": "EXIF eliminado",
+      "noExifFound": "No se encontró EXIF"
+    },
+    "settings": {
+      "outputFormat": "Formato de salida",
+      "formats": [
+        { "id": "jpeg", "label": "JPEG", "desc": "Mejor para fotos" },
+        { "id": "png", "label": "PNG", "desc": "Calidad sin pérdida" },
+        { "id": "webp", "label": "WebP", "desc": "Formato moderno" }
+      ],
+      "quality": "Calidad",
+      "smallerFile": "Archivo más pequeño",
+      "betterQuality": "Mejor calidad"
+    },
+    "removedData": {
+      "title": "Datos que se eliminan",
+      "items": [
+        "Ubicación GPS",
+        "Información de la cámara",
+        "Miniaturas",
+        "Fecha/Hora"
+      ]
+    },
+    "summary": {
+      "totalImages": "Total de imágenes",
+      "exifRemovedFrom": "EXIF eliminado en",
+      "sizeChange": "Cambio de tamaño",
+      "imagesWord": "imágenes",
+      "downloadAll": "Descargar todo",
+      "clearAll": "Borrar todo"
+    },
+    "privacyNotice": {
+      "title": "100% privado y seguro",
+      "description": "Todo el procesamiento ocurre localmente en tu navegador. Tus imágenes nunca salen de tu dispositivo."
+    },
+    "features": {
+      "items": [
+        {
+          "title": "Protección de privacidad",
+          "description": "Elimina la ubicación GPS y datos personales antes de compartir fotos en línea."
+        },
+        {
+          "title": "Procesamiento por lotes",
+          "description": "Procesa varias imágenes a la vez. Sin límites ni esperas."
+        },
+        {
+          "title": "Totalmente offline",
+          "description": "Funciona completamente en tu navegador. No requiere subir archivos a un servidor."
+        }
+      ]
+    },
+    "howTo": {
+      "title": "Cómo eliminar metadatos EXIF de las fotos",
+      "steps": [
+        {
+          "title": "Suelta tus fotos",
+          "description": "Arrastra una o varias imágenes al cargador. Se admite el procesamiento por lotes, para que puedas quitar metadatos de una carpeta completa de una sola vez."
+        },
+        {
+          "title": "Elige un formato",
+          "description": "Selecciona JPEG, PNG o WebP para la salida. Ajusta el control de calidad si quieres archivos más pequeños — el EXIF se elimina igualmente."
+        },
+        {
+          "title": "Descarga archivos limpios",
+          "description": "Cada imagen se vuelve a codificar al instante sin metadatos. Descárgalas una por una o pulsa \"Descargar todo\" para bajar el lote completo."
+        }
+      ],
+      "tipLabel": "CONSEJO:",
+      "tipText": "Si una imagen muestra \"No se encontró EXIF\" ya estaba limpia — quizá sea una captura de pantalla, un PNG o un archivo que ya fue limpiado por una red social."
+    },
+    "why": {
+      "title": "¿Por qué eliminar metadatos EXIF / GPS?",
+      "paragraphs": [
+        "Cada foto que toma tu teléfono registra silenciosamente tus coordenadas GPS, la hora exacta y el dispositivo usado. Esos datos ocultos viajan con la imagen cuando la compartes, lo que permite que cualquiera que la descargue sepa dónde estabas y cuándo.",
+        "Eliminar el EXIF antes de subir imágenes a marketplaces, foros o blogs es un hábito sencillo de privacidad. También reduce algunos kilobytes por archivo, lo que se nota cuando publicas cientos de fotos de productos o portafolios en un sitio web."
+      ],
+      "bullets": [
+        "Elimina coordenadas GPS para que nadie pueda rastrear una foto hasta tu casa, oficina o escuela.",
+        "Borra números de serie de la cámara y marcas de tiempo que podrían vincular fotos con la misma persona.",
+        "Cumple con requisitos de GDPR y minimización de datos al publicar contenido enviado por usuarios."
+      ]
+    },
+    "faqTitle": "Preguntas frecuentes"
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "¿Qué son los datos EXIF y por qué eliminarlos?",
+        "answer": "EXIF (Exchangeable Image File Format) son metadatos incrustados en fotos con ajustes de la cámara, fecha/hora y, a menudo, ubicación GPS. Eliminarlos protege tu privacidad al compartir fotos en línea."
+      },
+      {
+        "question": "¿Qué metadatos se eliminan?",
+        "answer": "Se eliminan todos los metadatos EXIF, incluyendo: coordenadas GPS, marca/modelo de la cámara, fecha/hora de captura, información del lente, ajustes de exposición, miniaturas y cualquier otro dato incrustado."
+      },
+      {
+        "question": "¿Eliminar EXIF afecta la calidad de la imagen?",
+        "answer": "En JPEG/WebP puede haber una pérdida mínima según el ajuste de calidad. La salida PNG es sin pérdida. La diferencia visual suele ser imperceptible con 90%+ de calidad."
+      },
+      {
+        "question": "¿Mis datos están seguros?",
+        "answer": "Sí. Todo el procesamiento ocurre en tu navegador. Tus imágenes nunca se suben a ningún servidor. La eliminación de EXIF se realiza con Canvas (HTML5), que elimina naturalmente los metadatos."
+      },
+      {
+        "question": "¿Qué formatos de imagen son compatibles?",
+        "answer": "Puedes subir JPEG, PNG, WebP, GIF y la mayoría de formatos comunes. La salida se puede guardar como JPEG, PNG o WebP."
+      }
+    ]
+  }
+}
