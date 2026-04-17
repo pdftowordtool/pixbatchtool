@@ -352,8 +352,8 @@ export default function OptimizePageTranslated() {
                   <Button
                     type="button"
                     className={`bg-blue-600 hover:bg-blue-700 text-white px-6 py-2.5 text-sm font-medium cursor-pointer transition-all duration-300 ${isHovering && !isDragging
-                        ? 'scale-105 -translate-y-0.5 shadow-lg shadow-blue-500/30'
-                        : ''
+                      ? 'scale-105 -translate-y-0.5 shadow-lg shadow-blue-500/30'
+                      : ''
                       }`}
                     asChild
                   >
